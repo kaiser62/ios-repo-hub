@@ -31,15 +31,19 @@ jobs:
         run: |
           python scripts/build_repo.py
 
+      - name: Live URL Health Audit (500 Random URLs)
+        run: |
+          python scripts/test_urls.py --sample 500 --workers 30
+
       - name: Commit and Push Changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add repo.json repo.min.json repo.lite.json repo.esign.json sources.json
+          git add repo.json repo.min.json repo.lite.json repo.esign.json sources.json health.json
           if git diff --staged --quiet; then
             echo "No repository changes detected."
           else
-            git commit -m "Automated 3-hourly repo update [skip ci] ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git commit -m "Automated 3-hourly repo update & health audit [skip ci] ($(date -u +'%Y-%m-%d %H:%M UTC'))"
             git push origin main
           fi
 

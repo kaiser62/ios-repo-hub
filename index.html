@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <title>iOS Community Mega Repo</title>
-  <meta name="description" content="Unified iOS sideloading source combining 100+ AltStore, SideStore, Feather, and ESign repositories with 3-hourly automated updates.">
+  <title>iOS Community Mega Repo & Live Tester</title>
+  <meta name="description" content="Unified iOS sideloading source combining 100+ AltStore, SideStore, Feather, and ESign repositories with 3-hourly automated updates and live 500-URL health testing.">
   <meta name="theme-color" content="#0a84ff">
   <link rel="icon" href="https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png">
   <style>
@@ -17,6 +17,8 @@
       --text: #f0f6fc;
       --text-muted: #8b949e;
       --success: #30d158;
+      --warning: #ffd60a;
+      --danger: #ff453a;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, sans-serif; }
     body {
@@ -28,8 +30,8 @@
       align-items: center;
       padding: 40px 20px;
     }
-    .container { max-width: 680px; width: 100%; }
-    .header { text-align: center; margin-bottom: 32px; }
+    .container { max-width: 720px; width: 100%; }
+    .header { text-align: center; margin-bottom: 28px; }
     .logo {
       width: 88px; height: 88px; border-radius: 22px;
       box-shadow: 0 10px 30px rgba(10, 132, 255, 0.3);
@@ -77,16 +79,22 @@
       color: #79c0ff;
       word-break: break-all;
       margin-bottom: 12px;
-      display: flex; justify-content: space-between; align-items: center;
     }
-    .copy-btn {
-      background: none; border: none; color: var(--text-muted); cursor: pointer; padding: 4px;
-    }
-    .copy-btn:hover { color: var(--text); }
-    .stats-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 14px; }
+    .stats-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-top: 14px; }
     .stat-item { background: rgba(0,0,0,0.25); padding: 12px; border-radius: 10px; text-align: center; border: 1px solid var(--border); }
-    .stat-val { font-size: 20px; font-weight: 700; color: var(--accent); }
-    .stat-label { font-size: 11px; color: var(--text-muted); text-transform: uppercase; margin-top: 4px; }
+    .stat-val { font-size: 18px; font-weight: 700; color: var(--accent); }
+    .stat-label { font-size: 10px; color: var(--text-muted); text-transform: uppercase; margin-top: 4px; }
+    .health-bar-container { background: rgba(255,255,255,0.1); border-radius: 6px; height: 8px; overflow: hidden; margin-top: 10px; margin-bottom: 6px; }
+    .health-bar-fill { height: 100%; background: var(--success); width: 88%; border-radius: 6px; transition: width 0.5s; }
+    .tester-input {
+      width: 100%; padding: 12px; border-radius: 10px; border: 1px solid var(--border);
+      background: rgba(0,0,0,0.3); color: var(--text); font-size: 13px; margin-bottom: 12px;
+    }
+    .sample-list { max-height: 220px; overflow-y: auto; font-size: 12px; border: 1px solid var(--border); border-radius: 8px; background: rgba(0,0,0,0.2); }
+    .sample-row { display: flex; justify-content: space-between; padding: 8px 12px; border-bottom: 1px solid rgba(255,255,255,0.05); }
+    .sample-row:last-child { border-bottom: none; }
+    .tag-alive { color: var(--success); font-weight: 600; }
+    .tag-dead { color: var(--danger); font-weight: 600; }
     footer { text-align: center; margin-top: 24px; font-size: 13px; color: var(--text-muted); }
   </style>
 </head>
@@ -95,10 +103,49 @@
     <div class="header">
       <img src="https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png" alt="Mega Repo Logo" class="logo">
       <h1>iOS Community Mega Repo</h1>
-      <p class="subtitle">Unified, deduplicated repository combining 100+ community sources.<br>Automatically synchronized every 3 hours via GitHub Actions.</p>
+      <p class="subtitle">Unified repository combining 100+ community sources.<br>Automatically synchronized every 3 hours with live 500-URL audit.</p>
       <div class="badge">
         <span class="badge-dot"></span>
         <span id="sync-status">Auto-Sync Active (Every 3 Hours)</span>
+      </div>
+    </div>
+
+    <!-- Live Health Tester Card -->
+    <div class="card" style="border-color: rgba(10,132,255,0.3);">
+      <div class="card-title">
+        <span>🔬 Live URL Health Monitor (500 Random Samples)</span>
+        <span id="health-pct" style="color: var(--success); font-weight: 700;">88.2% Live</span>
+      </div>
+      <p class="card-desc">Every 3 hours, 500 random application download links are independently pinged and checked for uptime.</p>
+      
+      <div class="health-bar-container">
+        <div class="health-bar-fill" id="health-bar" style="width: 88.2%;"></div>
+      </div>
+
+      <div class="stats-grid">
+        <div class="stat-item">
+          <div class="stat-val" id="stat-tested">500</div>
+          <div class="stat-label">Sampled URLs</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-val" id="stat-alive" style="color: var(--success);">441</div>
+          <div class="stat-label">Live & Ready</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-val" id="stat-dead" style="color: var(--danger);">59</div>
+          <div class="stat-label">Dead / Expired</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-val" id="stat-latency">778 ms</div>
+          <div class="stat-label">Avg Latency</div>
+        </div>
+      </div>
+
+      <div style="margin-top: 16px;">
+        <div style="font-size: 13px; font-weight: 600; margin-bottom: 8px; color: var(--text-muted);">Recent Tested Samples:</div>
+        <div class="sample-list" id="sample-container">
+          <div style="padding: 12px; text-align: center; color: var(--text-muted);">Loading live samples...</div>
+        </div>
       </div>
     </div>
 
@@ -108,7 +155,7 @@
         <span>⚡ Master Repository (All Apps)</span>
         <span style="font-size: 12px; background: rgba(10,132,255,0.2); color: var(--accent); padding: 3px 8px; border-radius: 6px;">Recommended</span>
       </div>
-      <p class="card-desc">Complete deduplicated archive containing tweaked apps, emulators, utilities, and sideloading tools.</p>
+      <p class="card-desc">Complete deduplicated archive (5,600+ apps) with tweaked apps, emulators, utilities, and sideloading tools.</p>
       
       <div class="url-box">
         <span id="repo-url">https://kaiser62.github.io/ios-repo-hub/repo.json</span>
@@ -169,29 +216,8 @@
       </div>
     </div>
 
-    <!-- Metrics Card -->
-    <div class="card">
-      <div class="card-title">
-        <span>📊 Repository Metrics</span>
-      </div>
-      <div class="stats-grid">
-        <div class="stat-item">
-          <div class="stat-val" id="stat-sources">100+</div>
-          <div class="stat-label">Sources Queried</div>
-        </div>
-        <div class="stat-item">
-          <div class="stat-val" id="stat-apps">Loading...</div>
-          <div class="stat-label">Unique Apps</div>
-        </div>
-        <div class="stat-item">
-          <div class="stat-val" id="stat-interval">3 Hours</div>
-          <div class="stat-label">Auto-Sync Cycle</div>
-        </div>
-      </div>
-    </div>
-
     <footer>
-      Maintained automatically by GitHub Actions • Open Source on GitHub
+      Maintained automatically by GitHub Actions • 500 Random Live Health Checks Every 3 Hours
     </footer>
   </div>
 
@@ -202,14 +228,40 @@
       });
     }
 
-    fetch('sources.json').then(r => r.json()).then(data => {
-      if (data.totalApps) {
-        document.getElementById('stat-apps').innerText = data.totalApps.toLocaleString();
+    // Load Health and Stats
+    fetch('health.json').then(r => r.json()).then(data => {
+      if (data.alivePercentage !== undefined) {
+        document.getElementById('health-pct').innerText = data.alivePercentage + '% Live';
+        document.getElementById('health-bar').style.width = data.alivePercentage + '%';
       }
-      if (data.totalSources) {
-        document.getElementById('stat-sources').innerText = data.totalSources;
+      if (data.sampleSize) document.getElementById('stat-tested').innerText = data.sampleSize;
+      if (data.aliveCount) document.getElementById('stat-alive').innerText = data.aliveCount;
+      if (data.deadCount !== undefined) document.getElementById('stat-dead').innerText = data.deadCount;
+      if (data.avgLatencyMs) document.getElementById('stat-latency').innerText = data.avgLatencyMs + ' ms';
+
+      if (data.samples && data.samples.length > 0) {
+        const container = document.getElementById('sample-container');
+        container.innerHTML = '';
+        data.samples.slice(0, 20).forEach(s => {
+          const div = document.createElement('div');
+          div.className = 'sample-row';
+          const statusClass = s.alive ? 'tag-alive' : 'tag-dead';
+          const statusText = s.alive ? `LIVE (${s.latencyMs}ms)` : (s.error || 'FAILED');
+          div.innerHTML = `
+            <span style="font-weight: 500; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 480px;">
+              ${escapeHtml(s.name)} <span style="color: var(--text-muted); font-size: 11px;">(${escapeHtml(s.bundleIdentifier)})</span>
+            </span>
+            <span class="${statusClass}">${statusText}</span>
+          `;
+          container.appendChild(div);
+        });
       }
     }).catch(() => {});
+
+    function escapeHtml(text) {
+      const map = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' };
+      return text.replace(/[&<>"']/g, m => map[m]);
+    }
   </script>
 </body>
 </html>
