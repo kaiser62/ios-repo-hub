@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-02T14:56:49Z",
+  "updated": "2026-11-02T23:03:18Z",
   "apps": [
     {
       "name": "AnyTracker",
@@ -97,16 +97,16 @@
       "name": "BuildBox",
       "bundleIdentifier": "com.mikevillarroel.buildbox",
       "developerName": "MikeBuilds",
-      "version": "2.1.0",
+      "version": "2.1.3",
       "versionDate": "2026-11-02",
-      "versionDescription": "Catalog-first redesign (Catalog home tab, Sources as a sheet, restyled Signed tab), signing fixed (release apps open again, catalog signing no longer closes the app), Catalog refresh, Clear All logs, matching page titles; requires iOS 18+.",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BuildBox.v2.1.0.ipa",
-      "down": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BuildBox.v2.1.0.ipa",
+      "versionDescription": "• BuildBox updated to v2.1.3",
+      "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.3/BuildBox-2.1.3.ipa",
+      "down": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.3/BuildBox-2.1.3.ipa",
       "localizedDescription": "Compile Swift apps straight from your iPhone (GitHub Actions backend), then sign them on-device with your own certificate and install - the full cycle in one app. It can also import any IPA just to sign it, and inject .deb/.zip tweak packages before signing. Ships as an unsigned IPA. Free with a donate button.",
       "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/buildbox.png",
       "icon": "https://mikevillarroel.github.io/mikebuilds-source/icons/buildbox.png",
       "tintColor": "2f7cf6",
-      "size": 17956353,
+      "size": 15651369,
       "screenshotURLs": [],
       "source": "https://wuxu1.github.io/wuxu-complete.json"
     },
@@ -925,6 +925,32 @@
       "size": 174612400,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "SoundCloud++",
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "developerName": "VAXMG",
+      "version": "8.85.0",
+      "versionDate": "2026-11-02",
+      "versionDescription": "• SoundCloud updated to v8.85.0",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v8.85.0.+.NexaSC.ipa",
+      "down": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v8.85.0.+.NexaSC.ipa",
+      "localizedDescription": "Steps to unlock SoundCloud Go+ and Downloading Songs:\n\n1.) Open SoundCloud\n2.) Press and hold the Home button on the bottom-left corner of the tab bar\n3.) Tap Settings ⚙️ on the bottom\n4.) Toggle on: Unlock Plus Subscription, Download Songs\n5.) Tap the checkmark ✔️ icon on the top-right corner and click Restart Now\n\nSteps to Download Songs:\n\n1.) Play any song\n2.) Tap the orange 🟠 Download icon ⬇️ to download the song\n3.) Swipe down to exit the song\n4.) Press and hold the Home button on the bottom-left corner of the tab bar\n5.) Tap the downloaded song to play it\n6.) Swipe down to exit the song\n7.) Swipe from right-to-left on the downloaded song you want to export\n8.) Tap Save to Files, choose where you want to save the song, then tap Save",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/f9/36/22f936bd-f61d-d1e1-8227-7352688e9367/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/f9/36/22f936bd-f61d-d1e1-8227-7352688e9367/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "0a0a0a",
+      "size": 356714248,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/5c/b1/555cb18f-d974-428d-9233-e2b6d36f3694/01.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/60/69/a26069d7-2b4a-2405-5643-c7c90338de09/02.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/d7/d6/02d7d6c9-99a5-33ac-3d3b-f0c1d2980398/03.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/f6/38/37f6384f-ae80-8e83-3f2b-806fb6fd4ad2/04.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/99/25/57992551-9713-826b-99d2-698ca86e5532/05.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/44/4a/35444a3a-ccc7-b520-e536-c4f1567cf488/6_U00279.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/a2/5d/6aa25d36-12c5-6772-2bcb-4afb4bea9b60/07.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/1f/4d/c61f4d4f-567a-fc0f-4db9-7e6c197a07c2/08.jpg/320x480bb.jpg"
+      ],
+      "source": "https://wuxu1.github.io/wuxu-complete.json"
     },
     {
       "name": "Sticky Widgets",
@@ -2628,23 +2654,6 @@
       "source": "https://delvek.net/repo.json"
     },
     {
-      "name": "Yazio",
-      "bundleIdentifier": "com.yazio.ios.YAZIO",
-      "developerName": "AppTesters IPA Repo",
-      "version": "26.43.3",
-      "versionDate": "2026-11-01",
-      "versionDescription": "Release 26.43.3",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/Yazio_26.43.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/Yazio_26.43.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | AI Calorie Tracker by Yazio  • Bundle ID: com.yazio.ios.YAZIO • Updated to: 26.43.3 • Minimum iOS: 16.0 • Patched • Modifier: Subscription\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png",
-      "tintColor": "000000",
-      "size": 214006917,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "YouCut",
       "bundleIdentifier": "com.shantanu.YouCut",
       "developerName": "AppTesters IPA Repo",
@@ -3080,27 +3089,6 @@
       "source": "https://delvek.net/repo.json"
     },
     {
-      "name": "Duolingo",
-      "bundleIdentifier": "com.duolingo.DuolingoMobile",
-      "developerName": "Duolingo",
-      "version": "7.146.1",
-      "versionDate": "2026-10-31",
-      "versionDescription": "•Premium Unlocked •Minimum iOS17 •Learn a new language with Duolingo •Free app for learning 40+ languages •Practice speaking, reading, listening & writing to build your vocabulary & grammar skills",
-      "downloadURL": "https://st76471.ispot.cc/ipa/Duolingo_v7.146.1%2BPREMiUM.ipa",
-      "down": "https://st76471.ispot.cc/ipa/Duolingo_v7.146.1%2BPREMiUM.ipa",
-      "localizedDescription": "•Premium Unlocked •Minimum iOS17 •Learn a new language with Duolingo •Free app for learning 40+ languages •Practice speaking, reading, listening & writing to build your vocabulary & grammar skills",
-      "iconURL": "https://delvek.net/img/duolingo.png",
-      "icon": "https://delvek.net/img/duolingo.png",
-      "tintColor": "0,255,0",
-      "size": 212457000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/duolingo1.png",
-        "https://delvek.net/img/!/duolingo2.png",
-        "https://delvek.net/img/!/duolingo3.png"
-      ],
-      "source": "https://delvek.net/repo.json"
-    },
-    {
       "name": "Dynamic Lyrics",
       "bundleIdentifier": "com.bing.lyrics",
       "developerName": "DynamicLyrics",
@@ -3119,27 +3107,6 @@
         "https://delvek.net/img/!/dynamiclyrics2.png",
         "https://delvek.net/img/!/dynamiclyrics3.png",
         "https://delvek.net/img/!/dynamiclyrics4.png"
-      ],
-      "source": "https://delvek.net/repo.json"
-    },
-    {
-      "name": "fGet",
-      "bundleIdentifier": "com.penguinbit.fastdownload",
-      "developerName": "fGet",
-      "version": "1.7.2",
-      "versionDate": "2026-10-31",
-      "versionDescription": "•Premium Unlocked •Files Manager •Downloader •Browser •Player",
-      "downloadURL": "https://st76471.ispot.cc/ipa/fGet_FileManager%26Browser_v1.7.2%2BPREMiUM.ipa",
-      "down": "https://st76471.ispot.cc/ipa/fGet_FileManager%26Browser_v1.7.2%2BPREMiUM.ipa",
-      "localizedDescription": "•Premium Unlocked •Files Manager •Downloader •Browser •Player",
-      "iconURL": "https://delvek.net/img/fget.png",
-      "icon": "https://delvek.net/img/fget.png",
-      "tintColor": "0,255,0",
-      "size": 19516000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/fget1.png",
-        "https://delvek.net/img/!/fget2.png",
-        "https://delvek.net/img/!/fget3.png"
       ],
       "source": "https://delvek.net/repo.json"
     },
@@ -6258,23 +6225,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "QrCode",
-      "bundleIdentifier": "com.internet-rocks.codescanner",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2026.10.12",
-      "versionDate": "2026-10-29",
-      "versionDescription": "Release 2026.10.12",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/QrCode_2026.10.12_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/QrCode_2026.10.12_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | QR Code Reader，Barcode Scanner  • Bundle ID: com.internet-rocks.codescanner • Updated to: 2026.10.12 • Minimum iOS: 16.6 • Patched • Modif\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
-      "tintColor": "000000",
-      "size": 60084643,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Reading.com",
       "bundleIdentifier": "com.Teaching.com.Reading",
       "developerName": "@Sa1y0miii",
@@ -6441,23 +6391,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8654.png",
       "tintColor": "000000",
       "size": 63495020,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "SoundCloud",
-      "bundleIdentifier": "com.soundcloud.TouchApp",
-      "developerName": "@ipavault",
-      "version": "8.84.0",
-      "versionDate": "2026-10-29",
-      "versionDescription": "Release 8.84.0",
-      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1089-SoundCloud%208.84.0%20%28NexaSC%29%20%5B@ipavault%5D.ipa",
-      "down": "https://fastsign.dev/tg-ipa/ipavault/1089-SoundCloud%208.84.0%20%28NexaSC%29%20%5B@ipavault%5D.ipa",
-      "localizedDescription": "@ipavault | SoundCloud 8.84.0 (NexaSC-b4)  ▪Updated to SoundCloud 8.84.0 Steps to unlock SoundCloud Go+ and Downloading Songs:  1.) Open SoundCloud 2.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1089.png",
-      "icon": "https://fastsign.dev/tg-icon/ipavault/1089.png",
-      "tintColor": "000000",
-      "size": 227577628,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -7801,23 +7734,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8621.png",
       "tintColor": "000000",
       "size": 7145213,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Elevate",
-      "bundleIdentifier": "com.elevateapp.elevate",
-      "developerName": "AppTesters IPA Repo",
-      "version": "5.263.0",
-      "versionDate": "2026-10-27",
-      "versionDescription": "Release 5.263.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Elevate_5.263.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Elevate_5.263.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Elevate - Brain Training Games  • Bundle ID: com.elevateapp.elevate • Updated to: 5.263.0 • Minimum iOS: 17.0 • Patched • Modifier: Subscr\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
-      "tintColor": "000000",
-      "size": 429416317,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -11081,40 +10997,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "LINECamera",
-      "bundleIdentifier": "jp.naver.linecamera",
-      "developerName": "AppTesters IPA Repo",
-      "version": "18.6.2",
-      "versionDate": "2026-10-22",
-      "versionDescription": "Release 18.6.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/LINECamera_18.6.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/LINECamera_18.6.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.naver.linecamera.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.naver.linecamera.png",
-      "tintColor": "000000",
-      "size": 186199113,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Moonly",
-      "bundleIdentifier": "com.moonly.Moonly",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2.9.4",
-      "versionDate": "2026-10-22",
-      "versionDescription": "Release 2.9.4",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Moonly_2.9.4_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Moonly_2.9.4_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Pro\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png",
-      "tintColor": "000000",
-      "size": 122941418,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "NutriCoach",
       "bundleIdentifier": "nutrition.coach",
       "developerName": "AppTesters IPA Repo",
@@ -11451,23 +11333,6 @@
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "tintColor": "000000",
       "size": 293405643,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Rest",
-      "bundleIdentifier": "com.evolve.helm",
-      "developerName": "@blatants",
-      "version": "3.208.0",
-      "versionDate": "2026-10-21",
-      "versionDescription": "Release 3.208.0",
-      "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12931-Rest_Fix_Your_Sleep_For_Good_v3_208_0_Subscription_Unlocked_blatant.ipa",
-      "down": "https://fastsign.dev/tg-ipa/blatants/12931-Rest_Fix_Your_Sleep_For_Good_v3_208_0_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "@blatants | Rest: Fix Your Sleep For Good  • Bundle ID: com.evolve.helm • Updated to: 3.208.0 • Minimum iOS: 15.0 • Patched • Modifier: Subscription U\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/blatants/12931.png",
-      "icon": "https://fastsign.dev/tg-icon/blatants/12931.png",
-      "tintColor": "000000",
-      "size": 134861272,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -61000,9 +60865,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1793631409",
-      "caption": "Updated with 5631 unique sideloadable apps",
-      "date": "2026-11-02T14:56:49Z",
+      "identifier": "update-1793660598",
+      "caption": "Updated with 5632 unique sideloadable apps",
+      "date": "2026-11-02T23:03:18Z",
       "tintColor": "#007AFF"
     }
   ]
