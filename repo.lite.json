@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-02T14:22:49Z",
+  "updated": "2026-11-02T14:28:11Z",
   "apps": [
     {
       "name": "!Camera",
@@ -1226,21 +1226,25 @@
       "source": "https://delvek.net/repo.json"
     },
     {
-      "name": "AdGuardHome",
+      "name": "AdGuardHomeRemote",
       "bundleIdentifier": "adguardhome.remote.app",
       "developerName": "Community Developer",
-      "version": "5.3.2",
-      "versionDate": "2025-05-09",
-      "versionDescription": "Release 5.3.2",
-      "downloadURL": "https://files.unlimitedipa.com/ipa/Utilities/AdGuardHome/AdGuardHome_Version-5.3.2_Tweak-Pro_adguardhome.remote.app_by-UCerts.ipa",
-      "down": "https://files.unlimitedipa.com/ipa/Utilities/AdGuardHome/AdGuardHome_Version-5.3.2_Tweak-Pro_adguardhome.remote.app_by-UCerts.ipa",
-      "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi UCerts",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/58/cd/1e58cd2e-754f-97b8-38ed-7f711f67087f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/58/cd/1e58cd2e-754f-97b8-38ed-7f711f67087f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "version": "7.3",
+      "versionDate": "2026-02-02",
+      "versionDescription": "Release 7.3",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/AdGuardHomeRemote_7.3_TTJB.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/AdGuardHomeRemote_7.3_TTJB.ipa",
+      "localizedDescription": "Chức năng đã thêm: Mở khóa Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/46/23/15462327-e6af-78ce-3be9-feb5060ca5b5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/46/23/15462327-e6af-78ce-3be9-feb5060ca5b5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.png",
       "tintColor": "#007AFF",
-      "size": 18768491,
-      "screenshotURLs": [],
-      "source": "https://repo.ucerts.io"
+      "size": 32233355,
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "AdGuardPro_TS",
@@ -2662,19 +2666,23 @@
     {
       "name": "AIArtaPublic",
       "bundleIdentifier": "com.aiby.aiart",
-      "developerName": "AppTesters IPA Repo",
+      "developerName": "Community Developer",
       "version": "4.16",
-      "versionDate": "2026-07-23",
+      "versionDate": "2025-10-29",
       "versionDescription": "Release 4.16",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/AIArtaPublic_4.16_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/AIArtaPublic_4.16_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.aiart.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.aiart.png",
-      "tintColor": "000000",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/29-10-2025/AIArtaPublic_4.16_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/29-10-2025/AIArtaPublic_4.16_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.aiart.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.aiart.png",
+      "tintColor": "#007AFF",
       "size": 78761420,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "AIChat",
@@ -2764,19 +2772,23 @@
     {
       "name": "AIDA64",
       "bundleIdentifier": "com.finalwire.aida64",
-      "developerName": "AppTesters IPA Repo",
+      "developerName": "Community Developer",
       "version": "1.61",
-      "versionDate": "2026-07-23",
+      "versionDate": "2025-09-06",
       "versionDescription": "Release 1.61",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-09-2025/AIDA64_1.61_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-09-2025/AIDA64_1.61_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.finalwire.aida64.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.finalwire.aida64.png",
-      "tintColor": "000000",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/06-09-2025/AIDA64_1.61_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/06-09-2025/AIDA64_1.61_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.finalwire.aida64.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.finalwire.aida64.png",
+      "tintColor": "#007AFF",
       "size": 4925137,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Aido - Ai Photo Enhancer",
@@ -4111,27 +4123,6 @@
       "size": 0,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Andalusi - Design Photo & Video",
-      "bundleIdentifier": "com.AppChief.ArabicArt",
-      "developerName": "Andalusi",
-      "version": "10.0.6",
-      "versionDate": "2026-08-22",
-      "versionDescription": "•Premium Unlocked •Photos & Videos Editor on iOS •Design Beautifully in Arabic & English",
-      "downloadURL": "https://st76471.ispot.cc/ipa/Andalusi-DesignPhoto%26Video_v10.0.6%2BPREMiUM.ipa",
-      "down": "https://st76471.ispot.cc/ipa/Andalusi-DesignPhoto%26Video_v10.0.6%2BPREMiUM.ipa",
-      "localizedDescription": "•Premium Unlocked •Photos & Videos Editor on iOS •Design Beautifully in Arabic & English",
-      "iconURL": "https://delvek.net/img/andalusi.png",
-      "icon": "https://delvek.net/img/andalusi.png",
-      "tintColor": "0,255,0",
-      "size": 70885000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/andalusi1.png",
-        "https://delvek.net/img/!/andalusi2.png",
-        "https://delvek.net/img/!/andalusi3.png"
-      ],
-      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "AndyVolcano",
@@ -5936,6 +5927,27 @@
       "source": "https://ittza7aa.com/repo.json"
     },
     {
+      "name": "ArabicArt",
+      "bundleIdentifier": "com.AppChief.ArabicArt",
+      "developerName": "Community Developer",
+      "version": "18.8",
+      "versionDate": "2026-07-30",
+      "versionDescription": "Release 18.8",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/30-07-2026/_18.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/30-07-2026/_18.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
+      "tintColor": "#007AFF",
+      "size": 239502745,
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
+    },
+    {
       "name": "Arcana Blade",
       "bundleIdentifier": "com.superpixel.arcanablade",
       "developerName": "ipaomtk.com",
@@ -6452,15 +6464,19 @@
       "version": "2.0-2",
       "versionDate": "2025-03-21",
       "versionDescription": "Release 2.0-2",
-      "downloadURL": "https://files.unlimitedipa.com/ipa/Unknown/AssppPro/AssppPro_Version-2.0-2_Tweak-Unknown_com.hdnwbtb.uixnoe_by-UCerts.ipa",
-      "down": "https://files.unlimitedipa.com/ipa/Unknown/AssppPro/AssppPro_Version-2.0-2_Tweak-Unknown_com.hdnwbtb.uixnoe_by-UCerts.ipa",
-      "localizedDescription": "Ứng dụng giúp tải ứng dụng và IPA từ nhiều tài khoản AppleID. Có thể tải phiên bản cũ của ứng dụng. Lưu ý IPA được tải bằng ứng dụng là IPA chưa giải mã không thể cài bằng chứng chỉ. Đã thêm sửa lỗi đăng nhập. Việt Hoá bởi Hùng Anh. - IPA đã được kiểm tra và tổng hợp bởi UCerts",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
-      "icon": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/AssppPro_2.0_TTJB.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/AssppPro_2.0_TTJB.ipa",
+      "localizedDescription": "Ứng dụng giúp tải ứng dụng và IPA từ nhiều tài khoản AppleID. Có thể tải phiên bản cũ của ứng dụng. Lưu ý IPA được tải bằng ứng dụng là IPA chưa giải mã không thể cài bằng chứng chỉ. Đã thêm sửa lỗi đăng nhập. Việt Hoá bởi Hùng Anh. - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://ipa.thuthuatjb.com/view/img/AssppPro.png",
+      "icon": "https://ipa.thuthuatjb.com/view/img/AssppPro.png",
       "tintColor": "#007AFF",
       "size": 769101,
-      "screenshotURLs": [],
-      "source": "https://repo.ucerts.io"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "AsTools",
@@ -6881,19 +6897,23 @@
     {
       "name": "AudioEditor",
       "bundleIdentifier": "com.hemin.mp3editor",
-      "developerName": "AppTesters IPA Repo",
+      "developerName": "Community Developer",
       "version": "5.82",
-      "versionDate": "2026-05-21",
+      "versionDate": "2026-05-22",
       "versionDescription": "Release 5.82",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2026/AudioEditor_5.82_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2026/AudioEditor_5.82_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png",
-      "tintColor": "000000",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/22-05-2026/AudioEditor_5.82_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/22-05-2026/AudioEditor_5.82_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png",
+      "tintColor": "#007AFF",
       "size": 107093676,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "AudioLab - Audio Editor",
@@ -10378,23 +10398,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
       "tintColor": "000000",
       "size": 121448554,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Calory",
-      "bundleIdentifier": "com.funnmedia.calory",
-      "developerName": "AppTesters IPA Repo",
-      "version": "4.8.2",
-      "versionDate": "2026-05-05",
-      "versionDescription": "Release 4.8.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2026/Calory_4.8.2_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2026/Calory_4.8.2_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funnmedia.calory.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funnmedia.calory.png",
-      "tintColor": "000000",
-      "size": 327878661,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -16303,15 +16306,19 @@
       "version": "1.2-1",
       "versionDate": "2024-12-19",
       "versionDescription": "Release 1.2-1",
-      "downloadURL": "https://files.unlimitedipa.com/ipa/Unknown/DowngradeApp%20-%20TrollStore/DowngradeApp%20-%20TrollStore_Version-1.2-1_Tweak-Unknown_com.netskao.downgradeapp_by-UCerts.ipa",
-      "down": "https://files.unlimitedipa.com/ipa/Unknown/DowngradeApp%20-%20TrollStore/DowngradeApp%20-%20TrollStore_Version-1.2-1_Tweak-Unknown_com.netskao.downgradeapp_by-UCerts.ipa",
-      "localizedDescription": "Công cụ hạ cấp ứng dụng - Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi UCerts",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
-      "icon": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/DowngradeApp_1.2-1_TTJB.tipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/DowngradeApp_1.2-1_TTJB.tipa",
+      "localizedDescription": "Công cụ hạ cấp ứng dụng - Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://ipa.thuthuatjb.com/view/img/DowngradeApp.png",
+      "icon": "https://ipa.thuthuatjb.com/view/img/DowngradeApp.png",
       "tintColor": "#007AFF",
       "size": 1311321,
-      "screenshotURLs": [],
-      "source": "https://repo.ucerts.io"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "DowngradeApp_TS",
@@ -16684,23 +16691,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.darkmat13r.gestureDrawing.png",
       "tintColor": "000000",
       "size": 49863976,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "DrawIt",
-      "bundleIdentifier": "com.kwalee.drawit",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2.1.4",
-      "versionDate": "2026-06-08",
-      "versionDescription": "Release 2.1.4",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-06-2026/DrawIt_2.1.4_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-06-2026/DrawIt_2.1.4_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kwalee.drawit.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kwalee.drawit.png",
-      "tintColor": "000000",
-      "size": 152358387,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -20104,23 +20094,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "FilmCamPublic",
-      "bundleIdentifier": "filmcamera.vintagecamera.retro.cam.analog",
-      "developerName": "AppTesters IPA Repo",
-      "version": "1.0.8",
-      "versionDate": "2026-04-27",
-      "versionDescription": "Release 1.0.8",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-02-2026/FilmCamPublic_1.0.8_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-02-2026/FilmCamPublic_1.0.8_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/filmcamera.vintagecamera.retro.cam.analog.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/filmcamera.vintagecamera.retro.cam.analog.png",
-      "tintColor": "000000",
-      "size": 70141640,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Filmica",
       "bundleIdentifier": "com.2hours.Filmica",
       "developerName": "ipaomtk.com",
@@ -21745,23 +21718,6 @@
       "icon": "https://ipaomtk.com/wp-content/uploads/2026/02/Football-Rising-Star-IPA-v2.6.0-For-iOS-150x150.webp",
       "tintColor": "000000",
       "size": 0,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "ForeFlight",
-      "bundleIdentifier": "com.foreflight.ForeFlightMobile",
-      "developerName": "AppTesters IPA Repo",
-      "version": "17.7.4",
-      "versionDate": "2026-07-23",
-      "versionDescription": "Release 17.7.4",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/ForeFlight_17.7.4_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/ForeFlight_17.7.4_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.foreflight.ForeFlightMobile.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.foreflight.ForeFlightMobile.png",
-      "tintColor": "000000",
-      "size": 183468712,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -25298,23 +25254,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "HeyJapan",
-      "bundleIdentifier": "com.eup.heyjapan",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2.3.11",
-      "versionDate": "2026-04-27",
-      "versionDescription": "Release 2.3.11",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-04-2026/HeyJapan_2.3.11_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-04-2026/HeyJapan_2.3.11_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eup.heyjapan.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eup.heyjapan.png",
-      "tintColor": "000000",
-      "size": 169965110,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "hianime",
       "bundleIdentifier": "com.pyanime.anime.search",
       "developerName": "AppTesters IPA Repo",
@@ -26918,23 +26857,6 @@
       "source": "https://delvek.net/repo.json"
     },
     {
-      "name": "Illustrator",
-      "bundleIdentifier": "com.adobe.ailogo",
-      "developerName": "AppTesters IPA Repo",
-      "version": "3.0.10",
-      "versionDate": "2026-07-23",
-      "versionDescription": "Release 3.0.10",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2025/Illustrator_3.0.10_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2025/Illustrator_3.0.10_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.ailogo.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.ailogo.png",
-      "tintColor": "000000",
-      "size": 478461635,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "iLovePDF",
       "bundleIdentifier": "com.ilovepdf.www",
       "developerName": "AppTesters IPA Repo",
@@ -27186,23 +27108,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8748.png",
       "tintColor": "000000",
       "size": 144641599,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Impulse",
-      "bundleIdentifier": "gen.tech.impulse",
-      "developerName": "AppTesters IPA Repo",
-      "version": "1.48.2",
-      "versionDate": "2026-05-22",
-      "versionDescription": "Release 1.48.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2026/Impulse_1.48.2_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2026/Impulse_1.48.2_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gen.tech.impulse.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gen.tech.impulse.png",
-      "tintColor": "000000",
-      "size": 122568280,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -29071,23 +28976,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "JunoPublic",
-      "bundleIdentifier": "com.rationalmatter.junoapp",
-      "developerName": "AppTesters IPA Repo",
-      "version": "3.7.0",
-      "versionDate": "2026-07-23",
-      "versionDescription": "Release 3.7.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2025/JunoPublic_3.7.0_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2025/JunoPublic_3.7.0_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rationalmatter.junoapp.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rationalmatter.junoapp.png",
-      "tintColor": "000000",
-      "size": 198651826,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Jurassic World",
       "bundleIdentifier": "com.ludia.jurassicworld",
       "developerName": "ipaomtk.com",
@@ -29854,23 +29742,6 @@
       "icon": "https://ipaomtk.com/wp-content/uploads/2026/04/KnowDrugs-Drug-Checking-IPA-v4.6.3-For-iOS-150x150.webp",
       "tintColor": "000000",
       "size": 0,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "koala",
-      "bundleIdentifier": "com.elf-audio.koala",
-      "developerName": "AppTesters IPA Repo",
-      "version": "1.4156",
-      "versionDate": "2026-04-27",
-      "versionDescription": "Release 1.4156",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/koala_1.4156_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/koala_1.4156_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elf-audio.koala.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elf-audio.koala.png",
-      "tintColor": "000000",
-      "size": 42004404,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -33365,23 +33236,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "MD_Widgets_Live_Wallpaper_v4_3_6_Pro_Unlocked_blatant_Patched",
-      "bundleIdentifier": "tech.miidii.MDBlank",
-      "developerName": "@blatants",
-      "version": "4.3.6",
-      "versionDate": "2026-10-29",
-      "versionDescription": "Release 4.3.6",
-      "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13160-MD_Widgets_Live_Wallpaper_v4_3_6_Pro_Unlocked_blatant_Patched.ipa",
-      "down": "https://fastsign.dev/tg-ipa/blatants/13160-MD_Widgets_Live_Wallpaper_v4_3_6_Pro_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "@blatants | MD Widgets: Live Wallpaper  • Bundle ID: tech.miidii.MDBlank • Updated to: 4.3.6 • Minimum iOS: 17.0 • Patched • Modifier: Pro Unlocked •\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/blatants/13160.png",
-      "icon": "https://fastsign.dev/tg-icon/blatants/13160.png",
-      "tintColor": "000000",
-      "size": 245261473,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "MDClock",
       "bundleIdentifier": "tech.miidii.MDClock",
       "developerName": "AppTesters IPA Repo",
@@ -33604,23 +33458,6 @@
       "icon": "https://ipaomtk.com/wp-content/uploads/2023/03/Medieval-Merge-Epic-RPG-Games-150x150.jpg",
       "tintColor": "000000",
       "size": 0,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "MelonVPNPublic",
-      "bundleIdentifier": "com.vpnbottle.melon.unblock.fast.vpn",
-      "developerName": "AppTesters IPA Repo",
-      "version": "3.3.20",
-      "versionDate": "2026-07-23",
-      "versionDescription": "Release 3.3.20",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2025/MelonVPNPublic_3.3.20_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2025/MelonVPNPublic_3.3.20_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vpnbottle.melon.unblock.fast.vpn.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vpnbottle.melon.unblock.fast.vpn.png",
-      "tintColor": "000000",
-      "size": 18534637,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -33961,23 +33798,6 @@
       "icon": "https://ipaomtk.com/wp-content/uploads/2026/04/Merge-Village-Story-038-Puzzle-IPA-v1.3.02-For-iOS-150x150.webp",
       "tintColor": "000000",
       "size": 0,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "MergeCooking",
-      "bundleIdentifier": "com.merge.cooking.theme.restaurant.food",
-      "developerName": "AppTesters IPA Repo",
-      "version": "1.40.0",
-      "versionDate": "2026-05-17",
-      "versionDescription": "Release 1.40.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/MergeCooking_1.40.0_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/MergeCooking_1.40.0_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
-      "tintColor": "000000",
-      "size": 310736383,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -37804,23 +37624,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "OldRoll",
-      "bundleIdentifier": "com.zijayrate.analogcam",
-      "developerName": "AppTesters IPA Repo",
-      "version": "8.5.3",
-      "versionDate": "2026-06-01",
-      "versionDescription": "Release 8.5.3",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2026/OldRoll_8.5.3_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2026/OldRoll_8.5.3_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zijayrate.analogcam.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zijayrate.analogcam.png",
-      "tintColor": "000000",
-      "size": 191902429,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Omega Royale",
       "bundleIdentifier": "com.towerpop.omegaroyale",
       "developerName": "ipaomtk.com",
@@ -38110,23 +37913,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "OpusIPTVPublic",
-      "bundleIdentifier": "com.handy.optus",
-      "developerName": "AppTesters IPA Repo",
-      "version": "1.7.2",
-      "versionDate": "2026-07-23",
-      "versionDescription": "Release 1.7.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2025/OpusIPTVPublic_1.7.2_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2025/OpusIPTVPublic_1.7.2_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.handy.optus.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.handy.optus.png",
-      "tintColor": "000000",
-      "size": 57328682,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "OpusVpn",
       "bundleIdentifier": "com.unknown.opusvpn",
       "developerName": "Karbin-Store",
@@ -38371,15 +38157,19 @@
       "version": "1.0",
       "versionDate": "2024-09-12",
       "versionDescription": "Release 1.0",
-      "downloadURL": "https://files.unlimitedipa.com/ipa/Unknown/Osushi%20-%20TrollStore/Osushi%20-%20TrollStore_Version-1.0_Tweak-Unknown_com.straight-tamago.Osushi_by-UCerts.ipa",
-      "down": "https://files.unlimitedipa.com/ipa/Unknown/Osushi%20-%20TrollStore/Osushi%20-%20TrollStore_Version-1.0_Tweak-Unknown_com.straight-tamago.Osushi_by-UCerts.ipa",
-      "localizedDescription": "Osushi cho TrollStore là một ứng dụng cho phép thêm một Trung tâm điều khiển mới trên Màn hình chính và Màn hình khóa. Ứng dụng Osushi cũng có thể được đóng ở chế độ nền và vẫn hoạt động. - Chỉ hoạt động khi cài bằng TrollStore - IPA đã được kiểm tra và tổng hợp bởi UCerts",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
-      "icon": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Osushi_1.0_TTJB.tipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Osushi_1.0_TTJB.tipa",
+      "localizedDescription": "Osushi cho TrollStore là một ứng dụng cho phép thêm một Trung tâm điều khiển mới trên Màn hình chính và Màn hình khóa. Ứng dụng Osushi cũng có thể được đóng ở chế độ nền và vẫn hoạt động. - Chỉ hoạt động khi cài bằng TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://ipa.thuthuatjb.com/img/logo.png",
+      "icon": "https://ipa.thuthuatjb.com/img/logo.png",
       "tintColor": "#007AFF",
       "size": 549939,
-      "screenshotURLs": [],
-      "source": "https://repo.ucerts.io"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "OTADisabler",
@@ -39699,23 +39489,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "PerfectAIPublic",
-      "bundleIdentifier": "comai.redrawart.iosapp",
-      "developerName": "AppTesters IPA Repo",
-      "version": "1.1.8",
-      "versionDate": "2026-07-23",
-      "versionDescription": "Release 1.1.8",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/PerfectAIPublic_1.1.8_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/PerfectAIPublic_1.1.8_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/comai.redrawart.iosapp.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/comai.redrawart.iosapp.png",
-      "tintColor": "000000",
-      "size": 157224705,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "PeriodicTablePRO_1.124",
       "bundleIdentifier": "cypwn.PeriodicTablePRO_1.124.1.124",
       "developerName": "PeriodicTablePRO_1.124 x CyPwn",
@@ -39993,23 +39766,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "PhoneDiagnostics",
-      "bundleIdentifier": "com.diagnostics.ios",
-      "developerName": "AppTesters IPA Repo",
-      "version": "4.1.7",
-      "versionDate": "2026-07-01",
-      "versionDescription": "Release 4.1.7",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/PhoneDiagnostics_4.1.7_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/PhoneDiagnostics_4.1.7_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.diagnostics.ios.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.diagnostics.ios.png",
-      "tintColor": "000000",
-      "size": 12919012,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Photo Blend",
       "bundleIdentifier": "com.unknown.photoblend",
       "developerName": "Karbin-Store",
@@ -40173,40 +39929,6 @@
       "source": "https://delvek.net/repo.json"
     },
     {
-      "name": "PhotoCollagePublic",
-      "bundleIdentifier": "com.reezo.RezooPipCam",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2.2",
-      "versionDate": "2026-07-23",
-      "versionDescription": "Release 2.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/PhotoCollagePublic_2.2_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/PhotoCollagePublic_2.2_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.reezo.RezooPipCam.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.reezo.RezooPipCam.png",
-      "tintColor": "000000",
-      "size": 107702762,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "PhotoEditorPublic",
-      "bundleIdentifier": "com.bb.Presets",
-      "developerName": "AppTesters IPA Repo",
-      "version": "1.22.0",
-      "versionDate": "2026-07-23",
-      "versionDescription": "Release 1.22.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/PhotoEditorPublic_1.22.0_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/PhotoEditorPublic_1.22.0_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bb.Presets.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bb.Presets.png",
-      "tintColor": "000000",
-      "size": 155010326,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "PhotoEnhance",
       "bundleIdentifier": "com.aapplication.photoEnhanceApp",
       "developerName": "ipaomtk.com",
@@ -40305,23 +40027,6 @@
       "icon": "https://cdn.omnidev.org/Photo_Math_Plus_8_35_0-t7.png",
       "tintColor": "000000",
       "size": 14680064,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Photomyne",
-      "bundleIdentifier": "com.photomyne.photomyneapplite",
-      "developerName": "AppTesters IPA Repo",
-      "version": "34.0",
-      "versionDate": "2026-05-14",
-      "versionDescription": "Release 34.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2026/Photomyne_34.0_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2026/Photomyne_34.0_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photomyne.photomyneapplite.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photomyne.photomyneapplite.png",
-      "tintColor": "000000",
-      "size": 192102961,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -43691,7 +43396,7 @@
       "bundleIdentifier": "com.community.reels.maker.for.instagram",
       "developerName": "Karbin-Store",
       "version": "1.17.0",
-      "versionDate": "2026-11-02T14:22:49Z",
+      "versionDate": "2026-11-02T14:28:11Z",
       "versionDescription": "Release 1.17.0",
       "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/Reels.Maker.for.Instagram.1.17.0.ipa",
       "down": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/Reels.Maker.for.Instagram.1.17.0.ipa",
@@ -47182,23 +46887,6 @@
       "source": "https://delvek.net/repo.json"
     },
     {
-      "name": "SigStick",
-      "bundleIdentifier": "com.ooeric.SignStick1",
-      "developerName": "AppTesters IPA Repo",
-      "version": "5.32.2",
-      "versionDate": "2026-07-23",
-      "versionDescription": "Release 5.32.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-10-2025/SigStick_5.32.2_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-10-2025/SigStick_5.32.2_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ooeric.SignStick1.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ooeric.SignStick1.png",
-      "tintColor": "000000",
-      "size": 59252398,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Silt",
       "bundleIdentifier": "com.snapbreak.silt",
       "developerName": "ipaomtk.com",
@@ -47722,23 +47410,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spacegab.slideshow.png",
       "tintColor": "000000",
       "size": 121148445,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "SlideShowMakerPublic",
-      "bundleIdentifier": "com.debotoshdey.slideshow",
-      "developerName": "AppTesters IPA Repo",
-      "version": "3.0",
-      "versionDate": "2026-07-23",
-      "versionDescription": "Release 3.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/SlideShowMakerPublic_3.0_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/SlideShowMakerPublic_3.0_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.debotoshdey.slideshow.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.debotoshdey.slideshow.png",
-      "tintColor": "000000",
-      "size": 145832376,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -50724,19 +50395,23 @@
     {
       "name": "StretchingExercises",
       "bundleIdentifier": "com.abishkking.stretching",
-      "developerName": "AppTesters IPA Repo",
+      "developerName": "Community Developer",
       "version": "1.1.19",
-      "versionDate": "2026-07-06",
+      "versionDate": "2026-07-07",
       "versionDescription": "Release 1.1.19",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/StretchingExercises_1.1.19_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/StretchingExercises_1.1.19_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.stretching.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.stretching.png",
-      "tintColor": "000000",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/07-07-2026/StretchingExercises_1.1.19_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/07-07-2026/StretchingExercises_1.1.19_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.stretching.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.stretching.png",
+      "tintColor": "#007AFF",
       "size": 96138488,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Strides",
@@ -51106,23 +50781,6 @@
       "icon": "https://ipaomtk.com/wp-content/uploads/2023/08/Summoners-Greed-150x150.jpg",
       "tintColor": "000000",
       "size": 0,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "SummonersWar",
-      "bundleIdentifier": "com.com2us.smon.normal.freefull.apple.kr.ios.universal",
-      "developerName": "AppTesters IPA Repo",
-      "version": "8.8.5",
-      "versionDate": "2026-07-23",
-      "versionDescription": "Release 8.8.5",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2025/SummonersWar_8.8.5_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2025/SummonersWar_8.8.5_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.com2us.smon.normal.freefull.apple.kr.ios.universal.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.com2us.smon.normal.freefull.apple.kr.ios.universal.png",
-      "tintColor": "000000",
-      "size": 1530043717,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -54459,23 +54117,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "ToonMe",
-      "bundleIdentifier": "com.informelab.toonme",
-      "developerName": "AppTesters IPA Repo",
-      "version": "0.11.33",
-      "versionDate": "2026-04-27",
-      "versionDescription": "Release 0.11.33",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/ToonMe_0.11.33_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/ToonMe_0.11.33_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.informelab.toonme.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.informelab.toonme.png",
-      "tintColor": "000000",
-      "size": 139895459,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "ToonMe Hack",
       "bundleIdentifier": "com.unknown.toonmehack",
       "developerName": "Karbin-Store",
@@ -56075,15 +55716,19 @@
       "version": "2.3",
       "versionDate": "2024-02-17",
       "versionDescription": "Release 2.3",
-      "downloadURL": "https://files.unlimitedipa.com/ipa/Unknown/TTStore%20-%20TrollStore/TTStore%20-%20TrollStore_Version-2.3_Tweak-Unknown_com.thuthuatjb.ttapps_by-UCerts.ipa",
-      "down": "https://files.unlimitedipa.com/ipa/Unknown/TTStore%20-%20TrollStore/TTStore%20-%20TrollStore_Version-2.3_Tweak-Unknown_com.thuthuatjb.ttapps_by-UCerts.ipa",
-      "localizedDescription": "v2.3: Sửa lỗi không hiển thị trò chơi khi mở ứng dụng.\nThêm nhắc nhở nếu ứng dụng không được cài qua TrollStore hoặc lỗi.\nThay đổi nhỏ về cách hiển thị thông tin các ứng dụng, trò chơi.\nTTStore là ứng dụng giúp tải và cài đặt các ứng dụng, trò chơi từ TTJB IPA Repo, yêu cầu cài đặt với TrollStore để sử dụng - IPA đã được kiểm tra và tổng hợp bởi UCerts",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
-      "icon": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/TTApps/releases/download/2.3/TTStore_2.3.tipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/TTApps/releases/download/2.3/TTStore_2.3.tipa",
+      "localizedDescription": "v2.3: Sửa lỗi không hiển thị trò chơi khi mở ứng dụng.\nThêm nhắc nhở nếu ứng dụng không được cài qua TrollStore hoặc lỗi.\nThay đổi nhỏ về cách hiển thị thông tin các ứng dụng, trò chơi.\nTTStore là ứng dụng giúp tải và cài đặt các ứng dụng, trò chơi từ TTJB IPA Repo, yêu cầu cài đặt với TrollStore để sử dụng - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://ipa.thuthuatjb.com/img/logo.png",
+      "icon": "https://ipa.thuthuatjb.com/img/logo.png",
       "tintColor": "#007AFF",
       "size": 4318377,
-      "screenshotURLs": [],
-      "source": "https://repo.ucerts.io"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "TubeX +NoADS",
@@ -56694,15 +56339,19 @@
       "version": "2.1",
       "versionDate": "2024-09-24",
       "versionDescription": "Release 2.1",
-      "downloadURL": "https://files.unlimitedipa.com/ipa/Unknown/UiharuX%20Free%20-%20TrollStore/UiharuX%20Free%20-%20TrollStore_Version-2.1_Tweak-Unknown_com.straight-tamago.uiharux_by-UCerts.ipa",
-      "down": "https://files.unlimitedipa.com/ipa/Unknown/UiharuX%20Free%20-%20TrollStore/UiharuX%20Free%20-%20TrollStore_Version-2.1_Tweak-Unknown_com.straight-tamago.uiharux_by-UCerts.ipa",
-      "localizedDescription": "Đem lại một số tính năng thú vị cho thiết bị - Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi UCerts",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
-      "icon": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/uiharux-2.1-free_TTJB.tipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/uiharux-2.1-free_TTJB.tipa",
+      "localizedDescription": "Đem lại một số tính năng thú vị cho thiết bị - Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://ipa.thuthuatjb.com/view/img/UiharuX.png",
+      "icon": "https://ipa.thuthuatjb.com/view/img/UiharuX.png",
       "tintColor": "#007AFF",
       "size": 2038072,
-      "screenshotURLs": [],
-      "source": "https://repo.ucerts.io"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Ultimate Flight Simulator Pro",
@@ -58096,23 +57745,6 @@
       "icon": "https://ipaomtk.com/wp-content/uploads/2026/04/Videogame-Guardians-IPA-v3.1.43-For-iOS-150x150.webp",
       "tintColor": "000000",
       "size": 0,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "VideoGPTPublic",
-      "bundleIdentifier": "com.elven.video",
-      "developerName": "AppTesters IPA Repo",
-      "version": "4.7",
-      "versionDate": "2026-07-23",
-      "versionDescription": "Release 4.7",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/VideoGPTPublic_4.7_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/VideoGPTPublic_4.7_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elven.video.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elven.video.png",
-      "tintColor": "000000",
-      "size": 242326016,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -60593,23 +60225,6 @@
       "icon": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/WolframAlpha.Classic.png",
       "tintColor": "000000",
       "size": 14660000,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "womenlose",
-      "bundleIdentifier": "com.leapfitness.womenlose",
-      "developerName": "AppTesters IPA Repo",
-      "version": "1.7.3",
-      "versionDate": "2026-07-23",
-      "versionDescription": "Release 1.7.3",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/womenlose_1.7.3_IAP_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/womenlose_1.7.3_IAP_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapfitness.womenlose.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapfitness.womenlose.png",
-      "tintColor": "000000",
-      "size": 261909864,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -63804,15 +63419,19 @@
       "version": "0.1.0-beta1",
       "versionDate": "2024-03-02",
       "versionDescription": "Release 0.1.0-beta1",
-      "downloadURL": "https://files.unlimitedipa.com/ipa/Unknown/Zomigle%20-%20TrollStore/Zomigle%20-%20TrollStore_Version-0.1.0-beta1_Tweak-Unknown_xyz.hhls.Zomigle_by-UCerts.ipa",
-      "down": "https://files.unlimitedipa.com/ipa/Unknown/Zomigle%20-%20TrollStore/Zomigle%20-%20TrollStore_Version-0.1.0-beta1_Tweak-Unknown_xyz.hhls.Zomigle_by-UCerts.ipa",
-      "localizedDescription": "Cho phép ghép nối watchOS với phiên bản iOS thấp. Yêu cầu cài qua TrollStore - IPA đã được kiểm tra và tổng hợp bởi UCerts",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
-      "icon": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=HAHALOSAH/Zomigle/releases/download/0.1.0-beta1/xyz.hhls.zomigle_0.1.0-beta1.tipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=HAHALOSAH/Zomigle/releases/download/0.1.0-beta1/xyz.hhls.zomigle_0.1.0-beta1.tipa",
+      "localizedDescription": "Cho phép ghép nối watchOS với phiên bản iOS thấp. Yêu cầu cài qua TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://ipa.thuthuatjb.com/img/logo.png",
+      "icon": "https://ipa.thuthuatjb.com/img/logo.png",
       "tintColor": "#007AFF",
       "size": 22900,
-      "screenshotURLs": [],
-      "source": "https://repo.ucerts.io"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Zone X: Wasteland Survival RPG",
@@ -64451,9 +64070,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1793629369",
-      "caption": "Updated with 5627 unique sideloadable apps",
-      "date": "2026-11-02T14:22:49Z",
+      "identifier": "update-1793629691",
+      "caption": "Updated with 5631 unique sideloadable apps",
+      "date": "2026-11-02T14:28:11Z",
       "tintColor": "#007AFF"
     }
   ]
