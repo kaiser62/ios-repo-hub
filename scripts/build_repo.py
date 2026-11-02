@@ -51,6 +51,30 @@ def parse_version_tuple(v: str):
     nums = re.findall(r'\d+', str(v))
     return tuple(int(n) for n in nums) if nums else (0,)
 
+def parse_date_ts(raw_date) -> int:
+    if not raw_date:
+        return 0
+    s = str(raw_date).strip()
+    if not s or s.lower() == 'unknown':
+        return 0
+    m = re.match(r'^(\d{4})-(\d{1,2})-(\d{1,2})', s)
+    if m:
+        try:
+            year, month, day = int(m.group(1)), int(m.group(2)), int(m.group(3))
+            month = max(1, min(12, month))
+            day = max(1, min(31, day))
+            hour, minute, second = 0, 0, 0
+            tm = re.search(r'(\d{2}):(\d{2}):(\d{2})', s)
+            if tm:
+                hour, minute, second = int(tm.group(1)), int(tm.group(2)), int(tm.group(3))
+            return int(datetime(year, month, day, hour, minute, second, tzinfo=timezone.utc).timestamp())
+        except Exception:
+            pass
+    if s.isdigit() and len(s) in (10, 13):
+        ts = int(s)
+        return ts // 1000 if len(s) == 13 else ts
+    return 0
+
 def is_valid_url(u: str) -> bool:
     if not u or not isinstance(u, str):
         return False
@@ -81,7 +105,10 @@ def normalize_app(app: dict, source_url: str):
     version = str(version).strip()
 
     # Extract date
-    version_date = app.get("versionDate") or app.get("date") or datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    version_date = app.get("versionDate") or app.get("date") or ""
+    version_date = str(version_date).strip()
+    if not version_date:
+        version_date = "2020-01-01"
     
     # Extract description
     desc = app.get("localizedDescription") or app.get("description") or app.get("subtitle") or ""
@@ -191,8 +218,13 @@ def main():
                 v_old = parse_version_tuple(existing["version"])
                 if v_new > v_old:
                     apps_by_bid[bid] = app
-                elif v_new == v_old and len(app.get("localizedDescription", "")) > len(existing.get("localizedDescription", "")):
-                    apps_by_bid[bid] = app
+                elif v_new == v_old:
+                    d_new = parse_date_ts(app.get("versionDate"))
+                    d_old = parse_date_ts(existing.get("versionDate"))
+                    if d_new > d_old:
+                        apps_by_bid[bid] = app
+                    elif d_new == d_old and len(app.get("localizedDescription", "")) > len(existing.get("localizedDescription", "")):
+                        apps_by_bid[bid] = app
 
         source_stats.append({
             "url": url,
@@ -202,7 +234,8 @@ def main():
         })
 
     unique_apps = list(apps_by_bid.values())
-    unique_apps.sort(key=lambda a: a["name"].lower())
+    # Default sort: Latest versionDate first, followed alphabetically by name
+    unique_apps.sort(key=lambda a: (-parse_date_ts(a.get("versionDate")), a["name"].lower()))
 
     print(f"\nFetch Summary:")
     print(f"- Total Sources Scraped: {len(sources)}")
@@ -228,7 +261,8 @@ def main():
         elif len(lite_apps) < 400 and (app.get("screenshotURLs") or len(app.get("localizedDescription", "")) > 50):
             lite_apps.append(app)
 
-    lite_apps.sort(key=lambda a: a["name"].lower())
+    # Default sort: Latest versionDate first, followed alphabetically by name
+    lite_apps.sort(key=lambda a: (-parse_date_ts(a.get("versionDate")), a["name"].lower()))
     print(f"- Curated Lite Apps: {len(lite_apps)}")
 
     now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
