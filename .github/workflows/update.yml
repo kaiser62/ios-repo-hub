@@ -1,0 +1,56 @@
+name: Update iOS Repositories
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # Auto-update every 3 hours
+  workflow_dispatch: # Allow manual trigger anytime
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: ''
+
+      - name: Aggregate & Build Repositories
+        run: |
+          python scripts/build_repo.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add repo.json repo.min.json repo.lite.json repo.esign.json sources.json
+          if git diff --staged --quiet; then
+            echo "No repository changes detected."
+          else
+            git commit -m "Automated 3-hourly repo update [skip ci] ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push origin main
+          fi
+
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
