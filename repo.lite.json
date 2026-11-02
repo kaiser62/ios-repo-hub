@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-02T14:53:29Z",
+  "updated": "2026-11-02T14:56:49Z",
   "apps": [
     {
       "name": "AnyTracker",
@@ -61000,9 +61000,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1793631209",
+      "identifier": "update-1793631409",
       "caption": "Updated with 5631 unique sideloadable apps",
-      "date": "2026-11-02T14:53:29Z",
+      "date": "2026-11-02T14:56:49Z",
       "tintColor": "#007AFF"
     }
   ]
