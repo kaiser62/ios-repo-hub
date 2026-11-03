@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-03T16:56:09Z",
+  "updated": "2026-11-03T23:04:49Z",
   "apps": [
     {
       "name": "Delaroon",
@@ -568,6 +568,26 @@
       "size": 1423029,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Dopamine",
+      "bundleIdentifier": "com.opa334.Dopamine",
+      "developerName": "opa334",
+      "version": "3.0.13",
+      "versionDate": "2026-11-03",
+      "versionDescription": "• Dopamine updated to v3.0.13",
+      "downloadURL": "https://github.com/opa334/Dopamine/releases/download/3.0.13/Dopamine.ipa",
+      "down": "https://github.com/opa334/Dopamine/releases/download/3.0.13/Dopamine.ipa",
+      "localizedDescription": "Rootless arm64e jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64). More details will follow here soon.",
+      "iconURL": "https://external-content.duckduckgo.com/iu/?u=https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/67ffxsD.jpeg",
+      "icon": "https://external-content.duckduckgo.com/iu/?u=https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/67ffxsD.jpeg",
+      "tintColor": "0d7d65",
+      "size": 55422988,
+      "screenshotURLs": [
+        "https://ellekit.space/dopamine/assets/screenshot_one.png",
+        "https://ellekit.space/dopamine/assets/screenshot_two.png"
+      ],
+      "source": "https://wuxu1.github.io/wuxu-complete.json"
     },
     {
       "name": "DowngradeApp - TrollStore",
@@ -2794,6 +2814,50 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Desert Maps - Navigator Offline",
+      "bundleIdentifier": "desert.maps.navigator.gps",
+      "developerName": "DesertMaps",
+      "version": "2026.09.12",
+      "versionDate": "2026-11-02",
+      "versionDescription": "•Premium Unlocked •Perfect guide for all lovers of outdoor adventures, exploration & desert trips •It provides you with a reliable navigation experience without the need for an internet connection",
+      "downloadURL": "https://st76471.ispot.cc/ipa/DesertMaps-NavigatorOffline_v2026.09.12%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/DesertMaps-NavigatorOffline_v2026.09.12%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Perfect guide for all lovers of outdoor adventures, exploration & desert trips •It provides you with a reliable navigation experience without the need for an internet connection",
+      "iconURL": "https://delvek.net/img/desertmaps.png",
+      "icon": "https://delvek.net/img/desertmaps.png",
+      "tintColor": "0,255,0",
+      "size": 97235000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/desertmaps1.png",
+        "https://delvek.net/img/!/desertmaps2.png",
+        "https://delvek.net/img/!/desertmaps3.png",
+        "https://delvek.net/img/!/desertmaps4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
+      "name": "Desktop Screen Mirror",
+      "bundleIdentifier": "com.yingbin.screenmirror.ios",
+      "developerName": "DesktopScreenMirror",
+      "version": "1.3.2",
+      "versionDate": "2026-11-02",
+      "versionDescription": "•Mirror your Mac screen to iPhone •Fully local, lightning fast & completely private",
+      "downloadURL": "https://st76471.ispot.cc/ipa/DesktopScreenMirror_v1.3.2_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/DesktopScreenMirror_v1.3.2_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•Mirror your Mac screen to iPhone •Fully local, lightning fast & completely private",
+      "iconURL": "https://delvek.net/img/desktopscreenmirror.png",
+      "icon": "https://delvek.net/img/desktopscreenmirror.png",
+      "tintColor": "0,255,0",
+      "size": 8689000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/desktopscreenmirror1.png",
+        "https://delvek.net/img/!/desktopscreenmirror2.png",
+        "https://delvek.net/img/!/desktopscreenmirror3.png",
+        "https://delvek.net/img/!/desktopscreenmirror4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "DiceDreams",
       "bundleIdentifier": "com.superplaystudios.dicedreams",
       "developerName": "@kamohacks",
@@ -2843,6 +2907,28 @@
       "size": 309020145,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "DramaWave - Dramas & Reels",
+      "bundleIdentifier": "com.dramabuzz.app",
+      "developerName": "DramaWave",
+      "version": "2.0.41",
+      "versionDate": "2026-11-02",
+      "versionDescription": "•Ads Rewards Faster •Next-gen HD streaming platform offering exclusive vertical TV videos, series & movies •Dive into 30,000+ dramas across 18 languages",
+      "downloadURL": "https://st76471.ispot.cc/ipa/DramaWave_v2.0.41%2BCOiNHACK_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/DramaWave_v2.0.41%2BCOiNHACK_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•Ads Rewards Faster •Next-gen HD streaming platform offering exclusive vertical TV videos, series & movies •Dive into 30,000+ dramas across 18 languages",
+      "iconURL": "https://delvek.net/img/dramawave.png",
+      "icon": "https://delvek.net/img/dramawave.png",
+      "tintColor": "0,255,0",
+      "size": 84233000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/dramawave1.png",
+        "https://delvek.net/img/!/dramawave2.png",
+        "https://delvek.net/img/!/dramawave3.png",
+        "https://delvek.net/img/!/dramawave4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "Dune",
@@ -2913,6 +2999,50 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Flight Tracker Airplane Radar",
+      "bundleIdentifier": "flight.tracker.airplane.radar",
+      "developerName": "FlightTrackerAirplaneRadar",
+      "version": "3.7.0",
+      "versionDate": "2026-11-02",
+      "versionDescription": "•Premium Unlocked •Access precise & dependable details concerning flights operated by various global airlines •You are granted the ability to view the flight path of any airplane, along with comprehensive flight information",
+      "downloadURL": "https://st76471.ispot.cc/ipa/FlightTrackerAirplaneRadar_v3.7.0%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/FlightTrackerAirplaneRadar_v3.7.0%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Access precise & dependable details concerning flights operated by various global airlines •You are granted the ability to view the flight path of any airplane, along with comprehensive flight information",
+      "iconURL": "https://delvek.net/img/flighttrackerairplaneradar.png",
+      "icon": "https://delvek.net/img/flighttrackerairplaneradar.png",
+      "tintColor": "0,255,0",
+      "size": 42613000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/flighttrackerairplaneradar1.png",
+        "https://delvek.net/img/!/flighttrackerairplaneradar2.png",
+        "https://delvek.net/img/!/flighttrackerairplaneradar3.png",
+        "https://delvek.net/img/!/flighttrackerairplaneradar4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
+      "name": "FSave - Video, Story, Reel Saver",
+      "bundleIdentifier": "com.faver.video.fdown",
+      "developerName": "FSave",
+      "version": "1.4",
+      "versionDate": "2026-11-02",
+      "versionDescription": "•Premium Unlocked •Save supported videos from user-provided links for legitimate personal access",
+      "downloadURL": "https://st76471.ispot.cc/ipa/FSaveVideo-StoryReelSaver_v1.4%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/FSaveVideo-StoryReelSaver_v1.4%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Save supported videos from user-provided links for legitimate personal access",
+      "iconURL": "https://delvek.net/img/fsave.png",
+      "icon": "https://delvek.net/img/fsave.png",
+      "tintColor": "0,255,0",
+      "size": 14804000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/fsave1.png",
+        "https://delvek.net/img/!/fsave2.png",
+        "https://delvek.net/img/!/fsave3.png",
+        "https://delvek.net/img/!/fsave4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "Gizmo",
       "bundleIdentifier": "io.gonative.ios.xqdyad",
       "developerName": "@Sa1y0miii",
@@ -2928,6 +3058,28 @@
       "size": 74227017,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Gronk Ai - DeepGronk Ai Chat",
+      "bundleIdentifier": "com.dreamaichatbot.dreameai",
+      "developerName": "GronkAi",
+      "version": "4.0",
+      "versionDate": "2026-11-02",
+      "versionDescription": "•Premium Unlocked •Chat smarter, generate images, get instant answers & boost your workflow with one intelligent app",
+      "downloadURL": "https://st76471.ispot.cc/ipa/GronkAi-DeepGronkAiChatbot_v4.0%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/GronkAi-DeepGronkAiChatbot_v4.0%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Chat smarter, generate images, get instant answers & boost your workflow with one intelligent app",
+      "iconURL": "https://delvek.net/img/gronkai.png",
+      "icon": "https://delvek.net/img/gronkai.png",
+      "tintColor": "0,255,0",
+      "size": 19888000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/gronkai1.png",
+        "https://delvek.net/img/!/gronkai2.png",
+        "https://delvek.net/img/!/gronkai3.png",
+        "https://delvek.net/img/!/gronkai4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "Hoop Land",
@@ -2998,6 +3150,28 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Iconic - App Icon Changer",
+      "bundleIdentifier": "com.jackminehan.customicons",
+      "developerName": "Iconic",
+      "version": "2.2.2",
+      "versionDate": "2026-11-02",
+      "versionDescription": "•Premium Unlocked •Change any app on your device's home screen for something fresh while fitting in perfectly on your iPhone/iPad",
+      "downloadURL": "https://st76471.ispot.cc/ipa/Iconic-AppIconChanger_v2.2.2%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/Iconic-AppIconChanger_v2.2.2%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Change any app on your device's home screen for something fresh while fitting in perfectly on your iPhone/iPad",
+      "iconURL": "https://delvek.net/img/iconic.png",
+      "icon": "https://delvek.net/img/iconic.png",
+      "tintColor": "0,255,0",
+      "size": 149739000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/iconic1.png",
+        "https://delvek.net/img/!/iconic2.png",
+        "https://delvek.net/img/!/iconic3.png",
+        "https://delvek.net/img/!/iconic4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "Imprint",
       "bundleIdentifier": "com.polywise.weekly",
       "developerName": "@riftysIPAlibrary",
@@ -3047,6 +3221,28 @@
       "size": 62594835,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Kammelna - كملنا",
+      "bundleIdentifier": "net.peakgames.kammelna",
+      "developerName": "Kammelna",
+      "version": "3.11.0",
+      "versionDate": "2026-11-02",
+      "versionDescription": "•Premium Unlocked •Kamelna gives you the opportunity to play Baloot & Jacaro easily with players from all over the world & compete with them realistically & quickly",
+      "downloadURL": "https://st76471.ispot.cc/ipa/Kammelna-%C3%99%C2%83%C3%99%C2%85%C3%99%C2%84%C3%99%C2%86%C3%98%C2%A7_v3.11.0%2BHACKs.ipa",
+      "down": "https://st76471.ispot.cc/ipa/Kammelna-%C3%99%C2%83%C3%99%C2%85%C3%99%C2%84%C3%99%C2%86%C3%98%C2%A7_v3.11.0%2BHACKs.ipa",
+      "localizedDescription": "•Premium Unlocked •Kamelna gives you the opportunity to play Baloot & Jacaro easily with players from all over the world & compete with them realistically & quickly",
+      "iconURL": "https://delvek.net/img/kammelna.png",
+      "icon": "https://delvek.net/img/kammelna.png",
+      "tintColor": "0,255,0",
+      "size": 185323000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/kammelna1.png",
+        "https://delvek.net/img/!/kammelna2.png",
+        "https://delvek.net/img/!/kammelna3.png",
+        "https://delvek.net/img/!/kammelna4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "KineMaster",
@@ -3168,6 +3364,28 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "MediaBox - Background Remover",
+      "bundleIdentifier": "com.media-box.app",
+      "developerName": "MediaBox",
+      "version": "1.0.7",
+      "versionDate": "2026-11-02",
+      "versionDescription": "•Premium Unlocked •Photo & video processing, delivering a fast, private & distraction-free experience where a tool simply works like a tool",
+      "downloadURL": "https://st76471.ispot.cc/ipa/MediaBox-BackgroundRemover_v1.0.7%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/MediaBox-BackgroundRemover_v1.0.7%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Photo & video processing, delivering a fast, private & distraction-free experience where a tool simply works like a tool",
+      "iconURL": "https://delvek.net/img/mediabox.png",
+      "icon": "https://delvek.net/img/mediabox.png",
+      "tintColor": "0,255,0",
+      "size": 21952000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/mediabox1.png",
+        "https://delvek.net/img/!/mediabox2.png",
+        "https://delvek.net/img/!/mediabox3.png",
+        "https://delvek.net/img/!/mediabox4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "MoneyCoach",
       "bundleIdentifier": "com.duuro.moneyCoach",
       "developerName": "@riftysIPAlibrary",
@@ -3219,6 +3437,28 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Motion Blur - Photo Effect",
+      "bundleIdentifier": "studio.onepixel.motion-blur",
+      "developerName": "MotionBlur",
+      "version": "1.0.2",
+      "versionDate": "2026-11-02",
+      "versionDescription": "•Premium Unlocked •Experience the next level of photographic creativity with Motion Blur Photo Effect, a cutting-edge mobile app that redefines the art of capturing dynamic moments",
+      "downloadURL": "https://st76471.ispot.cc/ipa/MotionBlur-PhotoEffect_v1.0.2%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/MotionBlur-PhotoEffect_v1.0.2%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Experience the next level of photographic creativity with Motion Blur Photo Effect, a cutting-edge mobile app that redefines the art of capturing dynamic moments",
+      "iconURL": "https://delvek.net/img/motionblur.png",
+      "icon": "https://delvek.net/img/motionblur.png",
+      "tintColor": "0,255,0",
+      "size": 1824000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/motionblur1.png",
+        "https://delvek.net/img/!/motionblur2.png",
+        "https://delvek.net/img/!/motionblur3.png",
+        "https://delvek.net/img/!/motionblur4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "MyDex TCG",
       "bundleIdentifier": "com.albertomoral.PokedexTradingCards",
       "developerName": "@Sa1y0miii",
@@ -3234,6 +3474,28 @@
       "size": 67810623,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Offline Map - GPS Route Tracker",
+      "bundleIdentifier": "com.ikbalgis.swift.speedmaps",
+      "developerName": "GPSTrack",
+      "version": "4.0.1",
+      "versionDate": "2026-11-02",
+      "versionDescription": "•Premium Unlocked •Record where you go, find your way back & keep your maps with you even without signal",
+      "downloadURL": "https://st76471.ispot.cc/ipa/GPSTrack-OfflineMapRoute_v4.0.1%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/GPSTrack-OfflineMapRoute_v4.0.1%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Record where you go, find your way back & keep your maps with you even without signal",
+      "iconURL": "https://delvek.net/img/gpstrack.png",
+      "icon": "https://delvek.net/img/gpstrack.png",
+      "tintColor": "0,255,0",
+      "size": 25345000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/gpstrack1.png",
+        "https://delvek.net/img/!/gpstrack2.png",
+        "https://delvek.net/img/!/gpstrack3.png",
+        "https://delvek.net/img/!/gpstrack4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "One Year",
@@ -3355,6 +3617,28 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Private Photo Vault - Pic Safe",
+      "bundleIdentifier": "com.enchantedcloud.photovault",
+      "developerName": "PrivatePhotoVault",
+      "version": "26.0",
+      "versionDate": "2026-11-02",
+      "versionDescription": "•Premium Unlocked •Private Photo & Video app for iPhone/iPad",
+      "downloadURL": "https://st76471.ispot.cc/ipa/PrivatePhotoVault-PicSafe_v26.0%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/PrivatePhotoVault-PicSafe_v26.0%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Private Photo & Video app for iPhone/iPad",
+      "iconURL": "https://delvek.net/img/privatephotovault.png",
+      "icon": "https://delvek.net/img/privatephotovault.png",
+      "tintColor": "0,255,0",
+      "size": 74488000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/privatephotovault1.png",
+        "https://delvek.net/img/!/privatephotovault2.png",
+        "https://delvek.net/img/!/privatephotovault3.png",
+        "https://delvek.net/img/!/privatephotovault4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "PUSH",
       "bundleIdentifier": "com.ADPTVLTD.push",
       "developerName": "AppTesters IPA Repo",
@@ -3474,6 +3758,28 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Split Screen View",
+      "bundleIdentifier": "com.shestakova.splitscreen",
+      "developerName": "SplitScreenView",
+      "version": "2.3.0",
+      "versionDate": "2026-11-02",
+      "versionDescription": "•Premium Unlocked •Split your big screen & use it properly •Watch video & chat at the same time",
+      "downloadURL": "https://st76471.ispot.cc/ipa/SplitScreenView_v2.3.0%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/SplitScreenView_v2.3.0%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Split your big screen & use it properly •Watch video & chat at the same time",
+      "iconURL": "https://delvek.net/img/splitscreenview.png",
+      "icon": "https://delvek.net/img/splitscreenview.png",
+      "tintColor": "0,255,0",
+      "size": 7562000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/splitscreenview1.png",
+        "https://delvek.net/img/!/splitscreenview2.png",
+        "https://delvek.net/img/!/splitscreenview3.png",
+        "https://delvek.net/img/!/splitscreenview4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "Sticky Widgets",
       "bundleIdentifier": "com.tylerhillsman.Stickies",
       "developerName": "@riftysIPAlibrary",
@@ -3489,6 +3795,50 @@
       "size": 59538041,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Stitch - ScreenShots & Photos",
+      "bundleIdentifier": "yang6wolf.Stitch",
+      "developerName": "Stitch",
+      "version": "1.13.12",
+      "versionDate": "2026-11-02",
+      "versionDescription": "•Premium Unlocked •Stitch lets you capture full-screen recordings with extended duration Take screenshots & photos seamlessly",
+      "downloadURL": "https://st76471.ispot.cc/ipa/Stitch_v1.13.12%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/Stitch_v1.13.12%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Stitch lets you capture full-screen recordings with extended duration Take screenshots & photos seamlessly",
+      "iconURL": "https://delvek.net/img/stitch.png",
+      "icon": "https://delvek.net/img/stitch.png",
+      "tintColor": "0,255,0",
+      "size": 10789000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/stitch1.png",
+        "https://delvek.net/img/!/stitch2.png",
+        "https://delvek.net/img/!/stitch3.png",
+        "https://delvek.net/img/!/stitch4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
+      "name": "StoryReel - Drama Shorts & TV",
+      "bundleIdentifier": "com.storyreel.tv.ios",
+      "developerName": "StoryReel",
+      "version": "2.31.1",
+      "versionDate": "2026-11-02",
+      "versionDescription": "•Premium Unlocked •Discover emotional stories with fast-paced plots, rising suspense & memorable twists, all presented in episodes that are easy to enjoy whenever you have a moment",
+      "downloadURL": "https://st76471.ispot.cc/ipa/StoryReel-DramaShorts%26TV_v2.31.1%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/StoryReel-DramaShorts%26TV_v2.31.1%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Discover emotional stories with fast-paced plots, rising suspense & memorable twists, all presented in episodes that are easy to enjoy whenever you have a moment",
+      "iconURL": "https://delvek.net/img/storyreel.png",
+      "icon": "https://delvek.net/img/storyreel.png",
+      "tintColor": "0,255,0",
+      "size": 76215000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/storyreel1.png",
+        "https://delvek.net/img/!/storyreel2.png",
+        "https://delvek.net/img/!/storyreel3.png",
+        "https://delvek.net/img/!/storyreel4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "Stremio",
@@ -3763,6 +4113,28 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "WATCHiT - Drama & Movies",
+      "bundleIdentifier": "co.panarabmedia.watchit",
+      "developerName": "WATCHiT-Drama&Movies",
+      "version": "5.9.16",
+      "versionDate": "2026-11-02",
+      "versionDescription": "•Premium Unlocked •App for main video on-demand service for Arabic content online, with an exclusive collection of various entertainment options of movies & TV shows",
+      "downloadURL": "https://st76471.ispot.cc/ipa/WATCHiT_v5.9.16%2BNO.ADS.ipa",
+      "down": "https://st76471.ispot.cc/ipa/WATCHiT_v5.9.16%2BNO.ADS.ipa",
+      "localizedDescription": "•Premium Unlocked •App for main video on-demand service for Arabic content online, with an exclusive collection of various entertainment options of movies & TV shows",
+      "iconURL": "https://delvek.net/img/watchit.png",
+      "icon": "https://delvek.net/img/watchit.png",
+      "tintColor": "0,255,0",
+      "size": 63488000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/watchit1.png",
+        "https://delvek.net/img/!/watchit2.png",
+        "https://delvek.net/img/!/watchit3.png",
+        "https://delvek.net/img/!/watchit4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "Wishlists",
       "bundleIdentifier": "com.ckbusiness.Wishlists",
       "developerName": "@Sa1y0miii",
@@ -3780,6 +4152,28 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "WLOC - Location Changer",
+      "bundleIdentifier": "dev.wloc.controlcenter",
+      "developerName": "WLOC",
+      "version": "1.2.0",
+      "versionDate": "2026-11-02",
+      "versionDescription": "•Premium Unlocked •WLOC is a location changer for iPhone built for QA teams, developers, researchers & authorized testers",
+      "downloadURL": "https://st76471.ispot.cc/ipa/WLOC_v1.2.0_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/WLOC_v1.2.0_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•Premium Unlocked •WLOC is a location changer for iPhone built for QA teams, developers, researchers & authorized testers",
+      "iconURL": "https://delvek.net/img/wloc.png",
+      "icon": "https://delvek.net/img/wloc.png",
+      "tintColor": "0,255,0",
+      "size": 1982000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/wloc1.png",
+        "https://delvek.net/img/!/wloc2.png",
+        "https://delvek.net/img/!/wloc3.png",
+        "https://delvek.net/img/!/wloc4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "wpsoffice",
       "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
       "developerName": "AppTesters IPA Repo",
@@ -3795,6 +4189,28 @@
       "size": 325852249,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "WrapPin (CN)",
+      "bundleIdentifier": "com.suversal.wrappin",
+      "developerName": "WrapPin",
+      "version": "1.0.20",
+      "versionDate": "2026-11-02",
+      "versionDescription": "•App is in Chinese •Select, test & move the location your iPhone reports to your system on a map",
+      "downloadURL": "https://st76471.ispot.cc/ipa/WrapPin-Standard_v1.0.20_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/WrapPin-Standard_v1.0.20_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•App is in Chinese •Select, test & move the location your iPhone reports to your system on a map",
+      "iconURL": "https://delvek.net/img/wrappin.png",
+      "icon": "https://delvek.net/img/wrappin.png",
+      "tintColor": "0,255,0",
+      "size": 4967000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/wrappin1.png",
+        "https://delvek.net/img/!/wrappin2.png",
+        "https://delvek.net/img/!/wrappin3.png",
+        "https://delvek.net/img/!/wrappin4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "YouTube Music",
@@ -4078,23 +4494,6 @@
         "https://delvek.net/img/!/husk4.png"
       ],
       "source": "https://delvek.net/repo.json"
-    },
-    {
-      "name": "InShot",
-      "bundleIdentifier": "com.camerasideas.InstaShot",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2.0.2",
-      "versionDate": "2026-11-01",
-      "versionDescription": "Release 2.0.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2026/InShot_2.0.2_Premium_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2026/InShot_2.0.2_Premium_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Premium\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png",
-      "tintColor": "000000",
-      "size": 168075535,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
     },
     {
       "name": "iOS ONLY!! TwitchUnblock (v1.7.0 - Patched) - IPAVault",
@@ -6717,27 +7116,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Scanner - Air Scan Documents",
-      "bundleIdentifier": "me.imgbase.videoday",
-      "developerName": "ScannerAirScan",
-      "version": "2026.10.13",
-      "versionDate": "2026-10-31",
-      "versionDescription": "•Premium Unlocked •Easily scan, sign, edit & convert documents from anywhere—whether you're at home, in the office, or on the move",
-      "downloadURL": "https://st76471.ispot.cc/ipa/ScannerAirScanDocuments_v2026.10.13%2BPREMiUM.ipa",
-      "down": "https://st76471.ispot.cc/ipa/ScannerAirScanDocuments_v2026.10.13%2BPREMiUM.ipa",
-      "localizedDescription": "•Premium Unlocked •Easily scan, sign, edit & convert documents from anywhere—whether you're at home, in the office, or on the move",
-      "iconURL": "https://delvek.net/img/scannerairscan.png",
-      "icon": "https://delvek.net/img/scannerairscan.png",
-      "tintColor": "0,255,0",
-      "size": 144719000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/scannerairscan1.png",
-        "https://delvek.net/img/!/scannerairscan2.png",
-        "https://delvek.net/img/!/scannerairscan3.png"
-      ],
-      "source": "https://delvek.net/repo.json"
-    },
-    {
       "name": "ShadowRocket",
       "bundleIdentifier": "com.liguangming.Shadowrocket",
       "developerName": "ShadowRocket",
@@ -6793,49 +7171,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Stemz - Vocal Remover Pro",
-      "bundleIdentifier": "com.mwm.stems",
-      "developerName": "Stemz",
-      "version": "6.00.02",
-      "versionDate": "2026-10-31",
-      "versionDescription": "•Premium Unlocked •With Vocal Remover, you can effortlessly isolate vocals from any song, making it perfect for karaoke, practice, or sampling etc",
-      "downloadURL": "https://st76471.ispot.cc/ipa/Stemz-VocalAudioRemoverPro_v6.00.02%2BPREMiUM.ipa",
-      "down": "https://st76471.ispot.cc/ipa/Stemz-VocalAudioRemoverPro_v6.00.02%2BPREMiUM.ipa",
-      "localizedDescription": "•Premium Unlocked •With Vocal Remover, you can effortlessly isolate vocals from any song, making it perfect for karaoke, practice, or sampling etc",
-      "iconURL": "https://delvek.net/img/stemz.png",
-      "icon": "https://delvek.net/img/stemz.png",
-      "tintColor": "0,255,0",
-      "size": 314880000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/stemz1.png",
-        "https://delvek.net/img/!/stemz2.png",
-        "https://delvek.net/img/!/stemz3.png"
-      ],
-      "source": "https://delvek.net/repo.json"
-    },
-    {
-      "name": "Tandem - Practice Languages",
-      "bundleIdentifier": "com.tripodsocial.apps.tandem",
-      "developerName": "Tandem",
-      "version": "7.27.0",
-      "versionDate": "2026-10-31",
-      "versionDescription": "•Premium Unlocked •Learn, connect & share with 1-to-1 chats or try out parties, the ultimate group learning audio space",
-      "downloadURL": "https://st76471.ispot.cc/ipa/Tandem-PracticeLanguages_v7.27.0%2BPREMiUM.ipa",
-      "down": "https://st76471.ispot.cc/ipa/Tandem-PracticeLanguages_v7.27.0%2BPREMiUM.ipa",
-      "localizedDescription": "•Premium Unlocked •Learn, connect & share with 1-to-1 chats or try out parties, the ultimate group learning audio space",
-      "iconURL": "https://delvek.net/img/tandem.png",
-      "icon": "https://delvek.net/img/tandem.png",
-      "tintColor": "0,255,0",
-      "size": 188454000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/tandem1.png",
-        "https://delvek.net/img/!/tandem2.png",
-        "https://delvek.net/img/!/tandem3.png",
-        "https://delvek.net/img/!/tandem4.png"
-      ],
-      "source": "https://delvek.net/repo.json"
-    },
-    {
       "name": "Tappy",
       "bundleIdentifier": "cameronnazemi.Tappy",
       "developerName": "@riftysIPAlibrary",
@@ -6887,28 +7222,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "TON - Video Filters Photo Editor",
-      "bundleIdentifier": "onelight.video-editor",
-      "developerName": "TON",
-      "version": "1.16.7",
-      "versionDate": "2026-10-31",
-      "versionDescription": "•Premium Unlocked •Edit your photo & video, apply trendy filters & create unique, original content",
-      "downloadURL": "https://st76471.ispot.cc/ipa/TON-VideoFiltersPhotoEditor_v1.16.7%2BPREMiUM.ipa",
-      "down": "https://st76471.ispot.cc/ipa/TON-VideoFiltersPhotoEditor_v1.16.7%2BPREMiUM.ipa",
-      "localizedDescription": "•Premium Unlocked •Edit your photo & video, apply trendy filters & create unique, original content",
-      "iconURL": "https://delvek.net/img/ton.png",
-      "icon": "https://delvek.net/img/ton.png",
-      "tintColor": "0,255,0",
-      "size": 117133000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/ton1.png",
-        "https://delvek.net/img/!/ton2.png",
-        "https://delvek.net/img/!/ton3.png",
-        "https://delvek.net/img/!/ton4.png"
-      ],
-      "source": "https://delvek.net/repo.json"
-    },
-    {
       "name": "Tracked",
       "bundleIdentifier": "com.tracked.mobile",
       "developerName": "@Sa1y0miii",
@@ -6958,28 +7271,6 @@
       "size": 506105811,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "VSCO - Photo Editor & Presets",
-      "bundleIdentifier": "co.visualsupply.cam",
-      "developerName": "VSCO",
-      "version": "462.0.0",
-      "versionDate": "2026-10-31",
-      "versionDescription": "•Premium Unlocked •VSCO is a complete photography platform—editing tools, portfolio sites, client workflows & helps photographers with their craft, grow their network & build a photography business on their terms",
-      "downloadURL": "https://st76471.ispot.cc/ipa/VSCO-PhotoEditor_v462.0.0%2BPREMiUM.ipa",
-      "down": "https://st76471.ispot.cc/ipa/VSCO-PhotoEditor_v462.0.0%2BPREMiUM.ipa",
-      "localizedDescription": "•Premium Unlocked •VSCO is a complete photography platform—editing tools, portfolio sites, client workflows & helps photographers with their craft, grow their network & build a photography business on their terms",
-      "iconURL": "https://delvek.net/img/vsco.png",
-      "icon": "https://delvek.net/img/vsco.png",
-      "tintColor": "0,255,0",
-      "size": 208634000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/vsco1.png",
-        "https://delvek.net/img/!/vsco2.png",
-        "https://delvek.net/img/!/vsco3.png",
-        "https://delvek.net/img/!/vsco4.png"
-      ],
-      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "Wallcraft",
@@ -8359,23 +8650,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "ScannerAir",
-      "bundleIdentifier": "co.airapps.scannerapp",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2026.10.13",
-      "versionDate": "2026-10-29",
-      "versionDescription": "Release 2026.10.13",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/ScannerAir_2026.10.13_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/ScannerAir_2026.10.13_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Scanner Air - Scan Documents  • Bundle ID: co.airapps.scannerapp • Updated to: 2026.10.13 • Minimum iOS: 16.6 • Patched • Modifier: Subscr\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
-      "tintColor": "000000",
-      "size": 144901055,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "ShutEye",
       "bundleIdentifier": "health.sleep.sounds.tracker.alarm.calm",
       "developerName": "AppTesters IPA Repo",
@@ -8988,23 +9262,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "LUTStudio",
-      "bundleIdentifier": "com.solveit.lut-studio",
-      "developerName": "AppTesters IPA Repo",
-      "version": "4.1.2",
-      "versionDate": "2026-10-28",
-      "versionDescription": "Release 4.1.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/LUTStudio_4.1.2_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/LUTStudio_4.1.2_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | LUT Studio: Color Grading App  • Bundle ID: com.solveit.lut-studio • Updated to: 4.1.2 • Minimum iOS: 17.0 • Patched • Modifier: Pro Unloc\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png",
-      "tintColor": "000000",
-      "size": 141221128,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "MaxTube (2.1)",
       "bundleIdentifier": "com.google.ios.youtube.maxtube.6.0.beta.2.21.43.5",
       "developerName": "YouTube",
@@ -9052,23 +9309,6 @@
       "icon": "https://fastsign.dev/tg-icon/kamohacks/16872.png",
       "tintColor": "000000",
       "size": 733315757,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "MyFitnessPal",
-      "bundleIdentifier": "com.myfitnesspal.mfp",
-      "developerName": "AppTesters IPA Repo",
-      "version": "26.43.0",
-      "versionDate": "2026-10-28",
-      "versionDescription": "Release 26.43.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/MyFitnessPal_26.43.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/MyFitnessPal_26.43.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | MyFitnessPal: Calorie Counter  • Bundle ID: com.myfitnesspal.mfp • Updated to: 26.43.0 • Minimum iOS: 18.0 • Patched • Modifier: Subscript\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
-      "tintColor": "000000",
-      "size": 216362629,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -9498,23 +9738,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Caliber",
-      "bundleIdentifier": "com.caliberfitness.app",
-      "developerName": "AppTesters IPA Repo",
-      "version": "5.17.1",
-      "versionDate": "2026-10-27",
-      "versionDescription": "Release 5.17.1",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Caliber_5.17.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Caliber_5.17.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Caliber: Strength Training  • Bundle ID: com.caliberfitness.app • Updated to: 5.17.1 • Minimum iOS: 15.1 • Patched • Modifier: Subscriptio\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.caliberfitness.app.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.caliberfitness.app.png",
-      "tintColor": "000000",
-      "size": 49831881,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Calm",
       "bundleIdentifier": "com.calm.calmapp",
       "developerName": "AppTesters IPA Repo",
@@ -9681,23 +9904,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8622.png",
       "tintColor": "000000",
       "size": 27788781,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Notability",
-      "bundleIdentifier": "com.gingerlabs.Notability",
-      "developerName": "AppTesters IPA Repo",
-      "version": "16.13.3",
-      "versionDate": "2026-10-27",
-      "versionDescription": "Release 16.13.3",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/Notability_16.13.3_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/Notability_16.13.3_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Notability: AI Notes & Planner  • Bundle ID: com.gingerlabs.Notability • Updated to: 16.13.3 • Minimum iOS: 18.0 • Patched • Modifier: Pro\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
-      "tintColor": "000000",
-      "size": 268415341,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -12651,23 +12857,6 @@
       "icon": "https://fastsign.dev/tg-icon/sa1y0miii/14695.png",
       "tintColor": "000000",
       "size": 20305383,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Dopamine",
-      "bundleIdentifier": "com.opa334.Dopamine",
-      "developerName": "opa334",
-      "version": "3.0.12",
-      "versionDate": "2026-10-21",
-      "versionDescription": "Release 3.0.12",
-      "downloadURL": "https://github.com/opa334/Dopamine/releases/download/3.0.12/Dopamine.ipa",
-      "down": "https://github.com/opa334/Dopamine/releases/download/3.0.12/Dopamine.ipa",
-      "localizedDescription": "Rootless arm64e jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64). More details will follow here soon.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://external-content.duckduckgo.com/iu/?u=https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/67ffxsD.jpeg",
-      "icon": "https://external-content.duckduckgo.com/iu/?u=https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/67ffxsD.jpeg",
-      "tintColor": "000000",
-      "size": 55420784,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -45505,23 +45694,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Gronk",
-      "bundleIdentifier": "com.dreamaichatbot.dreameai",
-      "developerName": "ipaomtk.com",
-      "version": "4.0",
-      "versionDate": "2025-09-01",
-      "versionDescription": "Release 4.0",
-      "downloadURL": "https://file.ipaomtk.com/DeepGronk/DeepGronk-AI-Chatbot-GronkAI-IPAOMTK.com.ipa",
-      "down": "https://file.ipaomtk.com/DeepGronk/DeepGronk-AI-Chatbot-GronkAI-IPAOMTK.com.ipa",
-      "localizedDescription": "ipaomtk.com | Introduction DeepGronk AI Chatbot – GronkAI IPA MOD is one of the most exciting and entertaining applications available for iOS users wh\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/09/512x512bb-150x150.jpg",
-      "icon": "https://ipaomtk.com/wp-content/uploads/2025/09/512x512bb-150x150.jpg",
-      "tintColor": "000000",
-      "size": 0,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "peanuts",
       "bundleIdentifier": "com.activision.peanuts",
       "developerName": "ipaomtk.com",
@@ -61215,23 +61387,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Kammelna",
-      "bundleIdentifier": "net.peakgames.kammelna",
-      "developerName": "ipaomtk.com",
-      "version": "3.5.0",
-      "versionDate": "2023-02-18",
-      "versionDescription": "Release 3.5.0",
-      "downloadURL": "https://file.ipaomtk.com/Kammelna/Kammelna-IPAOMTK.COM.ipa",
-      "down": "https://file.ipaomtk.com/Kammelna/Kammelna-IPAOMTK.COM.ipa",
-      "localizedDescription": "ipaomtk.com | Kammelna IPA MOD is a new mobile app devices that is designed to entertain and challenge users with a variety of captivating and educati\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/%D9%83%D9%85%D9%84%D9%86%D8%A7-150x150.jpg",
-      "icon": "https://ipaomtk.com/wp-content/uploads/2023/02/%D9%83%D9%85%D9%84%D9%86%D8%A7-150x150.jpg",
-      "tintColor": "000000",
-      "size": 0,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "LIMBO",
       "bundleIdentifier": "com.playdeadgames.limbo.ios",
       "developerName": "ipaomtk.com",
@@ -61921,9 +62076,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1793724969",
-      "caption": "Updated with 5481 unique sideloadable apps",
-      "date": "2026-11-03T16:56:09Z",
+      "identifier": "update-1793747089",
+      "caption": "Updated with 5493 unique sideloadable apps",
+      "date": "2026-11-03T23:04:49Z",
       "tintColor": "#007AFF"
     }
   ]
