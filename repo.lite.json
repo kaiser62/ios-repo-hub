@@ -6,8 +6,25 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-03T06:05:38Z",
+  "updated": "2026-11-03T16:56:09Z",
   "apps": [
+    {
+      "name": "Delaroon",
+      "bundleIdentifier": "co.dellarune.de",
+      "developerName": "SEU",
+      "version": "1.0",
+      "versionDate": "2026-11-03T12:33:51.985Z",
+      "versionDescription": "Added from SEU HQ.",
+      "downloadURL": "https://github.com/uxp70/raw-file-website/releases/download/files/1793708749-Deltarune.ipa",
+      "down": "https://github.com/uxp70/raw-file-website/releases/download/files/1793708749-Deltarune.ipa",
+      "localizedDescription": "May be deltarune",
+      "iconURL": "https://raw.githubusercontent.com/uxp70/raw-file-website/main/uploads/IMG_3956.jpeg",
+      "icon": "https://raw.githubusercontent.com/uxp70/raw-file-website/main/uploads/IMG_3956.jpeg",
+      "tintColor": "007AFF",
+      "size": 70277266,
+      "screenshotURLs": [],
+      "source": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/SEU.json"
+    },
     {
       "name": "2 Player Games",
       "bundleIdentifier": "com.JindoBlu.TwoPlayerGamesChallengeIOS",
@@ -1267,6 +1284,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Messenger 2",
+      "bundleIdentifier": "com.facebook.Messenger2",
+      "developerName": "TTJB IPA Repo",
+      "version": "441.0.0",
+      "versionDate": "2026-11-03",
+      "versionDescription": "Release 441.0.0",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Messenger.2_441.0.0_TTJB.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Messenger.2_441.0.0_TTJB.ipa",
+      "localizedDescription": "Facebook Messenger phiên bản song song với phiên bản gốc - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/e7/a4/47e7a4d4-fb0d-9e6b-b630-2c10d37ca258/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/512x512bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/e7/a4/47e7a4d4-fb0d-9e6b-b630-2c10d37ca258/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/512x512bb.png",
+      "tintColor": "000000",
+      "size": 64749017,
+      "screenshotURLs": [],
+      "source": "https://fastsign.dev/repo.json"
+    },
+    {
       "name": "Mimo",
       "bundleIdentifier": "com.getmimo.mimo",
       "developerName": "AppTesters IPA Repo",
@@ -1399,23 +1433,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
       "tintColor": "000000",
       "size": 151085458,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Mori",
-      "bundleIdentifier": "com.mori.downloader",
-      "developerName": "OwO Source",
-      "version": "4.5.1-custom.1",
-      "versionDate": "2026-11-03",
-      "versionDescription": "Release 4.5.1-custom.1",
-      "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/Mori_4.5.1-custom.1/Mori_4.5.1-custom.1_Nothing_@repo.owo.network.ipa",
-      "down": "https://github.com/OwO-Network/Repo/releases/download/Mori_4.5.1-custom.1/Mori_4.5.1-custom.1_Nothing_@repo.owo.network.ipa",
-      "localizedDescription": "Injected with Nothing\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.mori.downloader.png",
-      "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.mori.downloader.png",
-      "tintColor": "000000",
-      "size": 2104556,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -1756,23 +1773,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.piano-app.png",
       "tintColor": "000000",
       "size": 167201589,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "PiliPlus",
-      "bundleIdentifier": "com.example.piliplus",
-      "developerName": "OwO Source",
-      "version": "2.2.0.1",
-      "versionDate": "2026-11-03",
-      "versionDescription": "Release 2.2.0.1",
-      "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/PiliPlus_2.2.0.1/PiliPlus_2.2.0.1_Nothing_@repo.owo.network.ipa",
-      "down": "https://github.com/OwO-Network/Repo/releases/download/PiliPlus_2.2.0.1/PiliPlus_2.2.0.1_Nothing_@repo.owo.network.ipa",
-      "localizedDescription": "Injected with Nothing\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.example.piliplus.png",
-      "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.example.piliplus.png",
-      "tintColor": "000000",
-      "size": 24914746,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -2242,13 +2242,13 @@
       "version": "47.6.0",
       "versionDate": "2026-11-03",
       "versionDescription": "• TikTok updated to v47.6.0\n• gtok updated to v2.5",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v47.6.0.+.gtok.v2.5.ipa",
-      "down": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v47.6.0.+.gtok.v2.5.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v47.6.0.+.gtok.v2.5.fixed.ipa",
+      "down": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v47.6.0.+.gtok.v2.5.fixed.ipa",
       "localizedDescription": "AC - An awesome tweak for TikTok!\n\nFeatures:\n\n• No Ads\n• Download Videos\n• Download Musics\n• Show/Hide UI button\n• Copy video decription\n• Copy video link\n• Copy Music link\n• Auto Play Next Video\n• Show progress bar\n• Confirm like\n• Confirm comment like\n• Confirm comment dislike\n• Confirm follow\n• Save profile image\n• Copy profile information\n• Extend bio\n• Extend comment\n• Always open in Safari\n• Changing region\n• Fake verify blue mark\n• Fake Follower count\n• Fake Following count\n• Padlock",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/70/42/50704260-89c4-2aa4-7740-4a6a621af5db/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/70/42/50704260-89c4-2aa4-7740-4a6a621af5db/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "0b0b0b",
-      "size": 521461976,
+      "size": 520080338,
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/392x696bb.png",
@@ -2607,13 +2607,13 @@
       "version": "21.44.4",
       "versionDate": "2026-11-03",
       "versionDescription": "• YouTube updated to v21.44.4",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v21.44.4.+.YTPlus.v6.0b2.ipa",
-      "down": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v21.44.4.+.YTPlus.v6.0b2.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v21.44.4.+.YTPlus.v6.0b2.fixed.ipa",
+      "down": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v21.44.4.+.YTPlus.v6.0b2.fixed.ipa",
       "localizedDescription": "Tweak preferences can be found in the YouTube Settings\n\nFeatures:\n\n• Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n• Copy video, comment, and post information\n• Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n• Player settings: Gestures, default quality, preferred audio track\n• Save, Load and Restore settings. Clear cache once or automatically on app startup\n• Built-in SponsorBlock\n• And much, much more",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/43/35/8e43350e-2dad-ac27-13d4-71eac741cf80/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/43/35/8e43350e-2dad-ac27-13d4-71eac741cf80/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "f90505",
-      "size": 161789782,
+      "size": 153444491,
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -3474,23 +3474,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "SnoreLab",
-      "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
-      "developerName": "AppTesters IPA Repo",
-      "version": "6.5.2",
-      "versionDate": "2026-11-02",
-      "versionDescription": "Release 6.5.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/SnoreLab_6.5.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/SnoreLab_6.5.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | SnoreLab : Record Your Snoring  • Bundle ID: com.revivasoftworks.Snore-Lab • Updated to: 6.5.2 • Minimum iOS: 17.0 • Patched • Modifier: S\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png",
-      "tintColor": "000000",
-      "size": 174612400,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Sticky Widgets",
       "bundleIdentifier": "com.tylerhillsman.Stickies",
       "developerName": "@riftysIPAlibrary",
@@ -4325,6 +4308,23 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8730.png",
       "tintColor": "000000",
       "size": 63368223,
+      "screenshotURLs": [],
+      "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "MyTimetablePremium",
+      "bundleIdentifier": "fr.adriencarvalot.Timetable",
+      "developerName": "Neoncat-OG IPA Library",
+      "version": "2.6.4",
+      "versionDate": "2026-11-01",
+      "versionDescription": "Release 2.6.4",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyTimetablePremium/MyTimetablePremium-2.6.4.ipa",
+      "down": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyTimetablePremium/MyTimetablePremium-2.6.4.ipa",
+      "localizedDescription": "FastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/fr.adriencarvalot.Timetable.png",
+      "icon": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/fr.adriencarvalot.Timetable.png",
+      "tintColor": "000000",
+      "size": 204385158,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -5361,28 +5361,6 @@
       "source": "https://delvek.net/repo.json"
     },
     {
-      "name": "Color Pop - Ai Coloring Book",
-      "bundleIdentifier": "com.mwm.procolor",
-      "developerName": "ColorPop",
-      "version": "2.68.02",
-      "versionDate": "2026-10-31",
-      "versionDescription": "•Premium Unlocked •Color Pop is more than just an adult coloring book, it understands your words & photos, transforming them into beautiful, one-of-a-kind line art",
-      "downloadURL": "https://st76471.ispot.cc/ipa/ColorPop-AiColoringBook_v2.68.02%2BPREMiUM.ipa",
-      "down": "https://st76471.ispot.cc/ipa/ColorPop-AiColoringBook_v2.68.02%2BPREMiUM.ipa",
-      "localizedDescription": "•Premium Unlocked •Color Pop is more than just an adult coloring book, it understands your words & photos, transforming them into beautiful, one-of-a-kind line art",
-      "iconURL": "https://delvek.net/img/colorpop.png",
-      "icon": "https://delvek.net/img/colorpop.png",
-      "tintColor": "0,255,0",
-      "size": 195278000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/colorpop1.png",
-        "https://delvek.net/img/!/colorpop2.png",
-        "https://delvek.net/img/!/colorpop3.png",
-        "https://delvek.net/img/!/colorpop4.png"
-      ],
-      "source": "https://delvek.net/repo.json"
-    },
-    {
       "name": "Combyne",
       "bundleIdentifier": "com.pungme.combyne",
       "developerName": "@riftysIPAlibrary",
@@ -5766,28 +5744,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Halide Mark 3 - Pro Camera",
-      "bundleIdentifier": "com.chromanoir.Zeit",
-      "developerName": "HalideMark3",
-      "version": "3.3.1",
-      "versionDate": "2026-10-31",
-      "versionDescription": "•Premium Unlocked •Halide unleashes your iPhone’s camera, disable iPhone processing for natural photos, apply powerful film situations, access manual controls & more",
-      "downloadURL": "https://st76471.ispot.cc/ipa/HalideMark3ProCamera_v3.3.1%2BPREMiUM.ipa",
-      "down": "https://st76471.ispot.cc/ipa/HalideMark3ProCamera_v3.3.1%2BPREMiUM.ipa",
-      "localizedDescription": "•Premium Unlocked •Halide unleashes your iPhone’s camera, disable iPhone processing for natural photos, apply powerful film situations, access manual controls & more",
-      "iconURL": "https://delvek.net/img/halidemark.png",
-      "icon": "https://delvek.net/img/halidemark.png",
-      "tintColor": "0,255,0",
-      "size": 87769000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/halidemark1.png",
-        "https://delvek.net/img/!/halidemark2.png",
-        "https://delvek.net/img/!/halidemark3.png",
-        "https://delvek.net/img/!/halidemark4.png"
-      ],
-      "source": "https://delvek.net/repo.json"
-    },
-    {
       "name": "HDFlixDezokr",
       "bundleIdentifier": "com.huiynfim.play",
       "developerName": "N/A",
@@ -5835,6 +5791,23 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8706.png",
       "tintColor": "000000",
       "size": 131078364,
+      "screenshotURLs": [],
+      "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "HPHogwartsMystery",
+      "bundleIdentifier": "com.tinyco.potter",
+      "developerName": "Neoncat-OG IPA Library",
+      "version": "4.9.1",
+      "versionDate": "2026-10-31",
+      "versionDescription": "Release 4.9.1",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HPHogwartsMystery/HPHogwartsMystery-4.9.1.ipa",
+      "down": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HPHogwartsMystery/HPHogwartsMystery-4.9.1.ipa",
+      "localizedDescription": "FastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tinyco.potter.png",
+      "icon": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tinyco.potter.png",
+      "tintColor": "000000",
+      "size": 134103479,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -6985,6 +6958,28 @@
       "size": 506105811,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "VSCO - Photo Editor & Presets",
+      "bundleIdentifier": "co.visualsupply.cam",
+      "developerName": "VSCO",
+      "version": "462.0.0",
+      "versionDate": "2026-10-31",
+      "versionDescription": "•Premium Unlocked •VSCO is a complete photography platform—editing tools, portfolio sites, client workflows & helps photographers with their craft, grow their network & build a photography business on their terms",
+      "downloadURL": "https://st76471.ispot.cc/ipa/VSCO-PhotoEditor_v462.0.0%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/VSCO-PhotoEditor_v462.0.0%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •VSCO is a complete photography platform—editing tools, portfolio sites, client workflows & helps photographers with their craft, grow their network & build a photography business on their terms",
+      "iconURL": "https://delvek.net/img/vsco.png",
+      "icon": "https://delvek.net/img/vsco.png",
+      "tintColor": "0,255,0",
+      "size": 208634000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/vsco1.png",
+        "https://delvek.net/img/!/vsco2.png",
+        "https://delvek.net/img/!/vsco3.png",
+        "https://delvek.net/img/!/vsco4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "Wallcraft",
@@ -10052,23 +10047,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "edjingMix",
-      "bundleIdentifier": "com.edjing.edjingdjturntable",
-      "developerName": "AppTesters IPA Repo",
-      "version": "9.4.1",
-      "versionDate": "2026-10-26",
-      "versionDescription": "Release 9.4.1",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/edjingMix_9.4.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/edjingMix_9.4.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
-      "tintColor": "000000",
-      "size": 213907061,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Eminence",
       "bundleIdentifier": "com.crunchyroll.eminenceinshadowrpg",
       "developerName": "@kamohacks",
@@ -11555,23 +11533,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Splice",
-      "bundleIdentifier": "com.path36.SpliceFree",
-      "developerName": "@blatants",
-      "version": "4.28.73",
-      "versionDate": "2026-10-24",
-      "versionDescription": "Release 4.28.73",
-      "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13020-Splice_Video_Editor_&_Maker_v4_28_73_Subscription_Unlocked_blatant.ipa",
-      "down": "https://fastsign.dev/tg-ipa/blatants/13020-Splice_Video_Editor_&_Maker_v4_28_73_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "@blatants | Splice - Video Editor & Maker  • Bundle ID: com.path36.SpliceFree • Updated to: 4.28.73 • Minimum iOS: 14.0 • Patched • Modifier: Subscrip\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/blatants/13020.png",
-      "icon": "https://fastsign.dev/tg-icon/blatants/13020.png",
-      "tintColor": "000000",
-      "size": 107585881,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "@ipavault",
@@ -11704,23 +11665,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png",
       "tintColor": "000000",
       "size": 175330816,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Balance",
-      "bundleIdentifier": "com.elevateapp.kamino.kamino",
-      "developerName": "@riftysIPAlibrary",
-      "version": "1.213.0",
-      "versionDate": "2026-10-23",
-      "versionDescription": "Release 1.213.0",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8556-Balance:%20Meditation%20&%20Sleep-v1.213.0-riftysipas.ipa",
-      "down": "https://fastsign.dev/tg-ipa/riftysipalibrary/8556-Balance:%20Meditation%20&%20Sleep-v1.213.0-riftysipas.ipa",
-      "localizedDescription": "@riftysIPAlibrary | Balance: Meditation & Sleep  Tweak: Subscription Unlocked  Version: 1.213.0  Patched ✓  @riftysIPAlibrary  Additional Information\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8556.png",
-      "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8556.png",
-      "tintColor": "000000",
-      "size": 124191959,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -12163,23 +12107,6 @@
       "icon": "https://fastsign.dev/tg-icon/sa1y0miii/14773.png",
       "tintColor": "000000",
       "size": 27475928,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "SimplySing",
-      "bundleIdentifier": "com.joytunes.Sing",
-      "developerName": "AppTesters IPA Repo",
-      "version": "3.2.1",
-      "versionDate": "2026-10-23",
-      "versionDescription": "Release 3.2.1",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/SimplySing_3.2.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/SimplySing_3.2.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png",
-      "tintColor": "000000",
-      "size": 112765350,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -18525,6 +18452,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "MADFUT",
+      "bundleIdentifier": "com.madfut.madfut25",
+      "developerName": "AppTesters IPA Repo",
+      "version": "1.0",
+      "versionDate": "2026-07-23",
+      "versionDescription": "Release 1.0",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-10-2025/MADFUT_1.0_IAP_@thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-10-2025/MADFUT_1.0_IAP_@thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madfut.madfut25.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madfut.madfut25.png",
+      "tintColor": "000000",
+      "size": 149825597,
+      "screenshotURLs": [],
+      "source": "https://fastsign.dev/repo.json"
+    },
+    {
       "name": "Mainspring",
       "bundleIdentifier": "com.naamapps.mainspring",
       "developerName": "AppTesters IPA Repo",
@@ -20264,6 +20208,23 @@
       "icon": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/iVatar.jpg",
       "tintColor": "000000",
       "size": 72210000,
+      "screenshotURLs": [],
+      "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "LINE",
+      "bundleIdentifier": "jp.naver.line",
+      "developerName": "OwO Source",
+      "version": "14.14.0",
+      "versionDate": "2026-07-12",
+      "versionDescription": "Release 14.14.0",
+      "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-09-02/LINE_14.14.0_Nothing_@repo.owo.network.ipa",
+      "down": "https://github.com/OwO-Network/Repo/releases/download/2024-09-02/LINE_14.14.0_Nothing_@repo.owo.network.ipa",
+      "localizedDescription": "Injected with Nothing\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/jp.naver.line.png",
+      "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/jp.naver.line.png",
+      "tintColor": "000000",
+      "size": 141374807,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -46946,23 +46907,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Pestle",
-      "bundleIdentifier": "com.willbishop.Simmer",
-      "developerName": "Community Developer",
-      "version": "2.1.7",
-      "versionDate": "2025-06-17",
-      "versionDescription": "Release 2.1.7",
-      "downloadURL": "https://files.unlimitedipa.com/ipa/Food%20%26%20Drink/Pestle/Pestle_Version-2.1.7_Tweak-Subscription-Unlocked_com.willbishop.Simmer_by-UCerts.ipa",
-      "down": "https://files.unlimitedipa.com/ipa/Food%20%26%20Drink/Pestle/Pestle_Version-2.1.7_Tweak-Subscription-Unlocked_com.willbishop.Simmer_by-UCerts.ipa",
-      "localizedDescription": "Chức năng đã thêm: Subscription-Unlocked  - IPA đã được kiểm tra và tổng hợp bởi UCerts",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/0e/b7/6a0eb7fc-8047-b14a-37b7-0000a2ba9745/AppIcon-0-1x_U007epad-0-0-0-1-0-P3-85-220-0.png/512x512bb.jpg",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/0e/b7/6a0eb7fc-8047-b14a-37b7-0000a2ba9745/AppIcon-0-1x_U007epad-0-0-0-1-0-P3-85-220-0.png/512x512bb.jpg",
-      "tintColor": "#007AFF",
-      "size": 37094996,
-      "screenshotURLs": [],
-      "source": "https://repo.ucerts.io"
-    },
-    {
       "name": "POP TOWN",
       "bundleIdentifier": "com.jamcity.joy",
       "developerName": "ipaomtk.com",
@@ -47063,27 +47007,6 @@
       "size": 0,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "FishingClash",
-      "bundleIdentifier": "com.tensquaregames.letsfish2",
-      "developerName": "Community Developer",
-      "version": "1.0.377",
-      "versionDate": "2025-06-14",
-      "versionDescription": "Release 1.0.377",
-      "downloadURL": "https://files.unlimitedipa.com/ipa/Games/FishingClash/FishingClash_Version-1.0.377_Tweak-Mods_com.tensquaregames.letsfish2_by-UCerts.ipa",
-      "down": "https://files.unlimitedipa.com/ipa/Games/FishingClash/FishingClash_Version-1.0.377_Tweak-Mods_com.tensquaregames.letsfish2_by-UCerts.ipa",
-      "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi UCerts",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/57/6d/af576d85-92d2-1bd9-ae92-7e8f6850c17c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/57/6d/af576d85-92d2-1bd9-ae92-7e8f6850c17c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#007AFF",
-      "size": 160275890,
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/a0/43/62a043c1-b2b7-dfe0-c96f-dfda2f44d46b/ed68e7bf-be32-49da-a2e3-389943272d0f_2208x1242-ENG-2.jpg/406x228bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/bf/27/19bf27ed-1152-bd2b-ac75-97d3ebacf5fd/61625485-4c5d-408f-9ee1-e9a059807ce1_2208x1242-ENG-3.jpg/406x228bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/c4/1f/a4c41fbc-fa3b-0748-efe7-7ae2fd58867f/1af21a60-f128-4126-aaf7-4939e29a0294_2208x1242-ENG-1b.jpg/406x228bb.jpg"
-      ],
-      "source": "https://repo.ucerts.io"
     },
     {
       "name": "Factly",
@@ -47662,23 +47585,6 @@
       "size": 0,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Feather",
-      "bundleIdentifier": "thewonderofyou.Feather-idevice",
-      "developerName": "Community Developer",
-      "version": "2.0",
-      "versionDate": "2025-05-13",
-      "versionDescription": "Release 2.0",
-      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=khcrysalis/Feather/releases/download/v2.0/Feather-pairing.ipa",
-      "down": "https://proxy-files.thuthuatjb.com/apps?=khcrysalis/Feather/releases/download/v2.0/Feather-pairing.ipa",
-      "localizedDescription": "Ứng dụng giúp ký và cài đặt IPA bằng chứng chỉ - phiên bản cần sử dụng file pair lấy bằng jitterbug - IPA đã được kiểm tra và tổng hợp bởi UCerts",
-      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/khcrysalis/Feather/refs/heads/main/Feather/Resources/Assets.xcassets/AppIcon.appiconset/feather.png",
-      "icon": "https://gh-proxy.com/raw.githubusercontent.com/khcrysalis/Feather/refs/heads/main/Feather/Resources/Assets.xcassets/AppIcon.appiconset/feather.png",
-      "tintColor": "#007AFF",
-      "size": 6395241,
-      "screenshotURLs": [],
-      "source": "https://repo.ucerts.io"
     },
     {
       "name": "Great Conqueror 2: Shogun",
@@ -55864,6 +55770,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "StickmanParty",
+      "bundleIdentifier": "com.Impera.stickmanparty",
+      "developerName": "Karbin-Store",
+      "version": "2.4.1",
+      "versionDate": "2024-10-27",
+      "versionDescription": "Release 2.4.1",
+      "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/StickmanParty-v2.4.5.4-.ipa",
+      "down": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/StickmanParty-v2.4.5.4-.ipa",
+      "localizedDescription": "FastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/StickmanParty.jpg",
+      "icon": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/StickmanParty.jpg",
+      "tintColor": "000000",
+      "size": 81360000,
+      "screenshotURLs": [],
+      "source": "https://fastsign.dev/repo.json"
+    },
+    {
       "name": "Story Font",
       "bundleIdentifier": "com.unknown.storyfont",
       "developerName": "Karbin-Store",
@@ -61998,9 +61921,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1793685938",
-      "caption": "Updated with 5636 unique sideloadable apps",
-      "date": "2026-11-03T06:05:38Z",
+      "identifier": "update-1793724969",
+      "caption": "Updated with 5481 unique sideloadable apps",
+      "date": "2026-11-03T16:56:09Z",
       "tintColor": "#007AFF"
     }
   ]
