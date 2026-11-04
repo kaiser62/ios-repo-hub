@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-04T05:44:10Z",
+  "updated": "2026-11-04T14:08:09Z",
   "apps": [
     {
       "name": "12min",
@@ -383,23 +383,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "edjingMix",
-      "bundleIdentifier": "com.edjing.edjingdjturntable",
-      "developerName": "AppTesters IPA Repo",
-      "version": "9.4.2",
-      "versionDate": "2026-11-04",
-      "versionDescription": "Release 9.4.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/edjingMix_9.4.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/edjingMix_9.4.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Edjing Mix: DJ Music Mixer App  • Bundle ID: com.edjing.edjingdjturntable • Updated to: 9.4.2 • Minimum iOS: 18.6 • Patched • Modifier: Su\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
-      "tintColor": "000000",
-      "size": 215212264,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Facebook++",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Michael Lema",
@@ -702,23 +685,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8789.png",
       "tintColor": "000000",
       "size": 237987762,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Mori",
-      "bundleIdentifier": "com.mori.downloader",
-      "developerName": "OwO Source",
-      "version": "5.0.0-custom.1",
-      "versionDate": "2026-11-04",
-      "versionDescription": "Release 5.0.0-custom.1",
-      "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/Mori_5.0.0-custom.1/Mori_5.0.0-custom.1_Nothing_@repo.owo.network.ipa",
-      "down": "https://github.com/OwO-Network/Repo/releases/download/Mori_5.0.0-custom.1/Mori_5.0.0-custom.1_Nothing_@repo.owo.network.ipa",
-      "localizedDescription": "Injected with Nothing\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.mori.downloader.png",
-      "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.mori.downloader.png",
-      "tintColor": "000000",
-      "size": 631466,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -3681,23 +3647,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Threads",
-      "bundleIdentifier": "com.burbn.barcelona",
-      "developerName": "@ipavault",
-      "version": "454.0.0",
-      "versionDate": "2026-11-03",
-      "versionDescription": "Release 454.0.0",
-      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1153-Threads%20454.0%20%28ThreadSaver%29%20%5B@ipavault%5D.ipa",
-      "down": "https://fastsign.dev/tg-ipa/ipavault/1153-Threads%20454.0%20%28ThreadSaver%29%20%5B@ipavault%5D.ipa",
-      "localizedDescription": "@ipavault | Threads 454.0 (ThreadSaver)  ▪️Blocks Ads ▪️Media Downloader  Instructions to download media:  1.) Click the three dots ••• on the top rig\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1153.png",
-      "icon": "https://fastsign.dev/tg-icon/ipavault/1153.png",
-      "tintColor": "000000",
-      "size": 118354861,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "TiệmPhởCủaAnhHai",
       "bundleIdentifier": "com.ams.phoanhhai",
       "developerName": "TTJB IPA Repo",
@@ -6488,28 +6437,6 @@
       "source": "https://delvek.net/repo.json"
     },
     {
-      "name": "TOR Browser - Onion VPN & Orbot",
-      "bundleIdentifier": "com.youssef.developer.Full-Browser",
-      "developerName": "TORVPN",
-      "version": "12.4.0",
-      "versionDate": "2026-11-01",
-      "versionDescription": "•Premium Unlocked •Browse privately & protect your online activity with a powerful VPN servers •No logs, no tracking & no compromises",
-      "downloadURL": "https://st76471.ispot.cc/ipa/TORBrowser-OnionVPN%26Orbot_v12.4.0%2BPREMiUM.ipa",
-      "down": "https://st76471.ispot.cc/ipa/TORBrowser-OnionVPN%26Orbot_v12.4.0%2BPREMiUM.ipa",
-      "localizedDescription": "•Premium Unlocked •Browse privately & protect your online activity with a powerful VPN servers •No logs, no tracking & no compromises",
-      "iconURL": "https://delvek.net/img/torvpn.png",
-      "icon": "https://delvek.net/img/torvpn.png",
-      "tintColor": "0,255,0",
-      "size": 177324000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/torvpn1.png",
-        "https://delvek.net/img/!/torvpn2.png",
-        "https://delvek.net/img/!/torvpn3.png",
-        "https://delvek.net/img/!/torvpn4.png"
-      ],
-      "source": "https://delvek.net/repo.json"
-    },
-    {
       "name": "Township",
       "bundleIdentifier": "com.playrix.township-ios",
       "developerName": "@kamohacks",
@@ -6986,6 +6913,49 @@
       "size": 291831566,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "DropShare - File Sharing Tool",
+      "bundleIdentifier": "net.mkswap.Dropshare-iOS",
+      "developerName": "DropShare",
+      "version": "3.66",
+      "versionDate": "2026-10-31",
+      "versionDescription": "•Premium Unlocked •Dropshare is an easy-to-use app for iOS that allows you to quickly share single or multiple files via download URL •Upload files, photos, videos, anything from your iOS device to your trusted storage provider",
+      "downloadURL": "https://st76471.ispot.cc/ipa/DropshareFileSharingTool_v3.66%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/DropshareFileSharingTool_v3.66%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Dropshare is an easy-to-use app for iOS that allows you to quickly share single or multiple files via download URL •Upload files, photos, videos, anything from your iOS device to your trusted storage provider",
+      "iconURL": "https://delvek.net/img/dropshare.png",
+      "icon": "https://delvek.net/img/dropshare.png",
+      "tintColor": "0,255,0",
+      "size": 74037000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/dropshare1.png",
+        "https://delvek.net/img/!/dropshare2.png",
+        "https://delvek.net/img/!/dropshare3.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
+      "name": "Dynamic Lyrics",
+      "bundleIdentifier": "com.bing.lyrics",
+      "developerName": "DynamicLyrics",
+      "version": "2.0.7",
+      "versionDate": "2026-10-31",
+      "versionDescription": "•Premium Unlocked •Dynamic Lyrics is an app that displays real-time lyrics & translations on your lock screen, Dynamic Island, widgets, floating windows & more",
+      "downloadURL": "https://st76471.ispot.cc/ipa/DynamicLyrics_v2.0.7%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/DynamicLyrics_v2.0.7%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Dynamic Lyrics is an app that displays real-time lyrics & translations on your lock screen, Dynamic Island, widgets, floating windows & more",
+      "iconURL": "https://delvek.net/img/dynamiclyrics.png",
+      "icon": "https://delvek.net/img/dynamiclyrics.png",
+      "tintColor": "0,255,0",
+      "size": 29133000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/dynamiclyrics1.png",
+        "https://delvek.net/img/!/dynamiclyrics2.png",
+        "https://delvek.net/img/!/dynamiclyrics3.png",
+        "https://delvek.net/img/!/dynamiclyrics4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "FineReaderPDFPro",
@@ -8128,23 +8098,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "ThePiano",
-      "bundleIdentifier": "com.impalastudios.pianofree",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2.26.0",
-      "versionDate": "2026-10-31",
-      "versionDescription": "Release 2.26.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/ThePiano_2.26.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/ThePiano_2.26.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Piano ٞ  • Bundle ID: com.impalastudios.pianofree • Updated to: 2.26.0 • Minimum iOS: 16.0 • Patched • Modifier: Subscription Unlocked • T\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png",
-      "tintColor": "000000",
-      "size": 127448806,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Tracked",
       "bundleIdentifier": "com.tracked.mobile",
       "developerName": "@Sa1y0miii",
@@ -8311,23 +8264,6 @@
       "icon": "https://fastsign.dev/tg-icon/kamohacks/16875.png",
       "tintColor": "000000",
       "size": 113607311,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "CollaNote",
-      "bundleIdentifier": "net.quochuywdm.collanote496",
-      "developerName": "AppTesters IPA Repo",
-      "version": "5.1.0",
-      "versionDate": "2026-10-30",
-      "versionDescription": "Release 5.1.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/CollaNote_5.1.0_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/CollaNote_5.1.0_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | CollaNote: Notes & PDF Markup  • Bundle ID: net.quochuywdm.collanote496 • Updated to: 5.1.0 • Minimum iOS: 18.6 • Patched • Modifier: Pro\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
-      "tintColor": "000000",
-      "size": 143712119,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -8532,23 +8468,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8695.png",
       "tintColor": "000000",
       "size": 138885672,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "OraWeather",
-      "bundleIdentifier": "com.itwcalculator.worldradarfree",
-      "developerName": "AppTesters IPA Repo",
-      "version": "6.4.1",
-      "versionDate": "2026-10-30",
-      "versionDescription": "Release 6.4.1",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/OraWeather_6.4.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/OraWeather_6.4.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Weather Radar - NOAA Channel  • Bundle ID: com.itwcalculator.worldradarfree • Updated to: 6.4.1 • Minimum iOS: 18.0 • Patched • Modifier:\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itwcalculator.worldradarfree.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itwcalculator.worldradarfree.png",
-      "tintColor": "000000",
-      "size": 129805945,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -9076,23 +8995,6 @@
       "icon": "https://fastsign.dev/tg-icon/sa1y0miii/15199.png",
       "tintColor": "000000",
       "size": 57772038,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "AppTesters IPA Repo",
-      "version": "11.6.21",
-      "versionDate": "2026-10-29",
-      "versionDescription": "Release 11.6.21",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/Lightroom_11.6.21_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/Lightroom_11.6.21_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Lightroom Photo Editor & Video  • Bundle ID: com.adobe.lrmobilephone • Updated to: 11.6.21 • Minimum iOS: 18.0 • Patched • Modifier: Subsc\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "tintColor": "000000",
-      "size": 222689421,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -9909,23 +9811,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aaronray.fontcandy.png",
       "tintColor": "000000",
       "size": 113029057,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "HabitKit",
-      "bundleIdentifier": "com.roehl.habitkit",
-      "developerName": "AppTesters IPA Repo",
-      "version": "1.19.0",
-      "versionDate": "2026-10-28",
-      "versionDescription": "Release 1.19.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/HabitKit_1.19.0_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/HabitKit_1.19.0_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Habit Tracker - HabitKit  • Bundle ID: com.roehl.habitkit • Updated to: 1.19.0 • Minimum iOS: 15.0 • Patched • Modifier: Pro Unlocked • Tw\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
-      "tintColor": "000000",
-      "size": 107979834,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -31635,23 +31520,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eup.heyjapan.png",
       "tintColor": "000000",
       "size": 169965110,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "ImgAI",
-      "bundleIdentifier": "com.idevtal.Wallpapers",
-      "developerName": "AppTesters IPA Repo",
-      "version": "5.90",
-      "versionDate": "2026-04-27",
-      "versionDescription": "Release 5.90",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-12-2025/ImgAI_5.90_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-12-2025/ImgAI_5.90_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
-      "tintColor": "000000",
-      "size": 236889539,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -62234,9 +62102,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1793771050",
+      "identifier": "update-1793801289",
       "caption": "Updated with 5502 unique sideloadable apps",
-      "date": "2026-11-04T05:44:10Z",
+      "date": "2026-11-04T14:08:09Z",
       "tintColor": "#007AFF"
     }
   ]
