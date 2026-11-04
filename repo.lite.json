@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-04T14:08:09Z",
+  "updated": "2026-11-04T21:11:17Z",
   "apps": [
     {
       "name": "12min",
@@ -4467,23 +4467,6 @@
         "https://delvek.net/img/!/kammelna4.png"
       ],
       "source": "https://delvek.net/repo.json"
-    },
-    {
-      "name": "KineMaster",
-      "bundleIdentifier": "com.kinemaster.kios",
-      "developerName": "AppTesters IPA Repo",
-      "version": "8.2.7",
-      "versionDate": "2026-11-02",
-      "versionDescription": "Release 8.2.7",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/KineMaster_8.2.7_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/KineMaster_8.2.7_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | KineMaster - AI Video Editor  • Bundle ID: com.kinemaster.kios • Updated to: 8.2.7 • Minimum iOS: 18.0 • Patched • Modifier: Pro Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
-      "tintColor": "000000",
-      "size": 157362076,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
     },
     {
       "name": "Lampa",
@@ -62102,9 +62085,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1793801289",
+      "identifier": "update-1793826677",
       "caption": "Updated with 5502 unique sideloadable apps",
-      "date": "2026-11-04T14:08:09Z",
+      "date": "2026-11-04T21:11:17Z",
       "tintColor": "#007AFF"
     }
   ]

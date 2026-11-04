@@ -1,8 +1,25 @@
 {
   "name": "iOS Community Mega Repo (ESign)",
   "identifier": "com.kaiser62.ios-community-repo.esign",
-  "updated": "2026-11-04T14:08:09Z",
+  "updated": "2026-11-04T21:11:17Z",
   "apps": [
+    {
+      "name": "KineMaster",
+      "bundleIdentifier": "com.kinemaster.kios",
+      "developerName": "Community Developer",
+      "version": "8.2.8",
+      "versionDate": "2026-11-05",
+      "versionDescription": "Release 8.2.8",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/KineMaster_8.2.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/KineMaster_8.2.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Pro",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
+      "tintColor": "#007AFF",
+      "size": 157436937,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
     {
       "name": "12min",
       "bundleIdentifier": "com.br.12min.mobile",
@@ -4683,23 +4700,6 @@
         "https://delvek.net/img/!/kammelna4.png"
       ],
       "source": "https://delvek.net/repo.json"
-    },
-    {
-      "name": "KineMaster",
-      "bundleIdentifier": "com.kinemaster.kios",
-      "developerName": "AppTesters IPA Repo",
-      "version": "8.2.7",
-      "versionDate": "2026-11-02",
-      "versionDescription": "Release 8.2.7",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/KineMaster_8.2.7_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/KineMaster_8.2.7_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | KineMaster - AI Video Editor  • Bundle ID: com.kinemaster.kios • Updated to: 8.2.7 • Minimum iOS: 18.0 • Patched • Modifier: Pro Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
-      "tintColor": "000000",
-      "size": 157362076,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
     },
     {
       "name": "Lampa",
