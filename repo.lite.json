@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-05T17:15:34Z",
+  "updated": "2026-11-05T23:29:37Z",
   "apps": [
     {
       "name": "1 2 3 4 Player Games",
@@ -617,23 +617,6 @@
       "icon": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/icon.png",
       "tintColor": "000000",
       "size": 30439714,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "KineMaster",
-      "bundleIdentifier": "com.kinemaster.kios",
-      "developerName": "AppTesters IPA Repo",
-      "version": "8.2.8",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 8.2.8",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/KineMaster_8.2.8_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/KineMaster_8.2.8_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | KineMaster - AI Video Editor  • Bundle ID: com.kinemaster.kios • Updated to: 8.2.8 • Minimum iOS: 18.0 • Patched • Modifier: Pro Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
-      "tintColor": "000000",
-      "size": 157436937,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -4153,23 +4136,6 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/72/71/7c7271de-14bd-5dfe-0ce8-1cdfe8f30e7c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.png",
       "tintColor": "000000",
       "size": 104666492,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "NeoServer",
-      "bundleIdentifier": "com.neo.NeoMan",
-      "developerName": "AppTesters IPA Repo",
-      "version": "8.4.8",
-      "versionDate": "2026-11-03",
-      "versionDescription": "Release 8.4.8",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/NeoServer_8.4.8_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/NeoServer_8.4.8_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | NeoServer SSH Mosh Terminal  • Bundle ID: com.neo.NeoMan • Updated to: 8.4.8 • Minimum iOS: 16.4 • Patched • Modifier: Subscription Unlock\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
-      "tintColor": "000000",
-      "size": 27416143,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -7737,23 +7703,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "GrowMe",
-      "bundleIdentifier": "com.book.summaries.reading",
-      "developerName": "AppTesters IPA Repo",
-      "version": "1.4.4",
-      "versionDate": "2026-10-31",
-      "versionDescription": "Release 1.4.4",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/GrowMe_1.4.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/GrowMe_1.4.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | GrowMe: Lazy Reading  • Bundle ID: com.book.summaries.reading • Updated to: 1.4.4 • Minimum iOS: 17.0 • Patched • Modifier: Subscription U\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.book.summaries.reading.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.book.summaries.reading.png",
-      "tintColor": "000000",
-      "size": 186446501,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "GTA V",
       "bundleIdentifier": "com.macport.gtav",
       "developerName": "@ipa_dark",
@@ -8526,23 +8475,6 @@
         "https://delvek.net/img/!/removeobjects3.png"
       ],
       "source": "https://delvek.net/repo.json"
-    },
-    {
-      "name": "rPlayer",
-      "bundleIdentifier": "com.wangyuehuan.vrtef",
-      "developerName": "AppTesters IPA Repo",
-      "version": "8.0.0",
-      "versionDate": "2026-10-31",
-      "versionDescription": "Release 8.0.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/rPlayer_8.0.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/rPlayer_8.0.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | rPlayer: VR & 3D Video Player  • Bundle ID: com.wangyuehuan.vrtef • Updated to: 8.0.0 • Minimum iOS: 15.0 • Patched • Modifier: Subscripti\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wangyuehuan.vrtef.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wangyuehuan.vrtef.png",
-      "tintColor": "000000",
-      "size": 62464700,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
     },
     {
       "name": "Rumi",
@@ -62223,9 +62155,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1793898934",
+      "identifier": "update-1793921377",
       "caption": "Updated with 5493 unique sideloadable apps",
-      "date": "2026-11-05T17:15:34Z",
+      "date": "2026-11-05T23:29:37Z",
       "tintColor": "#007AFF"
     }
   ]
