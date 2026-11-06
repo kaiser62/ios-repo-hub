@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T14:08:00Z",
+  "updated": "2026-11-06T20:46:31Z",
   "totalSources": 122,
   "onlineSources": 77,
   "totalApps": 5505,
@@ -15,112 +15,112 @@
       "url": "https://aio.zxcvbn.fyi/r/repo.altstore.json",
       "status": "error",
       "error": "<urlopen error [Errno -5] No address associated with hostname>",
-      "duration": 0.11,
+      "duration": 0.13,
       "appCount": 0
     },
     {
       "url": "https://aio.zxcvbn.fyi/r/repo.esign.json",
       "status": "error",
       "error": "<urlopen error [Errno -5] No address associated with hostname>",
-      "duration": 0.11,
+      "duration": 0.13,
       "appCount": 0
     },
     {
       "url": "https://aio.zxcvbn.fyi/r/repo.feather.json",
       "status": "error",
       "error": "<urlopen error [Errno -5] No address associated with hostname>",
-      "duration": 0.11,
+      "duration": 0.13,
       "appCount": 0
     },
     {
       "url": "https://fastsign.dev/repo.json",
       "status": "online",
-      "duration": 0.91,
+      "duration": 0.73,
       "appCount": 17293
     },
     {
       "url": "https://fastsign.dev/repo.lite.json",
       "status": "online",
-      "duration": 1.11,
+      "duration": 0.52,
       "appCount": 999
     },
     {
       "url": "https://fastsign.dev/repo.lite.altstore.json",
       "status": "online",
-      "duration": 0.54,
+      "duration": 0.39,
       "appCount": 0
     },
     {
       "url": "https://flyinghead.github.io/flycast-builds/altstore.json",
       "status": "online",
-      "duration": 0.19,
+      "duration": 0.07,
       "appCount": 1
     },
     {
       "url": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json",
       "status": "online",
-      "duration": 0.3,
+      "duration": 0.16,
       "appCount": 1988
     },
     {
       "url": "https://qnblackcat.github.io/AltStore/apps.json",
       "status": "error",
       "error": "HTTP Error 404: Not Found",
-      "duration": 0.18,
+      "duration": 0.14,
       "appCount": 0
     },
     {
       "url": "https://pokemmo.eu/altstore/",
       "status": "online",
-      "duration": 0.32,
+      "duration": 0.17,
       "appCount": 1
     },
     {
       "url": "https://pokemmo.com/altstore/",
       "status": "online",
-      "duration": 0.21,
+      "duration": 0.12,
       "appCount": 1
     },
     {
       "url": "https://altstore.oatmealdome.me",
       "status": "online",
-      "duration": 0.92,
+      "duration": 0.75,
       "appCount": 2
     },
     {
       "url": "https://wuxu1.github.io/wuxu-complete.json",
       "status": "online",
-      "duration": 0.27,
+      "duration": 0.15,
       "appCount": 35
     },
     {
       "url": "https://wuxu1.github.io/wuxu-complete-plus.json",
       "status": "online",
-      "duration": 0.3,
+      "duration": 0.11,
       "appCount": 35
     },
     {
       "url": "https://ipa.cypwn.xyz/cypwn.json",
       "status": "online",
-      "duration": 0.24,
-      "appCount": 210
+      "duration": 0.07,
+      "appCount": 209
     },
     {
       "url": "https://ipa.cypwn.xyz/cypwn_ts.json",
       "status": "online",
-      "duration": 0.36,
+      "duration": 0.09,
       "appCount": 127
     },
     {
       "url": "https://community-apps.sidestore.io/sidecommunity.json",
       "status": "online",
-      "duration": 0.41,
+      "duration": 0.26,
       "appCount": 23
     },
     {
       "url": "https://tiny.one/SpotC",
       "status": "online",
-      "duration": 0.42,
+      "duration": 0.38,
       "appCount": 3
     },
     {
@@ -133,46 +133,46 @@
       "url": "https://raw.githubusercontent.com/arichornloveralt/arichornloveralt.github.io/main/apps.json",
       "status": "error",
       "error": "HTTP Error 404: Not Found",
-      "duration": 0.15,
+      "duration": 0.08,
       "appCount": 0
     },
     {
       "url": "https://raw.githubusercontent.com/arichornloverALT/arichornloveralt.github.io/main/apps2.json",
       "status": "error",
       "error": "HTTP Error 404: Not Found",
-      "duration": 0.13,
+      "duration": 0.06,
       "appCount": 0
     },
     {
       "url": "https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps.json",
       "status": "online",
-      "duration": 0.14,
+      "duration": 0.1,
       "appCount": 1
     },
     {
       "url": "https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps2.json",
       "status": "online",
-      "duration": 0.14,
+      "duration": 0.08,
       "appCount": 1
     },
     {
       "url": "https://raw.githubusercontent.com/whoeevee/EeveeSpotify/swift/repo.json",
       "status": "error",
       "error": "HTTP Error 404: Not Found",
-      "duration": 0.13,
+      "duration": 0.04,
       "appCount": 0
     },
     {
       "url": "https://repo.whoeevee.com/esign",
       "status": "error",
       "error": "<urlopen error [Errno -5] No address associated with hostname>",
-      "duration": 0.06,
+      "duration": 0.08,
       "appCount": 0
     },
     {
       "url": "https://css.eyz.ink/appstore",
       "status": "online",
-      "duration": 1.35,
+      "duration": 1.71,
       "appCount": 0
     },
     {
@@ -184,122 +184,122 @@
     {
       "url": "https://ish.app/altstore.json",
       "status": "online",
-      "duration": 0.33,
+      "duration": 0.12,
       "appCount": 1
     },
     {
       "url": "https://repository.apptesters.org",
       "status": "online",
-      "duration": 0.45,
-      "appCount": 9890
+      "duration": 0.18,
+      "appCount": 9894
     },
     {
       "url": "https://repo.madari.media/nightly/repo.json",
       "status": "online",
-      "duration": 0.82,
+      "duration": 0.35,
       "appCount": 1
     },
     {
       "url": "https://madari.media/nightly/repo.json",
       "status": "error",
       "error": "HTTP Error 404: Not Found",
-      "duration": 0.5,
+      "duration": 0.66,
       "appCount": 0
     },
     {
       "url": "https://github.com/dvntm0/AltStore/raw/refs/heads/main/feather.json",
       "status": "online",
-      "duration": 0.11,
+      "duration": 0.09,
       "appCount": 0
     },
     {
       "url": "https://dvntm0.github.io/AltStore/raw/refs/heads/main/esign.json",
       "status": "error",
       "error": "HTTP Error 404: Not Found",
-      "duration": 0.24,
+      "duration": 0.21,
       "appCount": 0
     },
     {
       "url": "https://raw.githubusercontent.com/notrifty1/riftysrepo/refs/heads/main/reposource.json",
       "status": "online",
-      "duration": 0.12,
+      "duration": 0.06,
       "appCount": 43
     },
     {
       "url": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
       "status": "online",
-      "duration": 0.14,
+      "duration": 0.03,
       "appCount": 10
     },
     {
       "url": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/nyx.json",
       "status": "online",
-      "duration": 0.13,
+      "duration": 0.11,
       "appCount": 1
     },
     {
       "url": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/theta.json",
       "status": "online",
-      "duration": 0.1,
+      "duration": 0.11,
       "appCount": 1
     },
     {
       "url": "https://driftywinds.github.io/repos/esign.json",
       "status": "online",
-      "duration": 0.15,
+      "duration": 0.06,
       "appCount": 3
     },
     {
       "url": "https://web.archive.org/web/20240828224000/https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps_esign.json",
       "status": "online",
-      "duration": 11.12,
+      "duration": 12.33,
       "appCount": 2502
     },
     {
       "url": "https://repo.realmzer.xyz",
       "status": "error",
       "error": "The read operation timed out",
-      "duration": 14.23,
+      "duration": 14.07,
       "appCount": 0
     },
     {
       "url": "https://web.archive.org/web/20250310010244if_/https://repo.realmzer.xyz/",
       "status": "online",
-      "duration": 12.86,
+      "duration": 6.9,
       "appCount": 347
     },
     {
       "url": "https://raw.githubusercontent.com/Gliddd4/gliddd4-repo/refs/heads/main/app.json",
       "status": "error",
       "error": "HTTP Error 404: Not Found",
-      "duration": 0.09,
+      "duration": 0.04,
       "appCount": 0
     },
     {
       "url": "https://repo.chungchi365.com/repo.json",
       "status": "error",
       "error": "<urlopen error [Errno -5] No address associated with hostname>",
-      "duration": 0.07,
+      "duration": 0.09,
       "appCount": 0
     },
     {
       "url": "https://raw.githubusercontent.com/zigwangles/zigwangles-repo/refs/heads/main/app-repo.json",
       "status": "error",
       "error": "HTTP Error 404: Not Found",
-      "duration": 0.07,
+      "duration": 0.04,
       "appCount": 0
     },
     {
       "url": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/repo.json",
       "status": "error",
       "error": "HTTP Error 404: Not Found",
-      "duration": 0.1,
+      "duration": 0.08,
       "appCount": 0
     },
     {
       "url": "https://repo.owo.network/",
       "status": "online",
-      "duration": 0.36,
+      "duration": 0.25,
       "appCount": 169
     },
     {
@@ -312,20 +312,20 @@
     {
       "url": "https://apps.altstore.io/",
       "status": "online",
-      "duration": 1.03,
+      "duration": 0.67,
       "appCount": 6
     },
     {
       "url": "https://bit.ly/Altstore-complete",
       "status": "online",
-      "duration": 0.35,
+      "duration": 0.22,
       "appCount": 0
     },
     {
       "url": "https://appmarket.tech/altstore.json",
       "status": "error",
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'appmarket.tech'. (_ssl.c:1018)>",
-      "duration": 0.15,
+      "duration": 0.18,
       "appCount": 0
     },
     {
@@ -337,383 +337,383 @@
     {
       "url": "https://bunduuk.github.io/altstore-source/apps.json",
       "status": "online",
-      "duration": 0.1,
+      "duration": 0.11,
       "appCount": 18
     },
     {
       "url": "https://get.furaffinity.app/altstore-world/",
       "status": "online",
-      "duration": 0.4,
+      "duration": 0.32,
       "appCount": 1
     },
     {
       "url": "https://enmity-mod.github.io/repo/altstore.json",
       "status": "online",
-      "duration": 0.12,
+      "duration": 0.09,
       "appCount": 0
     },
     {
       "url": "https://github.com/khcrysalis/Feather/raw/main/app-repo.json",
       "status": "online",
-      "duration": 0.14,
+      "duration": 0.1,
       "appCount": 1
     },
     {
       "url": "https://therealfoxster.github.io/altsource/apps.json",
       "status": "online",
-      "duration": 0.14,
+      "duration": 0.04,
       "appCount": 2
     },
     {
       "url": "https://hottubapp.io/altstore",
       "status": "online",
-      "duration": 0.41,
+      "duration": 0.3,
       "appCount": 0
     },
     {
       "url": "https://altstore.ignitedemulator.com",
       "status": "online",
-      "duration": 0.2,
+      "duration": 0.11,
       "appCount": 0
     },
     {
       "url": "https://raw.githubusercontent.com/Nyasami/Ksign/refs/heads/main/repo.json",
       "status": "online",
-      "duration": 0.11,
+      "duration": 0.07,
       "appCount": 1
     },
     {
       "url": "https://alts.lao.sb",
       "status": "online",
-      "duration": 1.73,
+      "duration": 0.79,
       "appCount": 1
     },
     {
       "url": "https://buildbot.libretro.com/stable/altstore.json",
       "status": "online",
-      "duration": 0.14,
+      "duration": 0.08,
       "appCount": 1
     },
     {
       "url": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/refs/heads/main/apps.json",
       "status": "error",
       "error": "HTTP Error 404: Not Found",
-      "duration": 0.12,
+      "duration": 0.06,
       "appCount": 0
     },
     {
       "url": "https://theodyssey.dev/altstore/odysseysource.json",
       "status": "online",
-      "duration": 0.23,
+      "duration": 0.18,
       "appCount": 2
     },
     {
       "url": "https://raw.githubusercontent.com/vizunchik/AltStoreRus/master/apps.json",
       "status": "online",
-      "duration": 0.12,
+      "duration": 0.06,
       "appCount": 18
     },
     {
       "url": "https://alt.crystall1ne.dev",
       "status": "error",
       "error": "<urlopen error [Errno -2] Name or service not known>",
-      "duration": 0.15,
+      "duration": 0.46,
       "appCount": 0
     },
     {
       "url": "https://provenance-emu.com/apps.json",
       "status": "online",
-      "duration": 0.21,
+      "duration": 0.09,
       "appCount": 0
     },
     {
       "url": "https://quarksources.github.io/dist/quantumsource.min.json",
       "status": "online",
-      "duration": 0.22,
+      "duration": 0.1,
       "appCount": 0
     },
     {
       "url": "https://quarksources.github.io/quantumsource.json",
       "status": "online",
-      "duration": 0.21,
+      "duration": 0.11,
       "appCount": 0
     },
     {
       "url": "https://quarksources.github.io/quantumsource++.json",
       "status": "online",
-      "duration": 0.19,
+      "duration": 0.08,
       "appCount": 0
     },
     {
       "url": "https://bit.ly/Quantumsource-plus",
       "status": "online",
-      "duration": 0.23,
+      "duration": 0.1,
       "appCount": 0
     },
     {
       "url": "https://randomblock1.com/altstore/apps.json",
       "status": "online",
-      "duration": 0.23,
+      "duration": 0.15,
       "appCount": 8
     },
     {
       "url": "https://taurine.app/altstore/taurinestore.json",
       "status": "online",
-      "duration": 0.13,
+      "duration": 0.18,
       "appCount": 1
     },
     {
       "url": "https://alt.getutm.app",
       "status": "online",
-      "duration": 0.22,
+      "duration": 0.44,
       "appCount": 0
     },
     {
       "url": "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json",
       "status": "online",
-      "duration": 0.12,
+      "duration": 0.04,
       "appCount": 1
     },
     {
       "url": "https://azu0609.github.io/repo/altstore_repo.json",
       "status": "online",
-      "duration": 0.16,
+      "duration": 0.13,
       "appCount": 7
     },
     {
       "url": "https://raw.githubusercontent.com/cbruegg/altstore-source/refs/heads/main/source.json",
       "status": "online",
-      "duration": 0.11,
+      "duration": 0.07,
       "appCount": 0
     },
     {
       "url": "https://repo.ethsign.fyi",
       "status": "error",
       "error": "<urlopen error timed out>",
-      "duration": 14.95,
+      "duration": 14.6,
       "appCount": 0
     },
     {
       "url": "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/apps.json",
       "status": "online",
-      "duration": 0.12,
+      "duration": 0.1,
       "appCount": 1
     },
     {
       "url": "https://esign.yyyue.xyz/app.json",
       "status": "error",
       "error": "The read operation timed out",
-      "duration": 14.11,
+      "duration": 14.06,
       "appCount": 0
     },
     {
       "url": "https://alt.thatstel.la/",
       "status": "error",
       "error": "Expecting value: line 29 column 13 (char 3558)",
-      "duration": 0.33,
+      "duration": 0.37,
       "appCount": 0
     },
     {
       "url": "https://apps.nabzclan.vip/repos/altstore.php",
       "status": "error",
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1018)>",
-      "duration": 0.09,
+      "duration": 0.04,
       "appCount": 0
     },
     {
       "url": "https://nabzclan.vip/repos/esign.php",
       "status": "error",
       "error": "HTTP Error 404: Not Found",
-      "duration": 0.38,
+      "duration": 0.35,
       "appCount": 0
     },
     {
       "url": "https://apps.sidestore.io/",
       "status": "online",
-      "duration": 0.47,
+      "duration": 0.36,
       "appCount": 1
     },
     {
       "url": "https://connect.sidestore.io/apps.json",
       "status": "online",
-      "duration": 1.2,
+      "duration": 0.41,
       "appCount": 8
     },
     {
       "url": "https://binnichtaktiv.signapp.me/repo/esign.json",
       "status": "error",
       "error": "<urlopen error [Errno -2] Name or service not known>",
-      "duration": 0.04,
+      "duration": 0.01,
       "appCount": 0
     },
     {
       "url": "https://burritosoftware.github.io/altstore/channels/burritosource.json",
       "status": "online",
-      "duration": 0.42,
+      "duration": 0.34,
       "appCount": 7
     },
     {
       "url": "https://website.burrito.software/altstore/channels/burritosource.json",
       "status": "online",
-      "duration": 0.4,
+      "duration": 0.11,
       "appCount": 7
     },
     {
       "url": "https://cranci.tech/repo.json",
       "status": "error",
       "error": "<urlopen error [Errno -2] Name or service not known>",
-      "duration": 0.03,
+      "duration": 0.04,
       "appCount": 0
     },
     {
       "url": "https://floridaman7588.me/altjb/altsource.json",
       "status": "error",
       "error": "<urlopen error [Errno -2] Name or service not known>",
-      "duration": 0.27,
+      "duration": 0.02,
       "appCount": 0
     },
     {
       "url": "https://gbox.run/Public/Source.json",
       "status": "online",
-      "duration": 1.07,
+      "duration": 0.85,
       "appCount": 0
     },
     {
       "url": "https://ia601404.us.archive.org/11/items/ms_20220903/MS.json",
       "status": "error",
       "error": "Expecting value: line 277 column 5 (char 15046)",
-      "duration": 0.88,
+      "duration": 1.75,
       "appCount": 0
     },
     {
       "url": "https://ia601407.us.archive.org/11/items/ms_20220903/MS.json",
       "status": "error",
       "error": "Expecting value: line 277 column 5 (char 15046)",
-      "duration": 0.39,
+      "duration": 0.45,
       "appCount": 0
     },
     {
       "url": "https://ia601505.us.archive.org/10/items/motoca-store/Motoca%20Store.json",
       "status": "error",
       "error": "Expecting value: line 235 column 1 (char 11466)",
-      "duration": 1.17,
+      "duration": 0.78,
       "appCount": 0
     },
     {
       "url": "https://ikghd.site/repo.json",
       "status": "error",
       "error": "HTTP Error 403: Forbidden",
-      "duration": 0.61,
+      "duration": 0.42,
       "appCount": 0
     },
     {
       "url": "https://ipa.thuthuatjb.com/repo",
       "status": "online",
-      "duration": 3.77,
+      "duration": 4.11,
       "appCount": 9371
     },
     {
       "url": "https://ittza7aa.com/repo.json",
       "status": "online",
-      "duration": 1.3,
+      "duration": 0.87,
       "appCount": 1775
     },
     {
       "url": "https://raw.githubusercontent.com/Omni-Development/The-Omni-Repository/refs/heads/main/app-repo.json",
       "status": "online",
-      "duration": 0.25,
+      "duration": 0.27,
       "appCount": 116
     },
     {
       "url": "https://raw.githubusercontent.com/RealBlackAstronaut/CelestialRepo/main/CelestialRepo.json",
       "status": "online",
-      "duration": 0.22,
+      "duration": 0.24,
       "appCount": 6
     },
     {
       "url": "https://raw.githubusercontent.com/TheNightmanCodeth/chromium-ios/master/altstore-source.json",
       "status": "online",
-      "duration": 0.31,
+      "duration": 0.23,
       "appCount": 1
     },
     {
       "url": "https://raw.githubusercontent.com/WhySooooFurious/Ultimate-Sideloading-Guide/refs/heads/main/app-repo.json",
       "status": "online",
-      "duration": 0.34,
+      "duration": 0.24,
       "appCount": 6
     },
     {
       "url": "https://raw.githubusercontent.com/YourName028/System-Apps/main/repo.json",
       "status": "online",
-      "duration": 0.13,
+      "duration": 0.23,
       "appCount": 3
     },
     {
       "url": "https://raw.githubusercontent.com/actuallyaridan/NeoFreeBird/refs/heads/main/AltSource.json",
       "status": "error",
       "error": "HTTP Error 404: Not Found",
-      "duration": 0.13,
+      "duration": 0.09,
       "appCount": 0
     },
     {
       "url": "https://raw.githubusercontent.com/jay-goobuh/samhub/main/apps",
       "status": "online",
-      "duration": 0.14,
+      "duration": 0.1,
       "appCount": 6
     },
     {
       "url": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/repo.json",
       "status": "error",
       "error": "HTTP Error 404: Not Found",
-      "duration": 0.12,
+      "duration": 0.07,
       "appCount": 0
     },
     {
       "url": "https://raw.githubusercontent.com/ssalggnikool/.github/refs/heads/main/b.json",
       "status": "error",
       "error": "HTTP Error 404: Not Found",
-      "duration": 0.1,
+      "duration": 0.05,
       "appCount": 0
     },
     {
       "url": "https://repo.ucerts.io",
       "status": "error",
       "error": "HTTP Error 503: Service Unavailable",
-      "duration": 0.36,
+      "duration": 0.5,
       "appCount": 0
     },
     {
       "url": "https://repo.zsign.app/repo.json",
       "status": "error",
       "error": "<urlopen error [Errno -2] Name or service not known>",
-      "duration": 0.05,
+      "duration": 0.15,
       "appCount": 0
     },
     {
       "url": "https://repos.yattee.stream/alt/apps.json",
       "status": "error",
       "error": "HTTP Error 404: Not Found",
-      "duration": 0.16,
+      "duration": 0.43,
       "appCount": 0
     },
     {
       "url": "https://rickowens.su/repo.json",
       "status": "error",
       "error": "HTTP Error 403: Forbidden",
-      "duration": 0.46,
+      "duration": 0.43,
       "appCount": 0
     },
     {
       "url": "https://tweakrain.pages.dev/ios/altstore.json",
       "status": "error",
       "error": "<urlopen error [Errno -2] Name or service not known>",
-      "duration": 0.02,
+      "duration": 0.05,
       "appCount": 0
     },
     {
       "url": "https://web.archive.org/web/20210225095501if_/https://appybois.com/",
       "status": "online",
-      "duration": 1.9,
+      "duration": 1.73,
       "appCount": 1
     },
     {
@@ -726,59 +726,59 @@
     {
       "url": "https://delvek.net/repo.json",
       "status": "online",
-      "duration": 0.49,
+      "duration": 0.34,
       "appCount": 4048
     },
     {
       "url": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/SEU.json",
       "status": "online",
-      "duration": 0.13,
+      "duration": 0.08,
       "appCount": 28
     },
     {
       "url": "https://sinceohsix.github.io/ipas/source.json",
       "status": "online",
-      "duration": 0.1,
+      "duration": 0.12,
       "appCount": 0
     },
     {
       "url": "https://stikdebug.xyz/index.json",
       "status": "online",
-      "duration": 0.17,
+      "duration": 0.05,
       "appCount": 0
     },
     {
       "url": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps_altstore.json",
       "status": "error",
       "error": "HTTP Error 404: Not Found",
-      "duration": 0.13,
+      "duration": 0.07,
       "appCount": 0
     },
     {
       "url": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
       "status": "online",
-      "duration": 0.17,
+      "duration": 0.1,
       "appCount": 0
     },
     {
       "url": "https://raw.githubusercontent.com/qnblackcat/HowToDecryptIosApps/main/AltStore/apps.json",
       "status": "error",
       "error": "HTTP Error 404: Not Found",
-      "duration": 0.1,
+      "duration": 0.03,
       "appCount": 0
     },
     {
       "url": "https://raw.githubusercontent.com/cowabunga-tool/cowabunga-lite/main/altstore.json",
       "status": "error",
       "error": "HTTP Error 404: Not Found",
-      "duration": 0.08,
+      "duration": 0.03,
       "appCount": 0
     },
     {
       "url": "https://raw.githubusercontent.com/PureKFD/PureKFD/main/altstore.json",
       "status": "error",
       "error": "HTTP Error 404: Not Found",
-      "duration": 0.18,
+      "duration": 0.09,
       "appCount": 0
     }
   ]

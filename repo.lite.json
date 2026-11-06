@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-06T14:08:00Z",
+  "updated": "2026-11-06T20:46:31Z",
   "apps": [
     {
       "name": "PokeMMO",
@@ -851,18 +851,24 @@
       "name": "Reddit++",
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "Moe",
-      "version": "2026.44.0",
+      "version": "2026.44.1",
       "versionDate": "2026-11-06",
-      "versionDescription": "Release 2026.44.0",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.v2026.44.0.ipa",
-      "down": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.v2026.44.0.ipa",
-      "localizedDescription": "Tweaks: MoesReddit\n\nFeatures:  • (Coming soon)\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "versionDescription": "• Reddit updated to v2026.44.1",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.v2026.44.1.+.RedditFilter.ipa",
+      "down": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.v2026.44.1.+.RedditFilter.ipa",
+      "localizedDescription": "Features:\n\n• (Coming soon)",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/74/9d/a1749d85-1061-a0ac-0731-6ea329d668cf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/74/9d/a1749d85-1061-a0ac-0731-6ea329d668cf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "tintColor": "000000",
-      "size": 147004450,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
+      "tintColor": "a24320",
+      "size": 146986354,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/4b/53/b54b5327-21a6-8edb-e501-1cad4de9be0f/2f5e42be-b39e-4832-afa2-35480ddeab3c_Reddit_SS_5.5_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/e5/67/06e5675b-2ac9-726d-d3f5-e4a01e99b280/a69a9c76-db1f-4d3e-8c8a-14728d2a7302_Reddit_SS_5.5_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/03/df/dc03dfc4-1a75-58fb-008a-b376ebe0faa4/d6df48a8-9439-40d2-857e-090f02a9e3e7_Reddit_SS_5.5_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/90/f0/3e90f04b-3370-8693-9da7-389727269bd1/39c1679e-1446-4ba0-b49d-95337ee04d49_Reddit_SS_5.5_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/ef/32/cdef3232-e4b6-64ef-0c86-68edc197000b/d4453d1f-b547-44e2-b761-1316d216b3b0_Reddit_SS_5.5_5.jpg/392x696bb.jpg"
+      ],
+      "source": "https://wuxu1.github.io/wuxu-complete.json"
     },
     {
       "name": "Regram (Duplicate)",
@@ -1048,23 +1054,6 @@
       "icon": "https://fastsign.dev/tg-icon/sa1y0miii/15565.png",
       "tintColor": "000000",
       "size": 73896342,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "superagent",
-      "bundleIdentifier": "com.agent.super.extension.safari",
-      "developerName": "@binnichtaktivsipas",
-      "version": "4.7.3",
-      "versionDate": "2026-11-06",
-      "versionDescription": "Release 4.7.3",
-      "downloadURL": "https://fastsign.dev/tg-ipa/binnichtaktivsipas/159898-Super%20Agent%20for%20Safari%20Unlimited%204.7.3.ipa",
-      "down": "https://fastsign.dev/tg-ipa/binnichtaktivsipas/159898-Super%20Agent%20for%20Safari%20Unlimited%204.7.3.ipa",
-      "localizedDescription": "@binnichtaktivsipas | Super Agent for Safari  Unlimited features unlocked  Great safari addon that automatically fills out website’s cookie consent fo\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/binnichtaktivsipas/159898.png",
-      "icon": "https://fastsign.dev/tg-icon/binnichtaktivsipas/159898.png",
-      "tintColor": "000000",
-      "size": 32202800,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -2017,23 +2006,6 @@
       "icon": "https://fastsign.dev/tg-icon/blatants/13288.png",
       "tintColor": "000000",
       "size": 221784240,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Locket",
-      "bundleIdentifier": "com.locket.Locket",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2.71.2",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 2.71.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Locket_2.71.2_Gold_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Locket_2.71.2_Gold_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Locket Widget  • Bundle ID: com.locket.Locket • Updated to: 2.71.2 • Minimum iOS: 15.0 • Patched • Modifier: Locket Gold • Tweaked by @bla\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
-      "tintColor": "000000",
-      "size": 96961720,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -6882,6 +6854,28 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Offline Map - GPS Route Tracker",
+      "bundleIdentifier": "com.ikbalgis.swift.speedmaps",
+      "developerName": "GPSTrack",
+      "version": "4.0.1",
+      "versionDate": "2026-11-02",
+      "versionDescription": "•Premium Unlocked •Record where you go, find your way back & keep your maps with you even without signal",
+      "downloadURL": "https://st76471.ispot.cc/ipa/GPSTrack-OfflineMapRoute_v4.0.1%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/GPSTrack-OfflineMapRoute_v4.0.1%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Record where you go, find your way back & keep your maps with you even without signal",
+      "iconURL": "https://delvek.net/img/gpstrack.png",
+      "icon": "https://delvek.net/img/gpstrack.png",
+      "tintColor": "0,255,0",
+      "size": 25345000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/gpstrack1.png",
+        "https://delvek.net/img/!/gpstrack2.png",
+        "https://delvek.net/img/!/gpstrack3.png",
+        "https://delvek.net/img/!/gpstrack4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "One Year",
       "bundleIdentifier": "wndn.studio.one-year",
       "developerName": "@Sa1y0miii",
@@ -10067,23 +10061,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Hevy",
-      "bundleIdentifier": "com.hevyapp.hevy",
-      "developerName": "AppTesters IPA Repo",
-      "version": "3.2.4",
-      "versionDate": "2026-10-29",
-      "versionDescription": "Release 3.2.4",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/Hevy_3.2.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/Hevy_3.2.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png",
-      "tintColor": "000000",
-      "size": 145657994,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Koco Widgets_v1.28.4_tg@Sa1y0miii",
       "bundleIdentifier": "com.niko.PocketWidgetsApp",
       "developerName": "@Sa1y0miii",
@@ -11457,23 +11434,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonlab.unfoldstories.png",
       "tintColor": "000000",
       "size": 222656548,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "VideoLite",
-      "bundleIdentifier": "com.videobrowser.ios",
-      "developerName": "AppTesters IPA Repo",
-      "version": "626001",
-      "versionDate": "2026-10-27",
-      "versionDescription": "Release 626001",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/VideoLite_626001_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/VideoLite_626001_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Pro\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.videobrowser.ios.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.videobrowser.ios.png",
-      "tintColor": "000000",
-      "size": 45695059,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -62321,9 +62281,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1793974080",
+      "identifier": "update-1793997991",
       "caption": "Updated with 5505 unique sideloadable apps",
-      "date": "2026-11-06T14:08:00Z",
+      "date": "2026-11-06T20:46:31Z",
       "tintColor": "#007AFF"
     }
   ]
