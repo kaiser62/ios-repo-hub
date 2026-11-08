@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-08T05:29:48Z",
+  "updated": "2026-11-08T13:04:15Z",
   "apps": [
     {
       "name": "ARMSX2",
@@ -24,6 +24,23 @@
       "size": 40589664,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Bazaart",
+      "bundleIdentifier": "co.bazaart.app",
+      "developerName": "Community Developer",
+      "version": "27.0.7",
+      "versionDate": "2026-11-08",
+      "versionDescription": "Release 27.0.7",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Bazaart_27.0.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Bazaart_27.0.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
+      "tintColor": "#007AFF",
+      "size": 115736839,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "Bill Tracker",
@@ -126,6 +143,23 @@
       "size": 15942746,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Busuu",
+      "bundleIdentifier": "com.busuu.english.app",
+      "developerName": "Community Developer",
+      "version": "30.33.0",
+      "versionDate": "2026-11-08",
+      "versionDescription": "Release 30.33.0",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Busuu_30.33.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Busuu_30.33.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png",
+      "tintColor": "#007AFF",
+      "size": 194356891,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "CalculatorAir",
@@ -806,6 +840,23 @@
       "size": 203415885,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "SimplyPiano",
+      "bundleIdentifier": "com.joytunes.asla",
+      "developerName": "Community Developer",
+      "version": "9.11.3",
+      "versionDate": "2026-11-08",
+      "versionDescription": "Release 9.11.3",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/SimplyPiano_9.11.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/SimplyPiano_9.11.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+      "tintColor": "#007AFF",
+      "size": 155548362,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "Snipd",
@@ -4231,23 +4282,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "SimplyPiano",
-      "bundleIdentifier": "com.joytunes.asla",
-      "developerName": "AppTesters IPA Repo",
-      "version": "9.11.2",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 9.11.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/SimplyPiano_9.11.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/SimplyPiano_9.11.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Simply Piano: Learn Piano Fast\n\n• Bundle ID: com.joytunes.asla\n• Updated to: 9.11.2\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLogin with your account and restart the app once to activate the subscription.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
-      "tintColor": "000000",
-      "size": 180890162,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Splice",
       "bundleIdentifier": "com.path36.SpliceFree",
       "developerName": "AppTesters IPA Repo",
@@ -4635,23 +4669,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8777.png",
       "tintColor": "000000",
       "size": 145644090,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Busuu",
-      "bundleIdentifier": "com.busuu.english.app",
-      "developerName": "AppTesters IPA Repo",
-      "version": "30.32.0",
-      "versionDate": "2026-11-04",
-      "versionDescription": "Release 30.32.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/Busuu_30.32.0_Premium_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/Busuu_30.32.0_Premium_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Busuu: Language Learning App\n\n• Bundle ID: com.busuu.english.app\n• Updated to: 30.32.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: PremiumPlus Unlocked\n• Tweaked by @blatants\n\n• Note:\nSpeaking practise isn't unlocked.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png",
-      "tintColor": "000000",
-      "size": 194912261,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -12755,23 +12772,6 @@
         "https://delvek.net/img/!/appstore+4.png"
       ],
       "source": "https://delvek.net/repo.json"
-    },
-    {
-      "name": "Bazaart",
-      "bundleIdentifier": "co.bazaart.app",
-      "developerName": "AppTesters IPA Repo",
-      "version": "27.0.6",
-      "versionDate": "2026-10-26",
-      "versionDescription": "Release 27.0.6",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/Bazaart_27.0.6_Premium_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/Bazaart_27.0.6_Premium_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Premium\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
-      "tintColor": "000000",
-      "size": 122010545,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
     },
     {
       "name": "Bluey's Quest",
@@ -100215,9 +100215,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1794115788",
+      "identifier": "update-1794143055",
       "caption": "Updated with 5519 unique sideloadable apps",
-      "date": "2026-11-08T05:29:48Z",
+      "date": "2026-11-08T13:04:15Z",
       "tintColor": "#007AFF"
     }
   ]
