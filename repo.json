@@ -6,8 +6,42 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-08T19:27:05Z",
+  "updated": "2026-11-09T00:41:11Z",
   "apps": [
+    {
+      "name": "fGet",
+      "bundleIdentifier": "com.penguinbit.fastdownload",
+      "developerName": "Community Developer",
+      "version": "1.7.4",
+      "versionDate": "2026-11-09",
+      "versionDescription": "Release 1.7.4",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/fGet_1.7.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/fGet_1.7.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Pro",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png",
+      "tintColor": "#007AFF",
+      "size": 19842502,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
+      "name": "Mockup",
+      "bundleIdentifier": "com.hasankassem.mockup",
+      "developerName": "Community Developer",
+      "version": "4.6.2",
+      "versionDate": "2026-11-09",
+      "versionDescription": "Release 4.6.2",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Mockup_4.6.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Mockup_4.6.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png",
+      "tintColor": "#007AFF",
+      "size": 52252431,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
     {
       "name": "ARMSX2",
       "bundleIdentifier": "com.armsx2.ios",
@@ -6237,23 +6271,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "fGet",
-      "bundleIdentifier": "com.penguinbit.fastdownload",
-      "developerName": "AppTesters IPA Repo",
-      "version": "1.7.3",
-      "versionDate": "2026-11-03",
-      "versionDescription": "Release 1.7.3",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/fGet_1.7.3_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/fGet_1.7.3_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | fGet - File Manager & Browser\n\n• Bundle ID: com.penguinbit.fastdownload\n• Updated to: 1.7.3\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png",
-      "tintColor": "000000",
-      "size": 19838264,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Fishbrain",
       "bundleIdentifier": "com.fishbrain.app",
       "developerName": "@riftysIPAlibrary",
@@ -11677,23 +11694,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8651.png",
       "tintColor": "000000",
       "size": 147652901,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Mockup",
-      "bundleIdentifier": "com.hasankassem.mockup",
-      "developerName": "@blatants",
-      "version": "4.6.1",
-      "versionDate": "2026-10-29",
-      "versionDescription": "Release 4.6.1",
-      "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13145-Mockup_UI_UX_Design_v4_6_1_Subscription_Unlocked_blatant_Patched.ipa",
-      "down": "https://fastsign.dev/tg-ipa/blatants/13145-Mockup_UI_UX_Design_v4_6_1_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "@blatants | Mockup - UI/UX Design\n\n• Bundle ID: com.hasankassem.mockup\n• Updated to: 4.6.1\n• Minimum iOS: 15\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/blatants/13145.png",
-      "icon": "https://fastsign.dev/tg-icon/blatants/13145.png",
-      "tintColor": "000000",
-      "size": 52213484,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -66299,6 +66299,50 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "LBox",
+      "bundleIdentifier": "Lolendor.LBox",
+      "developerName": "LBox",
+      "version": "1.2",
+      "versionDate": "2026-01-08",
+      "versionDescription": "•A native iOS repository manager & downloader offering seamless integration with LiveContainer •Browse public sources, download iPAs & install/launch apps directly on your device",
+      "downloadURL": "https://st76471.ispot.cc/ipa/LBox_v1.2_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/LBox_v1.2_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•A native iOS repository manager & downloader offering seamless integration with LiveContainer •Browse public sources, download iPAs & install/launch apps directly on your device",
+      "iconURL": "https://delvek.net/img/lbox.png",
+      "icon": "https://delvek.net/img/lbox.png",
+      "tintColor": "0,255,0",
+      "size": 617000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/lbox1.png",
+        "https://delvek.net/img/!/lbox2.png",
+        "https://delvek.net/img/!/lbox3.png",
+        "https://delvek.net/img/!/lbox4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
+      "name": "Unbroken Soul",
+      "bundleIdentifier": "com.Chorrus.UnbrokenSoul",
+      "developerName": "UnbrokenSoul",
+      "version": "1.3.0",
+      "versionDate": "2026-01-08",
+      "versionDescription": "「✓𝐏𝐀𝐈𝐃 𝐀𝐏𝐏」•Premium Unlocked •Wake up in the Reign of the Dead with your own soul as your guide •Cross nine dark lands, beat the guardian at the end of each one and keep the skill it leaves behind",
+      "downloadURL": "https://st76471.ispot.cc/ipa/Husk_v0.7.0_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/Husk_v0.7.0_%5BDELvEK%5D.ipa",
+      "localizedDescription": "「✓𝐏𝐀𝐈𝐃 𝐀𝐏𝐏」•Premium Unlocked •Wake up in the Reign of the Dead with your own soul as your guide •Cross nine dark lands, beat the guardian at the end of each one and keep the skill it leaves behind",
+      "iconURL": "https://delvek.net/img/unbrokensoul.png",
+      "icon": "https://delvek.net/img/unbrokensoul.png",
+      "tintColor": "0,255,0",
+      "size": 47419000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/unbrokensoul1.png",
+        "https://delvek.net/img/!/unbrokensoul2.png",
+        "https://delvek.net/img/!/unbrokensoul3.png",
+        "https://delvek.net/img/!/unbrokensoul4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "Bus Out",
       "bundleIdentifier": "com.dino.bus.out",
       "developerName": "ipaomtk.com",
@@ -100249,9 +100293,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1794166025",
-      "caption": "Updated with 5521 unique sideloadable apps",
-      "date": "2026-11-08T19:27:05Z",
+      "identifier": "update-1794184871",
+      "caption": "Updated with 5523 unique sideloadable apps",
+      "date": "2026-11-09T00:41:11Z",
       "tintColor": "#007AFF"
     }
   ]
