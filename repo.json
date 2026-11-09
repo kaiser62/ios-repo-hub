@@ -6,8 +6,127 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-09T11:11:29Z",
+  "updated": "2026-11-09T22:10:10Z",
   "apps": [
+    {
+      "name": "Dazz",
+      "bundleIdentifier": "dazz.camera.vintagecamera",
+      "developerName": "Community Developer",
+      "version": "2.18",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 2.18",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Dazz_2.18_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Dazz_2.18_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Pro",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dazz.camera.vintagecamera.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dazz.camera.vintagecamera.png",
+      "tintColor": "#007AFF",
+      "size": 123296225,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
+      "name": "Flightradar24",
+      "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
+      "developerName": "Community Developer",
+      "version": "11.15.0",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 11.15.0",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Flightradar24_11.15.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Flightradar24_11.15.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Gold",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/se.resenatverket.FlightRadar24-Free.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/se.resenatverket.FlightRadar24-Free.png",
+      "tintColor": "#007AFF",
+      "size": 234175634,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
+      "name": "Notability",
+      "bundleIdentifier": "com.gingerlabs.Notability",
+      "developerName": "Community Developer",
+      "version": "16.13.5",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 16.13.5",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Notability_16.13.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Notability_16.13.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Pro",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
+      "tintColor": "#007AFF",
+      "size": 299366966,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
+      "name": "PeakVisor",
+      "bundleIdentifier": "ru.routes.peakvisor",
+      "developerName": "Community Developer",
+      "version": "5.121",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 5.121",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/PeakVisor_5.121_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/PeakVisor_5.121_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
+      "tintColor": "#007AFF",
+      "size": 162998791,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
+      "name": "Shapeyard",
+      "bundleIdentifier": "app.chudo",
+      "developerName": "Community Developer",
+      "version": "5.34.1",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 5.34.1",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Shapeyard_5.34.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Shapeyard_5.34.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png",
+      "tintColor": "#007AFF",
+      "size": 86543094,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
+      "name": "SimplyDraw",
+      "bundleIdentifier": "com.joytunes.Draw",
+      "developerName": "Community Developer",
+      "version": "1.22.0",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 1.22.0",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/SimplyDraw_1.22.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/SimplyDraw_1.22.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Draw.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Draw.png",
+      "tintColor": "#007AFF",
+      "size": 55865379,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
+      "name": "swipewipe",
+      "bundleIdentifier": "com.aoklab.fewerphotos",
+      "developerName": "Community Developer",
+      "version": "3.5.4",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 3.5.4",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/swipewipe_3.5.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/swipewipe_3.5.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Pro",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aoklab.fewerphotos.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aoklab.fewerphotos.png",
+      "tintColor": "#007AFF",
+      "size": 150336115,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
     {
       "name": "ARMSX2",
       "bundleIdentifier": "com.armsx2.ios",
@@ -58,6 +177,23 @@
       "size": 115736839,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Bearable",
+      "bundleIdentifier": "co.codeleap.bearable",
+      "developerName": "Community Developer",
+      "version": "1.0.615",
+      "versionDate": "2026-11-09",
+      "versionDescription": "Release 1.0.615",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Bearable_1.0.615_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Bearable_1.0.615_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.codeleap.bearable.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.codeleap.bearable.png",
+      "tintColor": "#007AFF",
+      "size": 65489749,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "BeatMakerPro",
@@ -111,6 +247,40 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Calm",
+      "bundleIdentifier": "com.calm.calmapp",
+      "developerName": "Community Developer",
+      "version": "7.4.1",
+      "versionDate": "2026-11-09",
+      "versionDescription": "Release 7.4.1",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Calm_7.4.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Calm_7.4.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
+      "tintColor": "#007AFF",
+      "size": 121496940,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
+      "name": "Cleanup",
+      "bundleIdentifier": "com.codeway.cleanerplus",
+      "developerName": "Community Developer",
+      "version": "6.26.0",
+      "versionDate": "2026-11-09",
+      "versionDescription": "Release 6.26.0",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Cleanup_6.26.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Cleanup_6.26.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.cleanerplus.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.cleanerplus.png",
+      "tintColor": "#007AFF",
+      "size": 84032360,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "DB LEGENDS",
       "bundleIdentifier": "jp.co.bandainamcoent.BNEI0334",
       "developerName": "@kamohacks",
@@ -126,6 +296,23 @@
       "size": 168698661,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Duolingo",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "developerName": "Community Developer",
+      "version": "7.148.0",
+      "versionDate": "2026-11-09",
+      "versionDescription": "Release 7.148.0",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Duolingo_7.148.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Duolingo_7.148.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
+      "tintColor": "#007AFF",
+      "size": 214458645,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "Earn to Die Rogue",
@@ -177,6 +364,23 @@
       "size": 146389107,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Elevate",
+      "bundleIdentifier": "com.elevateapp.elevate",
+      "developerName": "Community Developer",
+      "version": "5.265.0",
+      "versionDate": "2026-11-09",
+      "versionDescription": "Release 5.265.0",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Elevate_5.265.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Elevate_5.265.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
+      "tintColor": "#007AFF",
+      "size": 472017591,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "EMHQ",
@@ -417,6 +621,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Infuse",
+      "bundleIdentifier": "com.firecore.infuse",
+      "developerName": "Community Developer",
+      "version": "8.5.10",
+      "versionDate": "2026-11-09",
+      "versionDescription": "Release 8.5.10",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Infuse_8.5.10_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Infuse_8.5.10_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Plus",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.firecore.infuse.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.firecore.infuse.png",
+      "tintColor": "#007AFF",
+      "size": 102246349,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "Karteto",
       "bundleIdentifier": "com.karteto.application",
       "developerName": "@Sa1y0miii",
@@ -638,6 +859,40 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Piano",
+      "bundleIdentifier": "com.mwm.piano-app",
+      "developerName": "Community Developer",
+      "version": "3.65.00",
+      "versionDate": "2026-11-09",
+      "versionDescription": "Release 3.65.00",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Piano_3.65.00_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Piano_3.65.00_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.piano-app.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.piano-app.png",
+      "tintColor": "#007AFF",
+      "size": 167403521,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
+      "name": "PureStatus",
+      "bundleIdentifier": "com.damtechdesigns.wa.story",
+      "developerName": "Community Developer",
+      "version": "2026.13",
+      "versionDate": "2026-11-09",
+      "versionDescription": "Release 2026.13",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/PureStatus_2026.13_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/PureStatus_2026.13_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Pro",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damtechdesigns.wa.story.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damtechdesigns.wa.story.png",
+      "tintColor": "#007AFF",
+      "size": 79653168,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "PUSH",
       "bundleIdentifier": "com.ADPTVLTD.push",
       "developerName": "Community Developer",
@@ -704,6 +959,23 @@
       "size": 70768345,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "SCRL",
+      "bundleIdentifier": "com.dopedevelopment.Panels",
+      "developerName": "Community Developer",
+      "version": "9.63",
+      "versionDate": "2026-11-09",
+      "versionDescription": "Release 9.63",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/SCRL_9.63_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/SCRL_9.63_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
+      "tintColor": "#007AFF",
+      "size": 91106233,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "SHRED",
@@ -934,6 +1206,40 @@
       "size": 17346615,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "TunerPro",
+      "bundleIdentifier": "com.mwm.guitartuner",
+      "developerName": "Community Developer",
+      "version": "4.01.10",
+      "versionDate": "2026-11-09",
+      "versionDescription": "Release 4.01.10",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/TunerPro_4.01.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/TunerPro_4.01.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png",
+      "tintColor": "#007AFF",
+      "size": 304605570,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
+      "name": "VideoStudio",
+      "bundleIdentifier": "videoeditor.app",
+      "developerName": "Community Developer",
+      "version": "3.21.6",
+      "versionDate": "2026-11-09",
+      "versionDescription": "Release 3.21.6",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/VideoStudio_3.21.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/VideoStudio_3.21.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png",
+      "tintColor": "#007AFF",
+      "size": 152948776,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "Vitrine v1.0.0-b16 + Pixie v1.4 (Not Patched) IPAVault",
@@ -1425,23 +1731,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
       "tintColor": "000000",
       "size": 122881213,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Flightradar24",
-      "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
-      "developerName": "@binnichtaktivsipas",
-      "version": "11.14.1",
-      "versionDate": "2026-11-08",
-      "versionDescription": "Release 11.14.1",
-      "downloadURL": "https://fastsign.dev/tg-ipa/binnichtaktivsipas/159982-Flightradar%20Gold%2011.14.1.ipa",
-      "down": "https://fastsign.dev/tg-ipa/binnichtaktivsipas/159982-Flightradar%20Gold%2011.14.1.ipa",
-      "localizedDescription": "@binnichtaktivsipas | Flightradar24 | Flight Tracker\n\nGold unlocked\n\nLog in with any account to get Gold features\n\nTweak made by blatant\n\nMinimum OS version 16.0\n\nAppStore link | Donate\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/binnichtaktivsipas/159982.png",
-      "icon": "https://fastsign.dev/tg-icon/binnichtaktivsipas/159982.png",
-      "tintColor": "000000",
-      "size": 219975605,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -2228,6 +2517,29 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "AudioMack+",
+      "bundleIdentifier": "com.audiomack.iphone",
+      "developerName": "MrZEFv",
+      "version": "8.11.2",
+      "versionDate": "2026-11-07",
+      "versionDescription": "•ᴹᴿ𝐙𝐄𝐅𝐯 𝐄𝐃𝐢𝐓𝐢𝐎𝐍 •Premium Unlocked •This version brings back lyrics •Music Player •Download songs, mixtapes, albums & playlists •Stream Offline",
+      "downloadURL": "https://st76471.ispot.cc/ipa/AudioMack_v8.11.2%2BPREMiUM_%5BZEFv%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/AudioMack_v8.11.2%2BPREMiUM_%5BZEFv%5D.ipa",
+      "localizedDescription": "•ᴹᴿ𝐙𝐄𝐅𝐯 𝐄𝐃𝐢𝐓𝐢𝐎𝐍 •Premium Unlocked •This version brings back lyrics •Music Player •Download songs, mixtapes, albums & playlists •Stream Offline",
+      "iconURL": "https://delvek.net/img/audiomack3.png",
+      "icon": "https://delvek.net/img/audiomack3.png",
+      "tintColor": "0,255,0",
+      "size": 250590000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/audiomack1.png",
+        "https://delvek.net/img/!/audiomack2z.png",
+        "https://delvek.net/img/!/audiomack3.png",
+        "https://delvek.net/img/!/audiomack4.png",
+        "https://delvek.net/img/!/audiomack5z.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "BCD",
       "bundleIdentifier": "com.thebcd69.bcd",
       "developerName": "thebcd69",
@@ -2959,23 +3271,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "PeakVisor",
-      "bundleIdentifier": "ru.routes.peakvisor",
-      "developerName": "AppTesters IPA Repo",
-      "version": "5.120",
-      "versionDate": "2026-11-07",
-      "versionDescription": "Release 5.120",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/PeakVisor_5.120_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/PeakVisor_5.120_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Hiking and Skiing - PeakVisor\n\n• Bundle ID: ru.routes.peakvisor\n• Updated to: 5.120\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
-      "tintColor": "000000",
-      "size": 162900825,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Pearla V4",
       "bundleIdentifier": "io.houseofmars.Pearla",
       "developerName": "@Sa1y0miii",
@@ -3543,6 +3838,28 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Ai Coding",
+      "bundleIdentifier": "com.7redbits.SwiftAI",
+      "developerName": "AiCoding",
+      "version": "2.8.4",
+      "versionDate": "2026-11-06",
+      "versionDescription": "•Premium Unlocked •Introducing AiCoding, the revolutionary app that uses cutting-edge Ai technology (the openAi APi) to generate high-quality code for the Swift, Kotlin, Java & Bash programming languages",
+      "downloadURL": "https://st76471.ispot.cc/ipa/AiCoding_v2.8.4%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/AiCoding_v2.8.4%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Introducing AiCoding, the revolutionary app that uses cutting-edge Ai technology (the openAi APi) to generate high-quality code for the Swift, Kotlin, Java & Bash programming languages",
+      "iconURL": "https://delvek.net/img/aicoding.png",
+      "icon": "https://delvek.net/img/aicoding.png",
+      "tintColor": "0,255,0",
+      "size": 26032000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/aicoding1.png",
+        "https://delvek.net/img/!/aicoding2.png",
+        "https://delvek.net/img/!/aicoding3.png",
+        "https://delvek.net/img/!/aicoding4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "Aloha",
       "bundleIdentifier": "com.alohabrowser.alohabrowser",
       "developerName": "AppTesters IPA Repo",
@@ -3747,6 +4064,49 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Detail - Ai Video Editor",
+      "bundleIdentifier": "co.detail.duo",
+      "developerName": "Detail",
+      "version": "6.0.6",
+      "versionDate": "2026-11-06",
+      "versionDescription": "•Premium Unlocked •Detail combines the simplicity of a camera app with the power of a professional Ai Video Editor •Whether you're creating a 60-second reaction video, a polished YouTube vlog, a 30-minute interview or podcast, or going live to thousands of viewers, you can do it all in one place here",
+      "downloadURL": "https://st76471.ispot.cc/ipa/Detail_v6.0.6%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/Detail_v6.0.6%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Detail combines the simplicity of a camera app with the power of a professional Ai Video Editor •Whether you're creating a 60-second reaction video, a polished YouTube vlog, a 30-minute interview or podcast, or going live to thousands of viewers, you can do it all in one place here",
+      "iconURL": "https://delvek.net/img/detail.png",
+      "icon": "https://delvek.net/img/detail.png",
+      "tintColor": "0,255,0",
+      "size": 222144000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/detail1.png",
+        "https://delvek.net/img/!/detail2.png",
+        "https://delvek.net/img/!/detail3.png",
+        "https://delvek.net/img/!/detail4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
+      "name": "Dopamine",
+      "bundleIdentifier": "com.opa334.Dopamine",
+      "developerName": "Dopamine",
+      "version": "3.0.13",
+      "versionDate": "2026-11-06",
+      "versionDescription": "•Rootless semi-untethered jailbreak for iOS 15.0-17.3.1 (arm64e) & iOS 15.0-18.7.1 (arm64) & iOS 15.0-18.7.1 & 26.0-26.0.1 (All A12+/A13 Devices)",
+      "downloadURL": "https://st76471.ispot.cc/ipa/Dopamine_v3.0.13_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/Dopamine_v3.0.13_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•Rootless semi-untethered jailbreak for iOS 15.0-17.3.1 (arm64e) & iOS 15.0-18.7.1 (arm64) & iOS 15.0-18.7.1 & 26.0-26.0.1 (All A12+/A13 Devices)",
+      "iconURL": "https://delvek.net/img/dopamine.png",
+      "icon": "https://delvek.net/img/dopamine.png",
+      "tintColor": "0,255,0",
+      "size": 55425000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/dopamine0.png",
+        "https://delvek.net/img/!/dopamine02.png",
+        "https://delvek.net/img/!/dopamine3.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "DunDun",
       "bundleIdentifier": "hltek.DunDun",
       "developerName": "@Sa1y0miii",
@@ -3762,6 +4122,28 @@
       "size": 54226836,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Eagle",
+      "bundleIdentifier": "com.leonardobaptiste.laracustom",
+      "developerName": "Eagle",
+      "version": "1.0.7",
+      "versionDate": "2026-11-06",
+      "versionDescription": "•iOS interface customization tool Minimum iOS17 to 18.7.1 & iOS26.0-26.0.1 •No jailbreak required •Add effects to the Dock, change the color of app names & add animation effects to the Dynamic Island",
+      "downloadURL": "https://st76471.ispot.cc/ipa/Eagle_v1.0.7_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/Eagle_v1.0.7_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•iOS interface customization tool Minimum iOS17 to 18.7.1 & iOS26.0-26.0.1 •No jailbreak required •Add effects to the Dock, change the color of app names & add animation effects to the Dynamic Island",
+      "iconURL": "https://delvek.net/img/eagle.png",
+      "icon": "https://delvek.net/img/eagle.png",
+      "tintColor": "0,255,0",
+      "size": 14339000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/eagle1.png",
+        "https://delvek.net/img/!/eagle2.png",
+        "https://delvek.net/img/!/eagle3.png",
+        "https://delvek.net/img/!/eagle4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "Elementra: The Boy's Adventure ✨",
@@ -3883,6 +4265,27 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "inShot - Video Editor",
+      "bundleIdentifier": "com.camerasideas.InstaShot",
+      "developerName": "inShot",
+      "version": "2.1.0",
+      "versionDate": "2026-11-06",
+      "versionDescription": "•Premium Unlocked •Advanced video & photo editing •Unlock effortless editing with easy-to-use features & powerful AI tools •Elevating your video & photo editing experience to new heights",
+      "downloadURL": "https://st76471.ispot.cc/ipa/InShot-VideoEditor_v2.1.0%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/InShot-VideoEditor_v2.1.0%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Advanced video & photo editing •Unlock effortless editing with easy-to-use features & powerful AI tools •Elevating your video & photo editing experience to new heights",
+      "iconURL": "https://delvek.net/img/inshot.png",
+      "icon": "https://delvek.net/img/inshot.png",
+      "tintColor": "0,255,0",
+      "size": 173191000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/inshot1.png",
+        "https://delvek.net/img/!/inshot2.png",
+        "https://delvek.net/img/!/inshot3.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "iStoria",
       "bundleIdentifier": "sa.com.istoria",
       "developerName": "@Sa1y0miii",
@@ -3932,6 +4335,28 @@
       "size": 73372076,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "LUT Studio - Color Grading App",
+      "bundleIdentifier": "com.solveit.lut-studio",
+      "developerName": "LUTStudioPro",
+      "version": "4.1.3",
+      "versionDate": "2026-11-06",
+      "versionDescription": "•Premium Unlocked •Create cinematic videos in seconds with powerful LUT color grading",
+      "downloadURL": "https://st76471.ispot.cc/ipa/LUTStudioPro_v4.1.3%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/LUTStudioPro_v4.1.3%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Create cinematic videos in seconds with powerful LUT color grading",
+      "iconURL": "https://delvek.net/img/lutstudio.png",
+      "icon": "https://delvek.net/img/lutstudio.png",
+      "tintColor": "0,255,0",
+      "size": 142464000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/lutstudio1.png",
+        "https://delvek.net/img/!/lutstudio2.png",
+        "https://delvek.net/img/!/lutstudio3.png",
+        "https://delvek.net/img/!/lutstudio4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "MDClock",
@@ -4034,6 +4459,28 @@
       "size": 110794615,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Paste - Limitless Clipboard",
+      "bundleIdentifier": "com.wiheads.paste",
+      "developerName": "Paste",
+      "version": "7.0.5",
+      "versionDate": "2026-11-06",
+      "versionDescription": "•Premium Unlocked •Paste remembers everything you copy; text, links, images, files & more •Compatible on iPhone/iPad •So the thing you copied yesterday, last week, or last month is always one shortcut away",
+      "downloadURL": "https://st76471.ispot.cc/ipa/Paste-LimitlessClipboard_v7.0.5%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/Paste-LimitlessClipboard_v7.0.5%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Paste remembers everything you copy; text, links, images, files & more •Compatible on iPhone/iPad •So the thing you copied yesterday, last week, or last month is always one shortcut away",
+      "iconURL": "https://delvek.net/img/paste.png",
+      "icon": "https://delvek.net/img/paste.png",
+      "tintColor": "0,255,0",
+      "size": 128506000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/paste1.png",
+        "https://delvek.net/img/!/paste2.png",
+        "https://delvek.net/img/!/paste3.png",
+        "https://delvek.net/img/!/paste4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "PetNoter",
@@ -4155,6 +4602,25 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Relaxin",
+      "bundleIdentifier": "com.aapl.relaxin",
+      "developerName": "Relaxin",
+      "version": "0.5.7",
+      "versionDate": "2026-11-06",
+      "versionDescription": "•Roothide Semi-Untethered Jailbreak tool for iOS 17.0–17.3.1 on A15+ devices •Root password:123456 •Relaxin is a fully vibecoded jailbreak made by developers not affiliated with the Dopamine team",
+      "downloadURL": "https://st76471.ispot.cc/ipa/Relaxin_v0.5.7_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/Relaxin_v0.5.7_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•Roothide Semi-Untethered Jailbreak tool for iOS 17.0–17.3.1 on A15+ devices •Root password:123456 •Relaxin is a fully vibecoded jailbreak made by developers not affiliated with the Dopamine team",
+      "iconURL": "https://delvek.net/img/relaxin.png",
+      "icon": "https://delvek.net/img/relaxin.png",
+      "tintColor": "0,255,0",
+      "size": 37214000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/relaxin2.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "Roadside",
       "bundleIdentifier": "com.mobirate.deadaheadgo",
       "developerName": "@kamohacks",
@@ -4221,6 +4687,27 @@
       "size": 54805792,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Send Anywhere - File Transfer",
+      "bundleIdentifier": "com.estmob.paprika",
+      "developerName": "SendAnywhere",
+      "version": "23.7.4",
+      "versionDate": "2026-11-06",
+      "versionDescription": "•Easy, Quick & Unlimited file sharing",
+      "downloadURL": "https://st76471.ispot.cc/ipa/SendAnywhere_v23.7.4_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/SendAnywhere_v23.7.4_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•Easy, Quick & Unlimited file sharing",
+      "iconURL": "https://delvek.net/img/sendanywhere.png",
+      "icon": "https://delvek.net/img/sendanywhere.png",
+      "tintColor": "0,255,0",
+      "size": 49813000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/sendanywhere1.png",
+        "https://delvek.net/img/!/sendanywhere2.png",
+        "https://delvek.net/img/!/sendanywhere3.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "Shadow Fights Shades",
@@ -4291,21 +4778,25 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "swipewipe",
-      "bundleIdentifier": "com.aoklab.fewerphotos",
-      "developerName": "AppTesters IPA Repo",
-      "version": "3.5.3",
+      "name": "Termux",
+      "bundleIdentifier": "com.fau.sshterminal",
+      "developerName": "Termux",
+      "version": "1.0.33",
       "versionDate": "2026-11-06",
-      "versionDescription": "Release 3.5.3",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/swipewipe_3.5.3_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/swipewipe_3.5.3_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Swipewipe: Photo Cleaner\n\n• Bundle ID: com.aoklab.fewerphotos\n• Updated to: 3.5.3\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app to activate the subscription.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aoklab.fewerphotos.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aoklab.fewerphotos.png",
-      "tintColor": "000000",
-      "size": 147862946,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
+      "versionDescription": "•Premium Unlocked •Powerful Terminal Emulator",
+      "downloadURL": "https://st76471.ispot.cc/ipa/Termux_v1.0.33_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/Termux_v1.0.33_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•Premium Unlocked •Powerful Terminal Emulator",
+      "iconURL": "https://delvek.net/img/termux.png",
+      "icon": "https://delvek.net/img/termux.png",
+      "tintColor": "0,255,0",
+      "size": 31305000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/termux1.png",
+        "https://delvek.net/img/!/termux2.png",
+        "https://delvek.net/img/!/termux3.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "ThisDay",
@@ -4323,6 +4814,74 @@
       "size": 36421554,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Threads",
+      "bundleIdentifier": "com.burbn.barcelona",
+      "developerName": "Threads",
+      "version": "454.0.0",
+      "versionDate": "2026-11-06",
+      "versionDescription": "•Tweak •See what people are talking about right now—from niche interests to big moments •With communities, you can find people who also care about your interests on Threads •Reply, listen, share or just follow along",
+      "downloadURL": "https://st76471.ispot.cc/ipa/Threads_v454.0.0-%28ThreadSaver%29.ipa",
+      "down": "https://st76471.ispot.cc/ipa/Threads_v454.0.0-%28ThreadSaver%29.ipa",
+      "localizedDescription": "•Tweak •See what people are talking about right now—from niche interests to big moments •With communities, you can find people who also care about your interests on Threads •Reply, listen, share or just follow along",
+      "iconURL": "https://delvek.net/img/threads.png",
+      "icon": "https://delvek.net/img/threads.png",
+      "tintColor": "0,255,0",
+      "size": 121914000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/threads1.png",
+        "https://delvek.net/img/!/threads2.png",
+        "https://delvek.net/img/!/threads3.png",
+        "https://delvek.net/img/!/threads4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
+      "name": "TOR Browser - Onion VPN & Orbot",
+      "bundleIdentifier": "com.youssef.developer.Full-Browser",
+      "developerName": "TORVPN",
+      "version": "12.5.0",
+      "versionDate": "2026-11-06",
+      "versionDescription": "•Premium Unlocked •Browse privately & protect your online activity with a powerful VPN servers •No logs, no tracking & no compromises",
+      "downloadURL": "https://st76471.ispot.cc/ipa/TORBrowser-OnionVPN%26Orbot_v12.5.0%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/TORBrowser-OnionVPN%26Orbot_v12.5.0%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Browse privately & protect your online activity with a powerful VPN servers •No logs, no tracking & no compromises",
+      "iconURL": "https://delvek.net/img/torvpn.png",
+      "icon": "https://delvek.net/img/torvpn.png",
+      "tintColor": "0,255,0",
+      "size": 177503000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/torvpn1.png",
+        "https://delvek.net/img/!/torvpn2.png",
+        "https://delvek.net/img/!/torvpn3.png",
+        "https://delvek.net/img/!/torvpn4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
+      "name": "VansonMod",
+      "bundleIdentifier": "com.vanson.modifier",
+      "developerName": "VansonMod",
+      "version": "3.6.0",
+      "versionDate": "2026-11-06",
+      "versionDescription": "•Install with TrollStore •The first standalone memory tool for iOS •Includes memory search, RVA modification, process management, Hex editing & multi-language support",
+      "downloadURL": "https://st76471.ispot.cc/ipa/VansonMod_v3.6.0_%5BDELvEK%5D.tipa",
+      "down": "https://st76471.ispot.cc/ipa/VansonMod_v3.6.0_%5BDELvEK%5D.tipa",
+      "localizedDescription": "•Install with TrollStore •The first standalone memory tool for iOS •Includes memory search, RVA modification, process management, Hex editing & multi-language support",
+      "iconURL": "https://delvek.net/img/vanson.png",
+      "icon": "https://delvek.net/img/vanson.png",
+      "tintColor": "0,255,0",
+      "size": 2460000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/vanson1.png",
+        "https://delvek.net/img/!/vanson2.png",
+        "https://delvek.net/img/!/vanson3.png",
+        "https://delvek.net/img/!/vanson4.png",
+        "https://delvek.net/img/!/vanson5.png",
+        "https://delvek.net/img/!/vanson6.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "Verbi",
@@ -4374,6 +4933,48 @@
       "size": 36852051,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "WhatsApp Business+ (WGold)",
+      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+      "developerName": "WhatsAppBusiness",
+      "version": "26.43.75",
+      "versionDate": "2026-11-06",
+      "versionDescription": "•Premium Unlocked •WGold Tweak &+ •Popular Messaging & Calling app •Super simple, reliable & private",
+      "downloadURL": "https://st76471.ispot.cc/ipa/WhatsAppBusiness_v26.43.75%2BWGold_v4.0.ipa",
+      "down": "https://st76471.ispot.cc/ipa/WhatsAppBusiness_v26.43.75%2BWGold_v4.0.ipa",
+      "localizedDescription": "•Premium Unlocked •WGold Tweak &+ •Popular Messaging & Calling app •Super simple, reliable & private",
+      "iconURL": "https://delvek.net/img/whatsappbusiness.png",
+      "icon": "https://delvek.net/img/whatsappbusiness.png",
+      "tintColor": "0,255,0",
+      "size": 184602000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/whatsappbusiness1.png",
+        "https://delvek.net/img/!/whatsappbusiness2.png",
+        "https://delvek.net/img/!/whatsappbusiness3.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
+      "name": "WhatsApp+ (WGold)",
+      "bundleIdentifier": "net.whatsapp.WhatsApp-WGold",
+      "developerName": "WhatsApp+WGold",
+      "version": "26.43.75",
+      "versionDate": "2026-11-06",
+      "versionDescription": "•WGold Tweak v4.0 •Popular Messaging & Calling app •Super simple, reliable & private",
+      "downloadURL": "https://st76471.ispot.cc/ipa/WhatsApp_v26.43.75%2BWGold_v4.0.ipa",
+      "down": "https://st76471.ispot.cc/ipa/WhatsApp_v26.43.75%2BWGold_v4.0.ipa",
+      "localizedDescription": "•WGold Tweak v4.0 •Popular Messaging & Calling app •Super simple, reliable & private",
+      "iconURL": "https://delvek.net/img/whatsapp+.png",
+      "icon": "https://delvek.net/img/whatsapp+.png",
+      "tintColor": "0,255,0",
+      "size": 176699000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/whatsapp1.png",
+        "https://delvek.net/img/!/whatsapp2.png",
+        "https://delvek.net/img/!/whatsapp3.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "Wishlists",
@@ -4767,23 +5368,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Detail",
-      "bundleIdentifier": "co.detail.duo",
-      "developerName": "AppTesters IPA Repo",
-      "version": "6.0.6",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 6.0.6",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Detail_6.0.6_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Detail_6.0.6_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Detail: AI Video Editor\n\n• Bundle ID: co.detail.duo\n• Updated to: 6.0.6\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore/close \"Failed to create AI Edits\" your vid will be ready just close this popup.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
-      "tintColor": "000000",
-      "size": 222652585,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "DLiPA",
       "bundleIdentifier": "com.ahmedbafkir.dlipa",
       "developerName": "Ahmed Bafkir",
@@ -4797,23 +5381,6 @@
       "icon": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/icon.png",
       "tintColor": "000000",
       "size": 534245,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Duolingo",
-      "bundleIdentifier": "com.duolingo.DuolingoMobile",
-      "developerName": "AppTesters IPA Repo",
-      "version": "7.147.1",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 7.147.1",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Duolingo_7.147.1_Premium_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Duolingo_7.147.1_Premium_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Duolingo: Learn Languages\n\n• Bundle ID: com.duolingo.DuolingoMobile\n• Updated to: 7.147.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Duolingo MAX Unlocked\n• Tweaked by @blatants\n\n• Note:\nSign-in with google/apple.\nIgnore any purchase banners all features should work.\nCredit to j4gm4g for providing the original script.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
-      "tintColor": "000000",
-      "size": 216530321,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -5056,23 +5623,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Paste",
-      "bundleIdentifier": "com.wiheads.paste",
-      "developerName": "AppTesters IPA Repo",
-      "version": "7.0.5",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 7.0.5",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Paste_7.0.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Paste_7.0.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Paste – Limitless Clipboard\n\n• Bundle ID: com.wiheads.paste\n• Updated to: 7.0.5\n• Minimum iOS: 26.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nThe app works properly when installed with a dev/dist certificate that has App Groups set up correctly.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wiheads.paste.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wiheads.paste.png",
-      "tintColor": "000000",
-      "size": 128658339,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Pinterest",
       "bundleIdentifier": "pinterest",
       "developerName": "@riftysIPAlibrary",
@@ -5086,23 +5636,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8811.png",
       "tintColor": "000000",
       "size": 189786865,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "PureStatus",
-      "bundleIdentifier": "com.damtechdesigns.wa.story",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2026.12",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 2026.12",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/PureStatus_2026.12_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/PureStatus_2026.12_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | PureStatus: ByeBye Blur Status\n\n• Bundle ID: com.damtechdesigns.wa.story\n• Updated to: 2026.12\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damtechdesigns.wa.story.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damtechdesigns.wa.story.png",
-      "tintColor": "000000",
-      "size": 79650207,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -5175,23 +5708,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "SimplyDraw",
-      "bundleIdentifier": "com.joytunes.Draw",
-      "developerName": "AppTesters IPA Repo",
-      "version": "1.21.0",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 1.21.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/SimplyDraw_1.21.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/SimplyDraw_1.21.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Simply Draw: Learn to Draw\n\n• Bundle ID: com.joytunes.Draw\n• Updated to: 1.21.0\n• Minimum iOS: 15.2\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLogin with your account and restart the app once to activate the subscription.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Draw.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Draw.png",
-      "tintColor": "000000",
-      "size": 55591013,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Splice",
       "bundleIdentifier": "com.path36.SpliceFree",
       "developerName": "AppTesters IPA Repo",
@@ -5243,23 +5759,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Threads",
-      "bundleIdentifier": "com.burbn.barcelona",
-      "developerName": "@kamohacks",
-      "version": "454.0.0",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 454.0.0",
-      "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16921-Threads%20-%20KamoHacks%20%5B454.0.0%5D.ipa",
-      "down": "https://fastsign.dev/tg-ipa/kamohacks/16921-Threads%20-%20KamoHacks%20%5B454.0.0%5D.ipa",
-      "localizedDescription": "@kamohacks | Threads 🆕⬆️⬆️\n\n🔩Hack Features🔩\n✅Threads Saver Tool Added \n\n📝To Save/Download The Threads just tap on 3 dot on top right of the post you can see download options at top.\n\n📄Buy Your Own Certificate Tap Here\n🛒Apple ID With Paid Games Tap here\n💬Group Chat Tap Here \n🎬YouTube Channel Tap Here \n📱TikTok Channel Tap Here \n🏪KamoShop Tap Here\n\n🛒👍🔥🔥🔥🔥🔥🔥✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/kamohacks/16921.png",
-      "icon": "https://fastsign.dev/tg-icon/kamohacks/16921.png",
-      "tintColor": "000000",
-      "size": 122103116,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Tiny Thief HD",
       "bundleIdentifier": "se.spyg.tinytheifhd",
       "developerName": "@spyg_vault",
@@ -5294,40 +5793,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "TORVPN",
-      "bundleIdentifier": "com.youssef.developer.Full-Browser",
-      "developerName": "AppTesters IPA Repo",
-      "version": "12.5",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 12.5",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/TORVPN_12.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/TORVPN_12.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Tweaks: TorSuite\n\n@blatants | TOR Browser: Onion VPN & Orbot\n\n• Bundle ID: com.youssef.developer.Full-Browser\n• Updated to: 12.5\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.youssef.developer.Full-Browser.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.youssef.developer.Full-Browser.png",
-      "tintColor": "000000",
-      "size": 177690019,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "TunerPro",
-      "bundleIdentifier": "com.mwm.guitartuner",
-      "developerName": "AppTesters IPA Repo",
-      "version": "4.01.09",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 4.01.09",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/TunerPro_4.01.09_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/TunerPro_4.01.09_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Tuner Pro: Guitar Tuner & Tab\n\n• Bundle ID: com.mwm.guitartuner\n• Updated to: 4.01.09\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png",
-      "tintColor": "000000",
-      "size": 303182339,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "VSCO",
       "bundleIdentifier": "co.visualsupply.cam",
       "developerName": "Community Developer",
@@ -5343,23 +5808,6 @@
       "size": 143867006,
       "screenshotURLs": [],
       "source": "https://repository.apptesters.org"
-    },
-    {
-      "name": "WA Business (WGoldPlus 4.0)",
-      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
-      "developerName": "@compiledipas",
-      "version": "26.43.75",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 26.43.75",
-      "downloadURL": "https://fastsign.dev/tg-ipa/compiledipas/1701-%E2%80%8EWA%20Business_26.43.75_WGoldPlus%284.0%29.ipa",
-      "down": "https://fastsign.dev/tg-ipa/compiledipas/1701-%E2%80%8EWA%20Business_26.43.75_WGoldPlus%284.0%29.ipa",
-      "localizedDescription": "Tweaks: WGold, WATranslator, WALocationSpoofer, WAFonts\n\n@compiledipas | WGoldPlus (WGold 4.0)\nWhatsAppSMB and WhatsApp v26.43.75\n\n\nIncluded tweaks:\nWGold 4.0(by @alibusut)\nWATranslator 2.1 (by @n9ipa)\nWAFonts v2.0.0 (by @n9ipa)\nWALocationSpoofer 0.0.6 (by @n9ipa)\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1701.png",
-      "icon": "https://fastsign.dev/tg-icon/compiledipas/1701.png",
-      "tintColor": "000000",
-      "size": 184600023,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
     },
     {
       "name": "WaterAir",
@@ -5617,23 +6065,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Dopamine",
-      "bundleIdentifier": "com.opa334.Dopamine",
-      "developerName": "opa334",
-      "version": "3.0.13",
-      "versionDate": "2026-11-04",
-      "versionDescription": "Release 3.0.13",
-      "downloadURL": "https://github.com/opa334/Dopamine/releases/download/3.0.13/Dopamine.ipa",
-      "down": "https://github.com/opa334/Dopamine/releases/download/3.0.13/Dopamine.ipa",
-      "localizedDescription": "Rootless arm64e jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64). More details will follow here soon.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://external-content.duckduckgo.com/iu/?u=https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/67ffxsD.jpeg",
-      "icon": "https://external-content.duckduckgo.com/iu/?u=https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/67ffxsD.jpeg",
-      "tintColor": "000000",
-      "size": 55422988,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Dreamy",
       "bundleIdentifier": "com.borysk.dreamy",
       "developerName": "@Sa1y0miii",
@@ -5719,23 +6150,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "InShot",
-      "bundleIdentifier": "com.camerasideas.InstaShot",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2.1.0",
-      "versionDate": "2026-11-04",
-      "versionDescription": "Release 2.1.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/InShot_2.1.0_Premium_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/InShot_2.1.0_Premium_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | InShot - Video Editor\n\n• Bundle ID: com.camerasideas.InstaShot\n• Updated to: 2.1.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Premium Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png",
-      "tintColor": "000000",
-      "size": 173418660,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Invoice Simple",
       "bundleIdentifier": "com.logicalengine.qsei",
       "developerName": "@riftysIPAlibrary",
@@ -5766,23 +6180,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8785.png",
       "tintColor": "000000",
       "size": 134579390,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "LUTStudio",
-      "bundleIdentifier": "com.solveit.lut-studio",
-      "developerName": "AppTesters IPA Repo",
-      "version": "4.1.3",
-      "versionDate": "2026-11-04",
-      "versionDescription": "Release 4.1.3",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/LUTStudio_4.1.3_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/LUTStudio_4.1.3_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | LUT Studio: Color Grading App\n\n• Bundle ID: com.solveit.lut-studio\n• Updated to: 4.1.3\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png",
-      "tintColor": "000000",
-      "size": 142602213,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -5885,23 +6282,6 @@
       "icon": "https://fastsign.dev/tg-icon/sa1y0miii/15496.png",
       "tintColor": "000000",
       "size": 70756103,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Notability",
-      "bundleIdentifier": "com.gingerlabs.Notability",
-      "developerName": "AppTesters IPA Repo",
-      "version": "16.13.4",
-      "versionDate": "2026-11-04",
-      "versionDescription": "Release 16.13.4",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/Notability_16.13.4_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/Notability_16.13.4_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Notability: AI Notes & Study\n\n• Bundle ID: com.gingerlabs.Notability\n• Updated to: 16.13.4\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
-      "tintColor": "000000",
-      "size": 298638014,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -6841,23 +7221,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Elevate",
-      "bundleIdentifier": "com.elevateapp.elevate",
-      "developerName": "@riftysIPAlibrary",
-      "version": "5.264.0",
-      "versionDate": "2026-11-03",
-      "versionDescription": "Release 5.264.0",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8765-Elevate%20-%20Brain%20Training%20Games-v5.264.0-riftysipas.ipa",
-      "down": "https://fastsign.dev/tg-ipa/riftysipalibrary/8765-Elevate%20-%20Brain%20Training%20Games-v5.264.0-riftysipas.ipa",
-      "localizedDescription": "@riftysIPAlibrary | Elevate - Brain Training Games\n\nTweak: Subscription Unlocked\n\nVersion: 5.264.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 17.0\nBundle ID: com.elevateapp.elevate\nDeveloper: The Mind Company\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8765.png",
-      "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8765.png",
-      "tintColor": "000000",
-      "size": 442273477,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Elite Auto Brasil",
       "bundleIdentifier": "com.SoltyGames.EliteAutoBrasil",
       "developerName": "@kamohacks",
@@ -7555,23 +7918,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Piano",
-      "bundleIdentifier": "com.mwm.piano-app",
-      "developerName": "AppTesters IPA Repo",
-      "version": "3.64.00",
-      "versionDate": "2026-11-03",
-      "versionDescription": "Release 3.64.00",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Piano_3.64.00_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Piano_3.64.00_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Piano: Keyboard Lessons & Game\n\n• Bundle ID: com.mwm.piano-app\n• Updated to: 3.64.00\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nJust close the purchase pages if you see any\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.piano-app.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.piano-app.png",
-      "tintColor": "000000",
-      "size": 167201589,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "PiliPlus",
       "bundleIdentifier": "com.example.piliplus",
       "developerName": "Community Developer",
@@ -7738,23 +8084,6 @@
       "icon": "https://ipa.thuthuatjb.com/view/img/RophimX.png",
       "tintColor": "000000",
       "size": 36264996,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "SCRL",
-      "bundleIdentifier": "com.dopedevelopment.Panels",
-      "developerName": "AppTesters IPA Repo",
-      "version": "9.62",
-      "versionDate": "2026-11-03",
-      "versionDescription": "Release 9.62",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/SCRL_9.62_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/SCRL_9.62_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | SCRL: Photo Collage Maker\n\n• Bundle ID: com.dopedevelopment.Panels\n• Updated to: 9.62\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
-      "tintColor": "000000",
-      "size": 91047003,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -8886,23 +9215,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8742.png",
       "tintColor": "000000",
       "size": 148788382,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Shapeyard",
-      "bundleIdentifier": "app.chudo",
-      "developerName": "AppTesters IPA Repo",
-      "version": "5.34",
-      "versionDate": "2026-11-02",
-      "versionDescription": "Release 5.34",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Shapeyard_5.34_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Shapeyard_5.34_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | 3D Modeling, Design: Shapeyard\n\n• Bundle ID: app.chudo\n• Updated to: 5.34\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png",
-      "tintColor": "000000",
-      "size": 87725440,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -10351,27 +10663,6 @@
         "https://delvek.net/img/!/cinder2.png",
         "https://delvek.net/img/!/cinder3.png",
         "https://delvek.net/img/!/cinder4.png"
-      ],
-      "source": "https://delvek.net/repo.json"
-    },
-    {
-      "name": "CleanUp Plus",
-      "bundleIdentifier": "com.codeway.cleanerplus",
-      "developerName": "CleanUpPlus",
-      "version": "6.25.1",
-      "versionDate": "2026-10-31",
-      "versionDescription": "•Premium Unlocked •App that let you clean up & manage your iOS device storage •Optimize storage in seconds",
-      "downloadURL": "https://st76471.ispot.cc/ipa/CleanupPlus_v6.25.1%2BPREMiUM.ipa",
-      "down": "https://st76471.ispot.cc/ipa/CleanupPlus_v6.25.1%2BPREMiUM.ipa",
-      "localizedDescription": "•Premium Unlocked •App that let you clean up & manage your iOS device storage •Optimize storage in seconds",
-      "iconURL": "https://delvek.net/img/cleanupplus.png",
-      "icon": "https://delvek.net/img/cleanupplus.png",
-      "tintColor": "0,255,0",
-      "size": 84985000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/cleanup1.png",
-        "https://delvek.net/img/!/cleanup2.png",
-        "https://delvek.net/img/!/cleanup3.png"
       ],
       "source": "https://delvek.net/repo.json"
     },
@@ -12812,23 +13103,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Calm",
-      "bundleIdentifier": "com.calm.calmapp",
-      "developerName": "AppTesters IPA Repo",
-      "version": "7.4",
-      "versionDate": "2026-10-27",
-      "versionDescription": "Release 7.4",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Calm_7.4_Premium_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Calm_7.4_Premium_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Premium\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
-      "tintColor": "000000",
-      "size": 121448554,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Coconote",
       "bundleIdentifier": "com.bbauman.Scripty",
       "developerName": "@riftysIPAlibrary",
@@ -12910,23 +13184,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8621.png",
       "tintColor": "000000",
       "size": 7145213,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Infuse",
-      "bundleIdentifier": "com.firecore.infuse",
-      "developerName": "@ipavault",
-      "version": "8.5.9",
-      "versionDate": "2026-10-27",
-      "versionDescription": "Release 8.5.9",
-      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1052-Infuse%208.5.9%20%28Infuse%20Plus%202.6%29%20%5B@ipavault%5D.ipa",
-      "down": "https://fastsign.dev/tg-ipa/ipavault/1052-Infuse%208.5.9%20%28Infuse%20Plus%202.6%29%20%5B@ipavault%5D.ipa",
-      "localizedDescription": "@ipavault | Infuse 8.5.9 (Infuse Plus 2.6)\n\n▪️Updated to Infuse 8.5.9 (iOS 18+)\nIf you're on iOS 17 and below, use the builds here: https://t.me/ipavault/306\n\nBuild by: @ipavault\n\nInfuse Plus 2.6 by @dvntm\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1052.png",
-      "icon": "https://fastsign.dev/tg-icon/ipavault/1052.png",
-      "tintColor": "000000",
-      "size": 99818620,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -14894,23 +15151,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Bearable",
-      "bundleIdentifier": "co.codeleap.bearable",
-      "developerName": "AppTesters IPA Repo",
-      "version": "1.0.614",
-      "versionDate": "2026-10-23",
-      "versionDescription": "Release 1.0.614",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/Bearable_1.0.614_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/Bearable_1.0.614_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.codeleap.bearable.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.codeleap.bearable.png",
-      "tintColor": "000000",
-      "size": 64247504,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Bounty",
       "bundleIdentifier": "jp.co.bandainamcoent.BNEI0297",
       "developerName": "@kamohacks",
@@ -15904,23 +16144,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "VideoStudio",
-      "bundleIdentifier": "videoeditor.app",
-      "developerName": "AppTesters IPA Repo",
-      "version": "3.21.5",
-      "versionDate": "2026-10-22",
-      "versionDescription": "Release 3.21.5",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/VideoStudio_3.21.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/VideoStudio_3.21.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png",
-      "tintColor": "000000",
-      "size": 218393373,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "真果鉴",
       "bundleIdentifier": "com.duanju.duanjuApp",
       "developerName": "Community Developer",
@@ -15936,29 +16159,6 @@
       "size": 30436576,
       "screenshotURLs": [],
       "source": "https://repo.owo.network/"
-    },
-    {
-      "name": "AudioMack+",
-      "bundleIdentifier": "com.audiomack.iphone",
-      "developerName": "MrZEFv",
-      "version": "8.11.1",
-      "versionDate": "2026-10-21",
-      "versionDescription": "•ᴹᴿ𝐙𝐄𝐅𝐯 𝐄𝐃𝐢𝐓𝐢𝐎𝐍 •Premium Unlocked •This version brings back lyrics •Music Player •Download songs, mixtapes, albums & playlists •Stream Offline",
-      "downloadURL": "https://st76471.ispot.cc/ipa/AudioMack_v8.11.1%2BPREMiUM_%5BZEFv%5D.ipa",
-      "down": "https://st76471.ispot.cc/ipa/AudioMack_v8.11.1%2BPREMiUM_%5BZEFv%5D.ipa",
-      "localizedDescription": "•ᴹᴿ𝐙𝐄𝐅𝐯 𝐄𝐃𝐢𝐓𝐢𝐎𝐍 •Premium Unlocked •This version brings back lyrics •Music Player •Download songs, mixtapes, albums & playlists •Stream Offline",
-      "iconURL": "https://delvek.net/img/audiomack3.png",
-      "icon": "https://delvek.net/img/audiomack3.png",
-      "tintColor": "0,255,0",
-      "size": 250570000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/audiomack1.png",
-        "https://delvek.net/img/!/audiomack2z.png",
-        "https://delvek.net/img/!/audiomack3.png",
-        "https://delvek.net/img/!/audiomack4.png",
-        "https://delvek.net/img/!/audiomack5z.png"
-      ],
-      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "Infratex",
@@ -21303,23 +21503,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Dazz",
-      "bundleIdentifier": "dazz.camera.vintagecamera",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2.17.7",
-      "versionDate": "2026-09-26",
-      "versionDescription": "Release 2.17.7",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2026/Dazz_2.17.7_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2026/Dazz_2.17.7_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dazz.camera.vintagecamera.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dazz.camera.vintagecamera.png",
-      "tintColor": "000000",
-      "size": 123189500,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Hex Editor - Read Bytes",
       "bundleIdentifier": "com.arrghsoft.hexEditor",
       "developerName": "HexEditor",
@@ -21566,27 +21749,6 @@
         "https://delvek.net/img/!/weatherlive1.png",
         "https://delvek.net/img/!/weatherlive2.png",
         "https://delvek.net/img/!/weatherlive3.png"
-      ],
-      "source": "https://delvek.net/repo.json"
-    },
-    {
-      "name": "WhatsApp+ (WGold)",
-      "bundleIdentifier": "net.whatsapp.WhatsApp-WGold",
-      "developerName": "WhatsApp+WGold",
-      "version": "26.37.73",
-      "versionDate": "2026-09-24",
-      "versionDescription": "•WGold Tweak v2.3 •Popular Messaging & Calling app •Super simple, reliable & private",
-      "downloadURL": "https://st76471.ispot.cc/ipa/WhatsApp_v26.37.73%2BWGold_v2.9.ipa",
-      "down": "https://st76471.ispot.cc/ipa/WhatsApp_v26.37.73%2BWGold_v2.9.ipa",
-      "localizedDescription": "•WGold Tweak v2.3 •Popular Messaging & Calling app •Super simple, reliable & private",
-      "iconURL": "https://delvek.net/img/whatsapp+.png",
-      "icon": "https://delvek.net/img/whatsapp+.png",
-      "tintColor": "0,255,0",
-      "size": 158958000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/whatsapp1.png",
-        "https://delvek.net/img/!/whatsapp2.png",
-        "https://delvek.net/img/!/whatsapp3.png"
       ],
       "source": "https://delvek.net/repo.json"
     },
@@ -22950,25 +23112,6 @@
       "source": "https://delvek.net/repo.json"
     },
     {
-      "name": "Relaxin",
-      "bundleIdentifier": "com.aapl.relaxin",
-      "developerName": "Relaxin",
-      "version": "0.5.2",
-      "versionDate": "2026-09-14",
-      "versionDescription": "•Roothide Semi-Untethered Jailbreak tool for iOS 17.0–17.3.1 on A15+ devices •Root password:123456 •Relaxin is a fully vibecoded jailbreak made by developers not affiliated with the Dopamine team",
-      "downloadURL": "https://st76471.ispot.cc/ipa/Relaxin_v0.5.2_%5BDELvEK%5D.tipa",
-      "down": "https://st76471.ispot.cc/ipa/Relaxin_v0.5.2_%5BDELvEK%5D.tipa",
-      "localizedDescription": "•Roothide Semi-Untethered Jailbreak tool for iOS 17.0–17.3.1 on A15+ devices •Root password:123456 •Relaxin is a fully vibecoded jailbreak made by developers not affiliated with the Dopamine team",
-      "iconURL": "https://delvek.net/img/relaxin.png",
-      "icon": "https://delvek.net/img/relaxin.png",
-      "tintColor": "0,255,0",
-      "size": 29713000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/relaxin2.png"
-      ],
-      "source": "https://delvek.net/repo.json"
-    },
-    {
       "name": "SnapCut",
       "bundleIdentifier": "com.mwm.moments",
       "developerName": "AppTesters IPA Repo",
@@ -23714,28 +23857,6 @@
       "source": "https://delvek.net/repo.json"
     },
     {
-      "name": "Eagle",
-      "bundleIdentifier": "com.leonardobaptiste.laracustom",
-      "developerName": "Eagle",
-      "version": "1.0.1-60",
-      "versionDate": "2026-09-05",
-      "versionDescription": "•iOS interface customization tool Minimum iOS17 to 18.7.1 & iOS26.0-26.0.1 •No jailbreak required •Add effects to the Dock, change the color of app names & add animation effects to the Dynamic Island",
-      "downloadURL": "https://st76471.ispot.cc/ipa/Eagle_v1.0.1-60_%5BDELvEK%5D.ipa",
-      "down": "https://st76471.ispot.cc/ipa/Eagle_v1.0.1-60_%5BDELvEK%5D.ipa",
-      "localizedDescription": "•iOS interface customization tool Minimum iOS17 to 18.7.1 & iOS26.0-26.0.1 •No jailbreak required •Add effects to the Dock, change the color of app names & add animation effects to the Dynamic Island",
-      "iconURL": "https://delvek.net/img/eagle.png",
-      "icon": "https://delvek.net/img/eagle.png",
-      "tintColor": "0,255,0",
-      "size": 12284000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/eagle1.png",
-        "https://delvek.net/img/!/eagle2.png",
-        "https://delvek.net/img/!/eagle3.png",
-        "https://delvek.net/img/!/eagle4.png"
-      ],
-      "source": "https://delvek.net/repo.json"
-    },
-    {
       "name": "Finito - Anatomy Atlas & Med Ai",
       "bundleIdentifier": "com.finito.medicine",
       "developerName": "Finito",
@@ -24156,28 +24277,6 @@
         "https://delvek.net/img/!/aibirdidscan2.png",
         "https://delvek.net/img/!/aibirdidscan3.png",
         "https://delvek.net/img/!/aibirdidscan4.png"
-      ],
-      "source": "https://delvek.net/repo.json"
-    },
-    {
-      "name": "Ai Coding",
-      "bundleIdentifier": "com.7redbits.SwiftAI",
-      "developerName": "AiCoding",
-      "version": "2.8.3",
-      "versionDate": "2026-09-03",
-      "versionDescription": "•Premium Unlocked •Introducing AiCoding, the revolutionary app that uses cutting-edge Ai technology (the openAi APi) to generate high-quality code for the Swift, Kotlin, Java & Bash programming languages",
-      "downloadURL": "https://st76471.ispot.cc/ipa/AiCoding_v2.8.3%2BPREMiUM.ipa",
-      "down": "https://st76471.ispot.cc/ipa/AiCoding_v2.8.3%2BPREMiUM.ipa",
-      "localizedDescription": "•Premium Unlocked •Introducing AiCoding, the revolutionary app that uses cutting-edge Ai technology (the openAi APi) to generate high-quality code for the Swift, Kotlin, Java & Bash programming languages",
-      "iconURL": "https://delvek.net/img/aicoding.png",
-      "icon": "https://delvek.net/img/aicoding.png",
-      "tintColor": "0,255,0",
-      "size": 25288000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/aicoding1.png",
-        "https://delvek.net/img/!/aicoding2.png",
-        "https://delvek.net/img/!/aicoding3.png",
-        "https://delvek.net/img/!/aicoding4.png"
       ],
       "source": "https://delvek.net/repo.json"
     },
@@ -28153,30 +28252,6 @@
         "https://delvek.net/img/!/summarizingtool2.png",
         "https://delvek.net/img/!/summarizingtool3.png",
         "https://delvek.net/img/!/summarizingtool4.png"
-      ],
-      "source": "https://delvek.net/repo.json"
-    },
-    {
-      "name": "VansonMod",
-      "bundleIdentifier": "com.vanson.modifier",
-      "developerName": "VansonMod",
-      "version": "3.2.0",
-      "versionDate": "2026-07-29",
-      "versionDescription": "•Install with TrollStore •The first standalone memory tool for iOS •Includes memory search, RVA modification, process management, Hex editing & multi-language support",
-      "downloadURL": "https://st76471.ispot.cc/ipa/VansonMod_v3.2.0_%5BDELvEK%5D.tipa",
-      "down": "https://st76471.ispot.cc/ipa/VansonMod_v3.2.0_%5BDELvEK%5D.tipa",
-      "localizedDescription": "•Install with TrollStore •The first standalone memory tool for iOS •Includes memory search, RVA modification, process management, Hex editing & multi-language support",
-      "iconURL": "https://delvek.net/img/vanson.png",
-      "icon": "https://delvek.net/img/vanson.png",
-      "tintColor": "0,255,0",
-      "size": 2219000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/vanson1.png",
-        "https://delvek.net/img/!/vanson2.png",
-        "https://delvek.net/img/!/vanson3.png",
-        "https://delvek.net/img/!/vanson4.png",
-        "https://delvek.net/img/!/vanson5.png",
-        "https://delvek.net/img/!/vanson6.png"
       ],
       "source": "https://delvek.net/repo.json"
     },
@@ -64976,27 +65051,6 @@
       "source": "https://delvek.net/repo.json"
     },
     {
-      "name": "Termux",
-      "bundleIdentifier": "com.fau.sshterminal",
-      "developerName": "Termux",
-      "version": "1.0.32",
-      "versionDate": "2026-01-28",
-      "versionDescription": "•Premium Unlocked •Powerful Terminal Emulator",
-      "downloadURL": "https://st76471.ispot.cc/ipa/Termux_v1.0.32_%5BDELvEK%5D.ipa",
-      "down": "https://st76471.ispot.cc/ipa/Termux_v1.0.32_%5BDELvEK%5D.ipa",
-      "localizedDescription": "•Premium Unlocked •Powerful Terminal Emulator",
-      "iconURL": "https://delvek.net/img/termux.png",
-      "icon": "https://delvek.net/img/termux.png",
-      "tintColor": "0,255,0",
-      "size": 32999000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/termux1.png",
-        "https://delvek.net/img/!/termux2.png",
-        "https://delvek.net/img/!/termux3.png"
-      ],
-      "source": "https://delvek.net/repo.json"
-    },
-    {
       "name": "Video & Image Compressor",
       "bundleIdentifier": "com.asmitabenvora.compressorapp",
       "developerName": "Compressor",
@@ -69580,23 +69634,6 @@
         "https://delvek.net/img/!/openterm2.png",
         "https://delvek.net/img/!/openterm3.png"
       ],
-      "source": "https://delvek.net/repo.json"
-    },
-    {
-      "name": "Send Anywhere - File Transfer",
-      "bundleIdentifier": "com.estmob.paprika",
-      "developerName": "SendAnywhere",
-      "version": "23.5.6",
-      "versionDate": "2025-11-03",
-      "versionDescription": "•Easy, Quick & Unlimited file sharing",
-      "downloadURL": "https://st76471.ispot.cc/ipa/SendAnywhere_v23.5.6_%5BDELvEK%5D.ipa",
-      "down": "https://st76471.ispot.cc/ipa/SendAnywhere_v23.5.6_%5BDELvEK%5D.ipa",
-      "localizedDescription": "•Easy, Quick & Unlimited file sharing",
-      "iconURL": "https://delvek.net/img/sendanywhere.png",
-      "icon": "https://delvek.net/img/sendanywhere.png",
-      "tintColor": "0,255,0",
-      "size": 57575000,
-      "screenshotURLs": [],
       "source": "https://delvek.net/repo.json"
     },
     {
@@ -100374,9 +100411,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1794222689",
+      "identifier": "update-1794262210",
       "caption": "Updated with 5527 unique sideloadable apps",
-      "date": "2026-11-09T11:11:29Z",
+      "date": "2026-11-09T22:10:10Z",
       "tintColor": "#007AFF"
     }
   ]
