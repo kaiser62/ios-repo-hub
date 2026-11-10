@@ -1,7 +1,7 @@
 {
   "name": "iOS Community Mega Repo (ESign)",
   "identifier": "com.kaiser62.ios-community-repo.esign",
-  "updated": "2026-11-10T06:49:41Z",
+  "updated": "2026-11-10T16:54:54Z",
   "apps": [
     {
       "name": "AdobeFresco",
@@ -191,6 +191,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Detail",
+      "bundleIdentifier": "co.detail.duo",
+      "developerName": "Community Developer",
+      "version": "6.0.7",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 6.0.7",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Detail_6.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Detail_6.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
+      "tintColor": "#007AFF",
+      "size": 222664093,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "Dictionary",
       "bundleIdentifier": "com.mobisystems.OxfordDictionaryOfEnglishFree",
       "developerName": "AppTesters IPA Repo",
@@ -327,6 +344,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "EPIK",
+      "bundleIdentifier": "com.snowcorp.epik",
+      "developerName": "Community Developer",
+      "version": "7.5.0",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 7.5.0",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/EPIK_7.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/EPIK_7.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
+      "tintColor": "#007AFF",
+      "size": 182859238,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "Ereasy",
       "bundleIdentifier": "background.remover.bg.eraser",
       "developerName": "@riftysIPAlibrary",
@@ -376,6 +410,23 @@
       "size": 234175634,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "FlightTracker",
+      "bundleIdentifier": "com.iaftt.flightplusfree",
+      "developerName": "Community Developer",
+      "version": "8.8.4",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 8.8.4",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/FlightTracker_8.8.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/FlightTracker_8.8.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iaftt.flightplusfree.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iaftt.flightplusfree.png",
+      "tintColor": "#007AFF",
+      "size": 108634561,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "GOWOD",
@@ -684,6 +735,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "MobileScanner",
+      "bundleIdentifier": "com.glority.everlens",
+      "developerName": "Community Developer",
+      "version": "2.26.5",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 2.26.5",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/MobileScanner_2.26.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/MobileScanner_2.26.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.everlens.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.everlens.png",
+      "tintColor": "#007AFF",
+      "size": 126965611,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "MoneyCircle",
       "bundleIdentifier": "com.genau.MoneyCircle",
       "developerName": "@riftysIPAlibrary",
@@ -750,6 +818,23 @@
       "size": 299366966,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "NutriCoach",
+      "bundleIdentifier": "nutrition.coach",
+      "developerName": "Community Developer",
+      "version": "2.7.0",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 2.7.0",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/NutriCoach_2.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/NutriCoach_2.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
+      "tintColor": "#007AFF",
+      "size": 77995927,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "Nuvio",
@@ -871,6 +956,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Picsart",
+      "bundleIdentifier": "com.picsart.studio",
+      "developerName": "Community Developer",
+      "version": "30.9.6",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 30.9.6",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Picsart_30.9.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Picsart_30.9.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+      "tintColor": "#007AFF",
+      "size": 119191274,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "PojavLauncher iOS",
       "bundleIdentifier": "net.kdt.pojavlauncher",
       "developerName": "PojavLauncherTeam",
@@ -903,6 +1005,23 @@
       "size": 112492645,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Premiere",
+      "bundleIdentifier": "com.adobe.premiere.ios",
+      "developerName": "Community Developer",
+      "version": "26.23.1",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 26.23.1",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Premiere_26.23.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Premiere_26.23.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.premiere.ios.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.premiere.ios.png",
+      "tintColor": "#007AFF",
+      "size": 111669638,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "PureStatus",
@@ -1007,6 +1126,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Rest",
+      "bundleIdentifier": "com.evolve.helm",
+      "developerName": "Community Developer",
+      "version": "3.210.0",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 3.210.0",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Rest_3.210.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Rest_3.210.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
+      "tintColor": "#007AFF",
+      "size": 135426751,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "Rush Hours",
       "bundleIdentifier": "com.rushhours.app",
       "developerName": "ekomlenovic",
@@ -1022,6 +1158,23 @@
       "size": 19054716,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "ScannerAir",
+      "bundleIdentifier": "co.airapps.scannerapp",
+      "developerName": "Community Developer",
+      "version": "2026.11.2",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 2026.11.2",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/ScannerAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/ScannerAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+      "tintColor": "#007AFF",
+      "size": 145692805,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "SCRL",
@@ -1126,6 +1279,57 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Sketchar",
+      "bundleIdentifier": "tech.sketchar.ios",
+      "developerName": "Community Developer",
+      "version": "11.0",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 11.0",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Sketchar_11.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Sketchar_11.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.sketchar.ios.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.sketchar.ios.png",
+      "tintColor": "#007AFF",
+      "size": 160143230,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
+      "name": "Slopes",
+      "bundleIdentifier": "com.consumedbycode.slopes",
+      "developerName": "Community Developer",
+      "version": "2026.17",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 2026.17",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Slopes_2026.17_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Slopes_2026.17_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.consumedbycode.slopes.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.consumedbycode.slopes.png",
+      "tintColor": "#007AFF",
+      "size": 106163075,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
+      "name": "SnapEdit",
+      "bundleIdentifier": "com.sfun.snapedit",
+      "developerName": "Community Developer",
+      "version": "6.27.3",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 6.27.3",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/SnapEdit_6.27.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/SnapEdit_6.27.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Pro",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
+      "tintColor": "#007AFF",
+      "size": 136914758,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "Sofascore",
       "bundleIdentifier": "com.SofaScore.iOS",
       "developerName": "@riftysIPAlibrary",
@@ -1192,6 +1396,23 @@
       "size": 150978015,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Stndrd",
+      "bundleIdentifier": "uni.cbum",
+      "developerName": "Community Developer",
+      "version": "4.1.64",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 4.1.64",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Stndrd_4.1.64_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Stndrd_4.1.64_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
+      "tintColor": "#007AFF",
+      "size": 148971150,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "StressWatch",
@@ -1347,6 +1568,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Unblink",
+      "bundleIdentifier": "com.idevtal.Wallpapers",
+      "developerName": "Community Developer",
+      "version": "5.93",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 5.93",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Unblink_5.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Unblink_5.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
+      "tintColor": "#007AFF",
+      "size": 42065218,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "Up Ahead",
       "bundleIdentifier": "me.danielgauthier.Jazzed",
       "developerName": "@Sa1y0miii",
@@ -1415,6 +1653,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "WaterAir",
+      "bundleIdentifier": "co.airapps.waterreminder",
+      "developerName": "Community Developer",
+      "version": "2026.11.2",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 2026.11.2",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/WaterAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/WaterAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png",
+      "tintColor": "#007AFF",
+      "size": 67662955,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "Weather+",
       "bundleIdentifier": "com.itwcalculator.weatherplusfree",
       "developerName": "@blatants",
@@ -1430,6 +1685,23 @@
       "size": 101638557,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Wikiloc",
+      "bundleIdentifier": "com.wikiloc.wikiloc",
+      "developerName": "Community Developer",
+      "version": "3.31.2",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 3.31.2",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Wikiloc_3.31.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Wikiloc_3.31.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wikiloc.wikiloc.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wikiloc.wikiloc.png",
+      "tintColor": "#007AFF",
+      "size": 135677077,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "WQ Files",
@@ -3869,23 +4141,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "ImgAI",
-      "bundleIdentifier": "com.idevtal.Wallpapers",
-      "developerName": "@riftysIPAlibrary",
-      "version": "5.92",
-      "versionDate": "2026-11-07",
-      "versionDescription": "Release 5.92",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8819-ImgAI%20-%20AI%20Image%20Generator-v5.92-riftysipas.ipa",
-      "down": "https://fastsign.dev/tg-ipa/riftysipalibrary/8819-ImgAI%20-%20AI%20Image%20Generator-v5.92-riftysipas.ipa",
-      "localizedDescription": "@riftysIPAlibrary | ImgAI - AI Image Generator\n\nTweak: Premium Unlocked\n\nVersion: 5.92\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 26.0\nBundle ID: com.idevtal.Wallpapers\nDeveloper: Talgat Kussainov\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8819.png",
-      "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8819.png",
-      "tintColor": "000000",
-      "size": 31631516,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Imprint",
       "bundleIdentifier": "com.polywise.weekly",
       "developerName": "@riftysIPAlibrary",
@@ -4898,28 +5153,6 @@
       "size": 117565099,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Detail - Ai Video Editor",
-      "bundleIdentifier": "co.detail.duo",
-      "developerName": "Detail",
-      "version": "6.0.6",
-      "versionDate": "2026-11-06",
-      "versionDescription": "•Premium Unlocked •Detail combines the simplicity of a camera app with the power of a professional Ai Video Editor •Whether you're creating a 60-second reaction video, a polished YouTube vlog, a 30-minute interview or podcast, or going live to thousands of viewers, you can do it all in one place here",
-      "downloadURL": "https://st76471.ispot.cc/ipa/Detail_v6.0.6%2BPREMiUM.ipa",
-      "down": "https://st76471.ispot.cc/ipa/Detail_v6.0.6%2BPREMiUM.ipa",
-      "localizedDescription": "•Premium Unlocked •Detail combines the simplicity of a camera app with the power of a professional Ai Video Editor •Whether you're creating a 60-second reaction video, a polished YouTube vlog, a 30-minute interview or podcast, or going live to thousands of viewers, you can do it all in one place here",
-      "iconURL": "https://delvek.net/img/detail.png",
-      "icon": "https://delvek.net/img/detail.png",
-      "tintColor": "0,255,0",
-      "size": 222144000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/detail1.png",
-        "https://delvek.net/img/!/detail2.png",
-        "https://delvek.net/img/!/detail3.png",
-        "https://delvek.net/img/!/detail4.png"
-      ],
-      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "Dopamine",
@@ -6284,23 +6517,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "MobileScanner",
-      "bundleIdentifier": "com.glority.everlens",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2.26.3",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 2.26.3",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/MobileScanner_2.26.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/MobileScanner_2.26.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Mobile Scanner App - Scan PDF\n\n• Bundle ID: com.glority.everlens\n• Updated to: 2.26.3\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.everlens.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.everlens.png",
-      "tintColor": "000000",
-      "size": 119913575,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "OraWeather",
       "bundleIdentifier": "com.itwcalculator.worldradarfree",
       "developerName": "AppTesters IPA Repo",
@@ -6503,23 +6719,6 @@
       "size": 143867006,
       "screenshotURLs": [],
       "source": "https://repository.apptesters.org"
-    },
-    {
-      "name": "WaterAir",
-      "bundleIdentifier": "co.airapps.waterreminder",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2026.11.1",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 2026.11.1",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/WaterAir_2026.11.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/WaterAir_2026.11.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Water Air: Water Tracker\n\n• Bundle ID: co.airapps.waterreminder\n• Updated to: 2026.11.1\n• Minimum iOS: 16.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png",
-      "tintColor": "000000",
-      "size": 63602080,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
     },
     {
       "name": "WhatsApp (WGoldPlus 4.0)",
@@ -7011,23 +7210,6 @@
       "icon": "https://fastsign.dev/tg-icon/sa1y0miii/15514.png",
       "tintColor": "000000",
       "size": 40048627,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "ScannerAir",
-      "bundleIdentifier": "co.airapps.scannerapp",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2026.11.1",
-      "versionDate": "2026-11-04",
-      "versionDescription": "Release 2026.11.1",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/ScannerAir_2026.11.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/ScannerAir_2026.11.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Scanner Air - Scan Documents\n\n• Bundle ID: co.airapps.scannerapp\n• Updated to: 2026.11.1\n• Minimum iOS: 16.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
-      "tintColor": "000000",
-      "size": 145204221,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -7882,23 +8064,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "FlightTracker",
-      "bundleIdentifier": "com.iaftt.flightplusfree",
-      "developerName": "AppTesters IPA Repo",
-      "version": "8.8.3",
-      "versionDate": "2026-11-03",
-      "versionDescription": "Release 8.8.3",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/FlightTracker_8.8.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/FlightTracker_8.8.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Flight Tracker +\n\n• Bundle ID: com.iaftt.flightplusfree\n• Updated to: 8.8.3\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iaftt.flightplusfree.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iaftt.flightplusfree.png",
-      "tintColor": "000000",
-      "size": 107422234,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Food Gang",
       "bundleIdentifier": "com.bloop.food",
       "developerName": "@kamohacks",
@@ -8579,23 +8744,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Rest",
-      "bundleIdentifier": "com.evolve.helm",
-      "developerName": "@riftysIPAlibrary",
-      "version": "3.209.0",
-      "versionDate": "2026-11-03",
-      "versionDescription": "Release 3.209.0",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8772-Rest:%20Fix%20Your%20Sleep%20For%20Good-v3.209.0-riftysipas.ipa",
-      "down": "https://fastsign.dev/tg-ipa/riftysipalibrary/8772-Rest:%20Fix%20Your%20Sleep%20For%20Good-v3.209.0-riftysipas.ipa",
-      "localizedDescription": "@riftysIPAlibrary | Rest: Fix Your Sleep For Good\n\nTweak: Subscription Unlocked\n\nVersion: 3.209.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.evolve.helm\nDeveloper: Evolve Global, Inc.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8772.png",
-      "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8772.png",
-      "tintColor": "000000",
-      "size": 131301127,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "RingTonesManager - TrollStore",
       "bundleIdentifier": "com.netskao.ringtonesmanager",
       "developerName": "TTJB IPA Repo",
@@ -8711,23 +8859,6 @@
       "icon": "https://ipa.thuthuatjb.com/view/img/StableAction.png",
       "tintColor": "000000",
       "size": 1342550,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Stndrd",
-      "bundleIdentifier": "uni.cbum",
-      "developerName": "AppTesters IPA Repo",
-      "version": "4.1.63",
-      "versionDate": "2026-11-03",
-      "versionDescription": "Release 4.1.63",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Stndrd_4.1.63_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Stndrd_4.1.63_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | STNDRD Workout & Fitness Plans\n\n• Bundle ID: uni.cbum\n• Updated to: 4.1.63\n• Minimum iOS: 15.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
-      "tintColor": "000000",
-      "size": 148202630,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -12262,28 +12393,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Wikiloc - Trails Of The World",
-      "bundleIdentifier": "com.wikiloc.wikiloc",
-      "developerName": "Wikiloc",
-      "version": "3.31.1",
-      "versionDate": "2026-10-31",
-      "versionDescription": "•Premium Unlocked •Discover millions of outdoor trails around the world & choose between hiking, running, bike, MTB, kayak, ski or up to 80 different types of activities",
-      "downloadURL": "https://st76471.ispot.cc/ipa/Wikiloc-TrailsOfTheWorld_v3.31.1%2BPREMiUM.ipa",
-      "down": "https://st76471.ispot.cc/ipa/Wikiloc-TrailsOfTheWorld_v3.31.1%2BPREMiUM.ipa",
-      "localizedDescription": "•Premium Unlocked •Discover millions of outdoor trails around the world & choose between hiking, running, bike, MTB, kayak, ski or up to 80 different types of activities",
-      "iconURL": "https://delvek.net/img/wikiloc.png",
-      "icon": "https://delvek.net/img/wikiloc.png",
-      "tintColor": "0,255,0",
-      "size": 135577000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/wikiloc1.png",
-        "https://delvek.net/img/!/wikiloc2.png",
-        "https://delvek.net/img/!/wikiloc3.png",
-        "https://delvek.net/img/!/wikiloc4.png"
-      ],
-      "source": "https://delvek.net/repo.json"
-    },
-    {
       "name": "BeFreed",
       "bundleIdentifier": "ai.befreed.freed-frontend-rn",
       "developerName": "@riftysIPAlibrary",
@@ -13300,23 +13409,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.djitlabs.pixelcolor.png",
       "tintColor": "000000",
       "size": 55488714,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Premiere",
-      "bundleIdentifier": "com.adobe.premiere.ios",
-      "developerName": "AppTesters IPA Repo",
-      "version": "26.23.0",
-      "versionDate": "2026-10-28",
-      "versionDescription": "Release 26.23.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/Premiere_26.23.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/Premiere_26.23.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.premiere.ios.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.premiere.ios.png",
-      "tintColor": "000000",
-      "size": 109290152,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -15988,23 +16080,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "EPIK",
-      "bundleIdentifier": "com.snowcorp.epik",
-      "developerName": "AppTesters IPA Repo",
-      "version": "7.4.31",
-      "versionDate": "2026-10-22",
-      "versionDescription": "Release 7.4.31",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/EPIK_7.4.31_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/EPIK_7.4.31_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
-      "tintColor": "000000",
-      "size": 200630281,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Evermusic",
       "bundleIdentifier": "com.leshko.cloudplayer",
       "developerName": "AppTesters IPA Repo",
@@ -16209,23 +16284,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "NutriCoach",
-      "bundleIdentifier": "nutrition.coach",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2.6.0",
-      "versionDate": "2026-10-22",
-      "versionDescription": "Release 2.6.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/NutriCoach_2.6.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/NutriCoach_2.6.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
-      "tintColor": "000000",
-      "size": 77833571,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Osmosis",
       "bundleIdentifier": "com.osmose-it.osmosis",
       "developerName": "AppTesters IPA Repo",
@@ -16290,40 +16348,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png",
       "tintColor": "000000",
       "size": 167888218,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Sketchar",
-      "bundleIdentifier": "tech.sketchar.ios",
-      "developerName": "AppTesters IPA Repo",
-      "version": "10.9.2",
-      "versionDate": "2026-10-22",
-      "versionDescription": "Release 10.9.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Sketchar_10.9.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Sketchar_10.9.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.sketchar.ios.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.sketchar.ios.png",
-      "tintColor": "000000",
-      "size": 174742341,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Slopes",
-      "bundleIdentifier": "com.consumedbycode.slopes",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2026.16",
-      "versionDate": "2026-10-22",
-      "versionDescription": "Release 2026.16",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Slopes_2026.16_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Slopes_2026.16_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.consumedbycode.slopes.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.consumedbycode.slopes.png",
-      "tintColor": "000000",
-      "size": 100112196,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -20208,23 +20232,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Picsart",
-      "bundleIdentifier": "com.picsart.studio",
-      "developerName": "AppTesters IPA Repo",
-      "version": "30.9.2",
-      "versionDate": "2026-10-07",
-      "versionDescription": "Release 30.9.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/Picsart_30.9.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/Picsart_30.9.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
-      "tintColor": "000000",
-      "size": 119039152,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "TrollBox",
       "bundleIdentifier": "live.cclerc.trollbox",
       "developerName": "TrollBox",
@@ -23152,23 +23159,6 @@
         "https://delvek.net/img/!/pedometer++4.png"
       ],
       "source": "https://delvek.net/repo.json"
-    },
-    {
-      "name": "SnapEdit",
-      "bundleIdentifier": "com.sfun.snapedit",
-      "developerName": "AppTesters IPA Repo",
-      "version": "6.27.2",
-      "versionDate": "2026-09-16",
-      "versionDescription": "Release 6.27.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/SnapEdit_6.27.2_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/SnapEdit_6.27.2_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
-      "tintColor": "000000",
-      "size": 133506306,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
     },
     {
       "name": "Spark Mail - Ai Email Assistant",
