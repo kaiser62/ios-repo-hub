@@ -1,8 +1,42 @@
 {
   "name": "iOS Community Mega Repo (ESign)",
   "identifier": "com.kaiser62.ios-community-repo.esign",
-  "updated": "2026-11-10T16:54:54Z",
+  "updated": "2026-11-10T23:03:52Z",
   "apps": [
+    {
+      "name": "MyFitnessPal",
+      "bundleIdentifier": "com.myfitnesspal.mfp",
+      "developerName": "Community Developer",
+      "version": "26.45.0",
+      "versionDate": "2026-11-11",
+      "versionDescription": "Release 26.45.0",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/MyFitnessPal_26.45.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/MyFitnessPal_26.45.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
+      "tintColor": "#007AFF",
+      "size": 217742068,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
+      "name": "VlogNow",
+      "bundleIdentifier": "com.frontrow.vlog",
+      "developerName": "Community Developer",
+      "version": "2.24.1",
+      "versionDate": "2026-11-11",
+      "versionDescription": "Release 2.24.1",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/VlogNow_2.24.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/VlogNow_2.24.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
+      "tintColor": "#007AFF",
+      "size": 506105543,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
     {
       "name": "AdobeFresco",
       "bundleIdentifier": "com.adobe.fresco.ios",
@@ -197,15 +231,19 @@
       "version": "6.0.7",
       "versionDate": "2026-11-10",
       "versionDescription": "Release 6.0.7",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Detail_6.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Detail_6.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Detail_6.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Detail_6.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
       "tintColor": "#007AFF",
       "size": 222664093,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Dictionary",
@@ -350,15 +388,19 @@
       "version": "7.5.0",
       "versionDate": "2026-11-10",
       "versionDescription": "Release 7.5.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/EPIK_7.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/EPIK_7.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/EPIK_7.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/EPIK_7.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
       "tintColor": "#007AFF",
       "size": 182859238,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Ereasy",
@@ -418,15 +460,19 @@
       "version": "8.8.4",
       "versionDate": "2026-11-10",
       "versionDescription": "Release 8.8.4",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/FlightTracker_8.8.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/FlightTracker_8.8.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iaftt.flightplusfree.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iaftt.flightplusfree.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/FlightTracker_8.8.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/FlightTracker_8.8.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iaftt.flightplusfree.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iaftt.flightplusfree.png",
       "tintColor": "#007AFF",
       "size": 108634561,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "GOWOD",
@@ -495,6 +541,23 @@
       "size": 28252781,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Hevy",
+      "bundleIdentifier": "com.hevyapp.hevy",
+      "developerName": "Community Developer",
+      "version": "3.2.6",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Release 3.2.6",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Hevy_3.2.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Hevy_3.2.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png",
+      "tintColor": "#007AFF",
+      "size": 146854558,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "iCube",
@@ -741,15 +804,19 @@
       "version": "2.26.5",
       "versionDate": "2026-11-10",
       "versionDescription": "Release 2.26.5",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/MobileScanner_2.26.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/MobileScanner_2.26.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.everlens.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.everlens.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/MobileScanner_2.26.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/MobileScanner_2.26.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.everlens.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.everlens.png",
       "tintColor": "#007AFF",
       "size": 126965611,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "MoneyCircle",
@@ -826,15 +893,19 @@
       "version": "2.7.0",
       "versionDate": "2026-11-10",
       "versionDescription": "Release 2.7.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/NutriCoach_2.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/NutriCoach_2.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/NutriCoach_2.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/NutriCoach_2.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
       "tintColor": "#007AFF",
       "size": 77995927,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Nuvio",
@@ -962,15 +1033,19 @@
       "version": "30.9.6",
       "versionDate": "2026-11-10",
       "versionDescription": "Release 30.9.6",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Picsart_30.9.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Picsart_30.9.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Picsart_30.9.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Picsart_30.9.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
       "tintColor": "#007AFF",
       "size": 119191274,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "PojavLauncher iOS",
@@ -1013,15 +1088,19 @@
       "version": "26.23.1",
       "versionDate": "2026-11-10",
       "versionDescription": "Release 26.23.1",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Premiere_26.23.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Premiere_26.23.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.premiere.ios.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.premiere.ios.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Premiere_26.23.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Premiere_26.23.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.premiere.ios.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.premiere.ios.png",
       "tintColor": "#007AFF",
       "size": 111669638,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "PureStatus",
@@ -1132,15 +1211,19 @@
       "version": "3.210.0",
       "versionDate": "2026-11-10",
       "versionDescription": "Release 3.210.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Rest_3.210.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Rest_3.210.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Rest_3.210.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Rest_3.210.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
       "tintColor": "#007AFF",
       "size": 135426751,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Rush Hours",
@@ -1166,15 +1249,19 @@
       "version": "2026.11.2",
       "versionDate": "2026-11-10",
       "versionDescription": "Release 2026.11.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/ScannerAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/ScannerAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/ScannerAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/ScannerAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
       "tintColor": "#007AFF",
       "size": 145692805,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "SCRL",
@@ -1285,15 +1372,19 @@
       "version": "11.0",
       "versionDate": "2026-11-10",
       "versionDescription": "Release 11.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Sketchar_11.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Sketchar_11.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.sketchar.ios.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.sketchar.ios.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Sketchar_11.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Sketchar_11.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.sketchar.ios.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.sketchar.ios.png",
       "tintColor": "#007AFF",
       "size": 160143230,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Slopes",
@@ -1302,15 +1393,19 @@
       "version": "2026.17",
       "versionDate": "2026-11-10",
       "versionDescription": "Release 2026.17",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Slopes_2026.17_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Slopes_2026.17_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.consumedbycode.slopes.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.consumedbycode.slopes.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Slopes_2026.17_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Slopes_2026.17_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.consumedbycode.slopes.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.consumedbycode.slopes.png",
       "tintColor": "#007AFF",
       "size": 106163075,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "SnapEdit",
@@ -1319,15 +1414,19 @@
       "version": "6.27.3",
       "versionDate": "2026-11-10",
       "versionDescription": "Release 6.27.3",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/SnapEdit_6.27.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/SnapEdit_6.27.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Pro",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/SnapEdit_6.27.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/SnapEdit_6.27.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
       "tintColor": "#007AFF",
       "size": 136914758,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Sofascore",
@@ -1404,15 +1503,19 @@
       "version": "4.1.64",
       "versionDate": "2026-11-10",
       "versionDescription": "Release 4.1.64",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Stndrd_4.1.64_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Stndrd_4.1.64_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Stndrd_4.1.64_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Stndrd_4.1.64_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
       "tintColor": "#007AFF",
       "size": 148971150,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "StressWatch",
@@ -1574,15 +1677,19 @@
       "version": "5.93",
       "versionDate": "2026-11-10",
       "versionDescription": "Release 5.93",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Unblink_5.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Unblink_5.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Unblink_5.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Unblink_5.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
       "tintColor": "#007AFF",
       "size": 42065218,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Up Ahead",
@@ -1659,15 +1766,19 @@
       "version": "2026.11.2",
       "versionDate": "2026-11-10",
       "versionDescription": "Release 2026.11.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/WaterAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/WaterAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/WaterAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/WaterAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png",
       "tintColor": "#007AFF",
       "size": 67662955,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Weather+",
@@ -1693,15 +1804,19 @@
       "version": "3.31.2",
       "versionDate": "2026-11-10",
       "versionDescription": "Release 3.31.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Wikiloc_3.31.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Wikiloc_3.31.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wikiloc.wikiloc.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wikiloc.wikiloc.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Wikiloc_3.31.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Wikiloc_3.31.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wikiloc.wikiloc.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wikiloc.wikiloc.png",
       "tintColor": "#007AFF",
       "size": 135677077,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "WQ Files",
@@ -4069,23 +4184,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.opentechiz.heavybagpro.png",
       "tintColor": "000000",
       "size": 29743315,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Hevy",
-      "bundleIdentifier": "com.hevyapp.hevy",
-      "developerName": "AppTesters IPA Repo",
-      "version": "3.2.5",
-      "versionDate": "2026-11-07",
-      "versionDescription": "Release 3.2.5",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/Hevy_3.2.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/Hevy_3.2.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Hevy - Workout Tracker Gym Log\n\n• Bundle ID: com.hevyapp.hevy\n• Updated to: 3.2.5\n• Minimum iOS: 15.1\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n> Can't create unlimited routines.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png",
-      "tintColor": "000000",
-      "size": 146854606,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -6710,15 +6808,19 @@
       "version": "462.1.0",
       "versionDate": "2026-11-05",
       "versionDescription": "Release 462.1.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/VSCO_462.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/VSCO_462.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/05-11-2026/VSCO_462.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/05-11-2026/VSCO_462.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
       "tintColor": "#007AFF",
       "size": 143867006,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "WhatsApp (WGoldPlus 4.0)",
@@ -7074,23 +7176,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8789.png",
       "tintColor": "000000",
       "size": 237987762,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "MyFitnessPal",
-      "bundleIdentifier": "com.myfitnesspal.mfp",
-      "developerName": "AppTesters IPA Repo",
-      "version": "26.44.0",
-      "versionDate": "2026-11-04",
-      "versionDescription": "Release 26.44.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/MyFitnessPal_26.44.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/MyFitnessPal_26.44.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | MyFitnessPal: Calorie Counter\n\n• Bundle ID: com.myfitnesspal.mfp\n• Updated to: 26.44.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nSome features are server-sided and cannot be accessed.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
-      "tintColor": "000000",
-      "size": 217646939,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -12372,23 +12457,6 @@
       "icon": "https://fastsign.dev/tg-icon/ipa-dark/1847.png",
       "tintColor": "000000",
       "size": 193424505,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "VlogNow",
-      "bundleIdentifier": "com.frontrow.vlog",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2.24.0",
-      "versionDate": "2026-10-31",
-      "versionDescription": "Release 2.24.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/VlogNow_2.24.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/VlogNow_2.24.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
-      "tintColor": "000000",
-      "size": 506105811,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
