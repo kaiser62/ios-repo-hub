@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-11T05:38:59Z",
+  "updated": "2026-11-11T13:54:44Z",
   "apps": [
     {
       "name": "9Kings",
@@ -1943,23 +1943,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.sampler-app.png",
       "tintColor": "000000",
       "size": 119937806,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Calm",
-      "bundleIdentifier": "com.calm.calmapp",
-      "developerName": "AppTesters IPA Repo",
-      "version": "7.4.1",
-      "versionDate": "2026-11-10",
-      "versionDescription": "Release 7.4.1",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Calm_7.4.1_Premium_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Calm_7.4.1_Premium_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Calm\n\n• Bundle ID: com.calm.calmapp\n• Updated to: 7.4.1\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Lifetime Unlocked\n• Tweaked by @blatants\n\n• Note:\n>Ignore purchase pages all the features should work.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
-      "tintColor": "000000",
-      "size": 121496940,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -4323,23 +4306,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
       "tintColor": "000000",
       "size": 97016533,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Lyfta",
-      "bundleIdentifier": "com.lyftaios",
-      "developerName": "@riftysIPAlibrary",
-      "version": "1.166",
-      "versionDate": "2026-11-08",
-      "versionDescription": "Release 1.166",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8867-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.166-riftysipas.ipa",
-      "down": "https://fastsign.dev/tg-ipa/riftysipalibrary/8867-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.166-riftysipas.ipa",
-      "localizedDescription": "Tweaks: riftyslyfta\n\n@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log\n\nTweak: Premium Unlocked\n\nVersion: 1.166\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.lyftaios\nDeveloper: Lindberg Development AS\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8867.png",
-      "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8867.png",
-      "tintColor": "000000",
-      "size": 58212596,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -6880,6 +6846,27 @@
       "source": "https://delvek.net/repo.json"
     },
     {
+      "name": "WhatsApp+ (WGold)",
+      "bundleIdentifier": "net.whatsapp.WhatsApp-WGold",
+      "developerName": "WhatsApp+WGold",
+      "version": "26.43.75",
+      "versionDate": "2026-11-06",
+      "versionDescription": "•WGold Tweak v4.0 •Popular Messaging & Calling app •Super simple, reliable & private",
+      "downloadURL": "https://st76471.ispot.cc/ipa/WhatsApp_v26.43.75%2BWGold_v4.0.ipa",
+      "down": "https://st76471.ispot.cc/ipa/WhatsApp_v26.43.75%2BWGold_v4.0.ipa",
+      "localizedDescription": "•WGold Tweak v4.0 •Popular Messaging & Calling app •Super simple, reliable & private",
+      "iconURL": "https://delvek.net/img/whatsapp+.png",
+      "icon": "https://delvek.net/img/whatsapp+.png",
+      "tintColor": "0,255,0",
+      "size": 176699000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/whatsapp1.png",
+        "https://delvek.net/img/!/whatsapp2.png",
+        "https://delvek.net/img/!/whatsapp3.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "Wishlists",
       "bundleIdentifier": "com.ckbusiness.Wishlists",
       "developerName": "@Sa1y0miii",
@@ -7981,23 +7968,6 @@
       "icon": "https://fastsign.dev/tg-icon/sa1y0miii/15505.png",
       "tintColor": "000000",
       "size": 123579632,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "SimplySing",
-      "bundleIdentifier": "com.joytunes.Sing",
-      "developerName": "AppTesters IPA Repo",
-      "version": "3.2.2",
-      "versionDate": "2026-11-04",
-      "versionDescription": "Release 3.2.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/SimplySing_3.2.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/SimplySing_3.2.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Simply Sing: My Singing App\n\n• Bundle ID: com.joytunes.Sing\n• Updated to: 3.2.2\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLogin with your account and restart the app once to activate the subscription.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png",
-      "tintColor": "000000",
-      "size": 115056400,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -9613,23 +9583,6 @@
       "icon": "https://ipa.thuthuatjb.com/view/img/VideoCompress.png",
       "tintColor": "000000",
       "size": 20868744,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Yazio",
-      "bundleIdentifier": "com.yazio.ios.YAZIO",
-      "developerName": "AppTesters IPA Repo",
-      "version": "26.44.1",
-      "versionDate": "2026-11-03",
-      "versionDescription": "Release 26.44.1",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Yazio_26.44.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Yazio_26.44.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | AI Calorie Tracker by Yazio\n\n• Bundle ID: com.yazio.ios.YAZIO\n• Updated to: 26.44.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png",
-      "tintColor": "000000",
-      "size": 214437762,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -13448,23 +13401,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "FitnessOnline",
-      "bundleIdentifier": "com.aiti.FitnessOnline",
-      "developerName": "AppTesters IPA Repo",
-      "version": "1.31.0",
-      "versionDate": "2026-10-26",
-      "versionDescription": "Release 1.31.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/FitnessOnline_1.31.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/FitnessOnline_1.31.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiti.FitnessOnline.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiti.FitnessOnline.png",
-      "tintColor": "000000",
-      "size": 134898786,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Football 2026",
       "bundleIdentifier": "com.football.soccer.league",
       "developerName": "@kamohacks",
@@ -14220,23 +14156,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/SimpleTools.Wallpaper-Workshop.png",
       "tintColor": "000000",
       "size": 75201982,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "SODA",
-      "bundleIdentifier": "com.snowcorp.soda",
-      "developerName": "AppTesters IPA Repo",
-      "version": "10.4.4",
-      "versionDate": "2026-10-23",
-      "versionDescription": "Release 10.4.4",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/SODA_10.4.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/SODA_10.4.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.soda.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.soda.png",
-      "tintColor": "000000",
-      "size": 185244784,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -17261,23 +17180,6 @@
         "https://delvek.net/img/!/mediaeditorvideo4.png"
       ],
       "source": "https://delvek.net/repo.json"
-    },
-    {
-      "name": "ProFit",
-      "bundleIdentifier": "com.maxty.gofitness",
-      "developerName": "AppTesters IPA Repo",
-      "version": "8.5.0",
-      "versionDate": "2026-09-08",
-      "versionDescription": "Release 8.5.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-09-2026/ProFit_8.5.0_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-09-2026/ProFit_8.5.0_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxty.gofitness.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxty.gofitness.png",
-      "tintColor": "000000",
-      "size": 48512882,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
     },
     {
       "name": "TrollStore Checker",
@@ -62957,9 +62859,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1794375539",
+      "identifier": "update-1794405284",
       "caption": "Updated with 5619 unique sideloadable apps",
-      "date": "2026-11-11T05:38:59Z",
+      "date": "2026-11-11T13:54:44Z",
       "tintColor": "#007AFF"
     }
   ]
