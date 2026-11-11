@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-11T13:54:44Z",
+  "updated": "2026-11-11T21:49:21Z",
   "apps": [
     {
       "name": "9Kings",
@@ -126,6 +126,23 @@
       "size": 96911523,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Athlytic",
+      "bundleIdentifier": "myndarc.newFitnessApp",
+      "developerName": "Community Developer",
+      "version": "27.0.10",
+      "versionDate": "2026-11-11",
+      "versionDescription": "Release 27.0.10",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/Athlytic_27.0.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/Athlytic_27.0.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
+      "tintColor": "#007AFF",
+      "size": 44902735,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "B612",
@@ -383,6 +400,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Duolingo",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "developerName": "Community Developer",
+      "version": "7.148.1",
+      "versionDate": "2026-11-11",
+      "versionDescription": "Release 7.148.1",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/Duolingo_7.148.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/Duolingo_7.148.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
+      "tintColor": "#007AFF",
+      "size": 214457776,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "Emphasis",
       "bundleIdentifier": "com.manymanypixels.pomodrone",
       "developerName": "@Sa1y0miii",
@@ -398,6 +432,23 @@
       "size": 39606684,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Endel",
+      "bundleIdentifier": "com.endel.endel",
+      "developerName": "Community Developer",
+      "version": "4.49.325",
+      "versionDate": "2026-11-11",
+      "versionDescription": "Release 4.49.325",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/Endel_4.49.325_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/Endel_4.49.325_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png",
+      "tintColor": "#007AFF",
+      "size": 182639483,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "EPIK",
@@ -636,6 +687,28 @@
       "size": 38009420,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Husk",
+      "bundleIdentifier": "com.husk.app",
+      "developerName": "Husk",
+      "version": "3.4.0",
+      "versionDate": "2026-11-11",
+      "versionDescription": "•Android app launcher for iOS26+ •Drop in an APK, tap it & the Android app opens full-screen •Not every APK can be emulated, its still a beta",
+      "downloadURL": "https://st76471.ispot.cc/ipa/Husk_v3.4.0_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/Husk_v3.4.0_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•Android app launcher for iOS26+ •Drop in an APK, tap it & the Android app opens full-screen •Not every APK can be emulated, its still a beta",
+      "iconURL": "https://delvek.net/img/husk.png",
+      "icon": "https://delvek.net/img/husk.png",
+      "tintColor": "0,255,0",
+      "size": 142306000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/husk1.png",
+        "https://delvek.net/img/!/husk2.png",
+        "https://delvek.net/img/!/husk3.png",
+        "https://delvek.net/img/!/husk4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "iCube",
@@ -961,6 +1034,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "OfflineMusic",
+      "bundleIdentifier": "com.offlinemusic",
+      "developerName": "Community Developer",
+      "version": "4.0.0",
+      "versionDate": "2026-11-11",
+      "versionDescription": "Release 4.0.0",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/OfflineMusic_4.0.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/OfflineMusic_4.0.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Pro",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png",
+      "tintColor": "#007AFF",
+      "size": 54079242,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "Pattrn",
       "bundleIdentifier": "com.Pattrn",
       "developerName": "@Sa1y0miii",
@@ -1061,6 +1151,23 @@
       "size": 49021452,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Pixomatic",
+      "bundleIdentifier": "us.pixomaticpro.PixomaticPro",
+      "developerName": "Community Developer",
+      "version": "2.55.37",
+      "versionDate": "2026-11-11",
+      "versionDescription": "Release 2.55.37",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/Pixomatic_2.55.37_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/Pixomatic_2.55.37_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.pixomaticpro.PixomaticPro.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.pixomaticpro.PixomaticPro.png",
+      "tintColor": "#007AFF",
+      "size": 178753125,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "PosePal",
@@ -1607,6 +1714,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "ThePiano",
+      "bundleIdentifier": "com.impalastudios.pianofree",
+      "developerName": "Community Developer",
+      "version": "2.26.4",
+      "versionDate": "2026-11-11",
+      "versionDescription": "Release 2.26.4",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/ThePiano_2.26.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/ThePiano_2.26.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png",
+      "tintColor": "#007AFF",
+      "size": 120041491,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "TikTok (Infinitok)",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "@ipavault",
@@ -1673,6 +1797,23 @@
       "size": 157802056,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Tripsy",
+      "bundleIdentifier": "app.tripsy.ios",
+      "developerName": "Community Developer",
+      "version": "3.10.8",
+      "versionDate": "2026-11-11",
+      "versionDescription": "Release 3.10.8",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/Tripsy_3.10.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/Tripsy_3.10.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
+      "tintColor": "#007AFF",
+      "size": 93946359,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "Trophy Hunter",
@@ -2232,23 +2373,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8880.png",
       "tintColor": "000000",
       "size": 12536951,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Duolingo",
-      "bundleIdentifier": "com.duolingo.DuolingoMobile",
-      "developerName": "AppTesters IPA Repo",
-      "version": "7.148.0",
-      "versionDate": "2026-11-10",
-      "versionDescription": "Release 7.148.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Duolingo_7.148.0_Premium_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Duolingo_7.148.0_Premium_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Duolingo: Learn Languages\n\n• Bundle ID: com.duolingo.DuolingoMobile\n• Updated to: 7.148.0\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Duolingo MAX Unlocked\n• Tweaked by @blatants\n\n• Note:\nSign-in with google/apple.\nIgnore any purchase banners all features should work.\nCredit to j4gm4g for providing the original script.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
-      "tintColor": "000000",
-      "size": 214458645,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -3099,23 +3223,6 @@
       "icon": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
       "tintColor": "000000",
       "size": 137913652,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "ThePiano",
-      "bundleIdentifier": "com.impalastudios.pianofree",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2.26.3",
-      "versionDate": "2026-11-10",
-      "versionDescription": "Release 2.26.3",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/ThePiano_2.26.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/ThePiano_2.26.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Piano ٞ\n\n• Bundle ID: com.impalastudios.pianofree\n• Updated to: 2.26.3\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png",
-      "tintColor": "000000",
-      "size": 119913680,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -7241,23 +7348,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Athlytic",
-      "bundleIdentifier": "myndarc.newFitnessApp",
-      "developerName": "AppTesters IPA Repo",
-      "version": "27.0.9",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 27.0.9",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Athlytic_27.0.9_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Athlytic_27.0.9_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Athlytic: Fitness & Recovery\n\n• Bundle ID: myndarc.newFitnessApp\n• Updated to: 27.0.9\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
-      "tintColor": "000000",
-      "size": 44808312,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Breeze",
       "bundleIdentifier": "com.basenji.mood",
       "developerName": "@riftysIPAlibrary",
@@ -7377,23 +7467,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Endel",
-      "bundleIdentifier": "com.endel.endel",
-      "developerName": "AppTesters IPA Repo",
-      "version": "4.49.313",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 4.49.313",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Endel_4.49.313_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Endel_4.49.313_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Endel: Focus & Sleep Sounds\n\n• Bundle ID: com.endel.endel\n• Updated to: 4.9.3\n• Minimum iOS: 26.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nRestart the app if subscription isn't unlocked\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png",
-      "tintColor": "000000",
-      "size": 182584268,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Going Balls",
       "bundleIdentifier": "com.pronetis.ironballride2",
       "developerName": "@riftysIPAlibrary",
@@ -7424,23 +7497,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8799.png",
       "tintColor": "000000",
       "size": 100605987,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Husk",
-      "bundleIdentifier": "com.husk.app",
-      "developerName": "Leviidev",
-      "version": "3.4",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 3.4",
-      "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.4/Husk.ipa",
-      "down": "https://github.com/Leviidev/Husk/releases/download/3.4/Husk.ipa",
-      "localizedDescription": "@ipavault | Run Android apps and games on your iPhone\n\nAn open source app that lets you run Android apps and games on iOS using an ARM64 translation layer or full Android emulation via QEMU. Supports APKs, XAPKs, APKMs, controllers, and various game engines. Requires iOS 16.4+ and JIT.\n⚠️ Requires iOS 16.4+ and JIT\n⚠️ Trollstore users, install the .tipa here\nMore Info\n\nHusk 3.4 by Leviidev\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
-      "icon": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
-      "tintColor": "000000",
-      "size": 142303569,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -11675,23 +11731,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Tripsy",
-      "bundleIdentifier": "app.tripsy.ios",
-      "developerName": "AppTesters IPA Repo",
-      "version": "3.10.7",
-      "versionDate": "2026-11-01",
-      "versionDescription": "Release 3.10.7",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Tripsy_3.10.7_Premium_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Tripsy_3.10.7_Premium_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
-      "tintColor": "000000",
-      "size": 93810760,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "tvOS ONLY!! - TwitchUnblock (v1.7.0) - IPAVault",
       "bundleIdentifier": "com.mxfia19.twitchunblock.1.7.0.ipavault",
       "developerName": "MXFia19",
@@ -12742,23 +12781,6 @@
       "icon": "https://fastsign.dev/tg-icon/sa1y0miii/15271.png",
       "tintColor": "000000",
       "size": 150974726,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "OfflineMusic",
-      "bundleIdentifier": "com.offlinemusic",
-      "developerName": "AppTesters IPA Repo",
-      "version": "3.9.9",
-      "versionDate": "2026-10-31",
-      "versionDescription": "Release 3.9.9",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/OfflineMusic_3.9.9_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/OfflineMusic_3.9.9_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png",
-      "tintColor": "000000",
-      "size": 85197355,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -53499,23 +53521,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.nota.png",
       "tintColor": "000000",
       "size": 31557994,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Pixomatic",
-      "bundleIdentifier": "us.pixomaticpro.PixomaticPro",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2.55.36",
-      "versionDate": "2026-04-27",
-      "versionDescription": "Release 2.55.36",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-03-2026/Pixomatic_2.55.36_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-03-2026/Pixomatic_2.55.36_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.pixomaticpro.PixomaticPro.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.pixomaticpro.PixomaticPro.png",
-      "tintColor": "000000",
-      "size": 175038117,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -102445,9 +102450,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1794405284",
+      "identifier": "update-1794433761",
       "caption": "Updated with 5619 unique sideloadable apps",
-      "date": "2026-11-11T13:54:44Z",
+      "date": "2026-11-11T21:49:21Z",
       "tintColor": "#007AFF"
     }
   ]
