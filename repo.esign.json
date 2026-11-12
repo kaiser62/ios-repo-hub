@@ -1,7 +1,7 @@
 {
   "name": "iOS Community Mega Repo (ESign)",
   "identifier": "com.kaiser62.ios-community-repo.esign",
-  "updated": "2026-11-12T06:44:20Z",
+  "updated": "2026-11-12T17:28:50Z",
   "apps": [
     {
       "name": "12min",
@@ -19,6 +19,23 @@
       "size": 48916123,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "AdGuard",
+      "bundleIdentifier": "com.adguard.AdguardExtension",
+      "developerName": "Community Developer",
+      "version": "4.5.25",
+      "versionDate": "2026-11-12",
+      "versionDescription": "Release 4.5.25",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/AdGuard_4.5.25_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/AdGuard_4.5.25_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png",
+      "tintColor": "#007AFF",
+      "size": 49841128,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "ARMSX2",
@@ -53,6 +70,23 @@
       "size": 44902735,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Balance",
+      "bundleIdentifier": "com.elevateapp.kamino.kamino",
+      "developerName": "Community Developer",
+      "version": "1.215.0",
+      "versionDate": "2026-11-12",
+      "versionDescription": "Release 1.215.0",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Balance_1.215.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Balance_1.215.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png",
+      "tintColor": "#007AFF",
+      "size": 129943362,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "BCD",
@@ -140,6 +174,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Crsel",
+      "bundleIdentifier": "com.frameoneapps.Crsel",
+      "developerName": "Community Developer",
+      "version": "1.6.4",
+      "versionDate": "2026-11-12",
+      "versionDescription": "Release 1.6.4",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Crsel_1.6.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Crsel_1.6.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Pro",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
+      "tintColor": "#007AFF",
+      "size": 113711607,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "Daygram",
       "bundleIdentifier": "com.saltycrackers.daygram",
       "developerName": "@riftysIPAlibrary",
@@ -189,6 +240,23 @@
       "size": 214457776,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "edjingMix",
+      "bundleIdentifier": "com.edjing.edjingdjturntable",
+      "developerName": "Community Developer",
+      "version": "9.4.6",
+      "versionDate": "2026-11-12",
+      "versionDescription": "Release 9.4.6",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/edjingMix_9.4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/edjingMix_9.4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
+      "tintColor": "#007AFF",
+      "size": 213964600,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "Endel",
@@ -276,6 +344,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "GentlerStreak",
+      "bundleIdentifier": "app.gentler.activity",
+      "developerName": "Community Developer",
+      "version": "6.0",
+      "versionDate": "2026-11-12",
+      "versionDescription": "Release 6.0",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/GentlerStreak_6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/GentlerStreak_6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.gentler.activity.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.gentler.activity.png",
+      "tintColor": "#007AFF",
+      "size": 239552862,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "GestaltX",
       "bundleIdentifier": "com.huami.gestultx",
       "developerName": "huamidev",
@@ -308,6 +393,23 @@
       "size": 56111228,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "HabitKit",
+      "bundleIdentifier": "com.roehl.habitkit",
+      "developerName": "Community Developer",
+      "version": "1.19.2",
+      "versionDate": "2026-11-12",
+      "versionDescription": "Release 1.19.2",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/HabitKit_1.19.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/HabitKit_1.19.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Pro",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
+      "tintColor": "#007AFF",
+      "size": 109014219,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "HappyScale",
@@ -446,6 +548,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "iTranslate",
+      "bundleIdentifier": "com.outerspaceapps.itranslate",
+      "developerName": "Community Developer",
+      "version": "17.4.77",
+      "versionDate": "2026-11-12",
+      "versionDescription": "Release 17.4.77",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/iTranslate_17.4.77_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/iTranslate_17.4.77_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.outerspaceapps.itranslate.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.outerspaceapps.itranslate.png",
+      "tintColor": "#007AFF",
+      "size": 103168114,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "Lake",
       "bundleIdentifier": "com.lake.coloring",
       "developerName": "@blatants",
@@ -478,6 +597,23 @@
       "size": 73234893,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Lifesum",
+      "bundleIdentifier": "com.sillens.iShape",
+      "developerName": "Community Developer",
+      "version": "24.1.0",
+      "versionDate": "2026-11-12",
+      "versionDescription": "Release 24.1.0",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Lifesum_24.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Lifesum_24.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
+      "tintColor": "#007AFF",
+      "size": 133448635,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "Livity",
@@ -650,6 +786,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Origami",
+      "bundleIdentifier": "com.oribot.origami",
+      "developerName": "Community Developer",
+      "version": "5.3",
+      "versionDate": "2026-11-12",
+      "versionDescription": "Release 5.3",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Origami_5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Origami_5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png",
+      "tintColor": "#007AFF",
+      "size": 207614800,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "Paku",
       "bundleIdentifier": "com.kylebashour.aqi-wtf",
       "developerName": "@riftysIPAlibrary",
@@ -665,6 +818,23 @@
       "size": 83161053,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Phocus",
+      "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
+      "developerName": "Community Developer",
+      "version": "3.6.0",
+      "versionDate": "2026-11-12",
+      "versionDescription": "Release 3.6.0",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Phocus_3.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Phocus_3.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png",
+      "tintColor": "#007AFF",
+      "size": 250243828,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "Pixomatic",
@@ -837,6 +1007,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "SCRL",
+      "bundleIdentifier": "com.dopedevelopment.Panels",
+      "developerName": "Community Developer",
+      "version": "9.64",
+      "versionDate": "2026-11-12",
+      "versionDescription": "Release 9.64",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/SCRL_9.64_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/SCRL_9.64_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
+      "tintColor": "#007AFF",
+      "size": 91140868,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "SimplySing",
       "bundleIdentifier": "com.joytunes.Sing",
       "developerName": "AppTesters IPA Repo",
@@ -852,6 +1039,23 @@
       "size": 120095716,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "SleepCycle",
+      "bundleIdentifier": "com.lexwarelabs.goodmorning",
+      "developerName": "Community Developer",
+      "version": "6.26.440",
+      "versionDate": "2026-11-12",
+      "versionDescription": "Release 6.26.440",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/SleepCycle_6.26.440_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/SleepCycle_6.26.440_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png",
+      "tintColor": "#007AFF",
+      "size": 208976928,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "Slopes",
@@ -903,6 +1107,40 @@
       "size": 38353185,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "superagent",
+      "bundleIdentifier": "com.agent.super.extension.safari",
+      "developerName": "Community Developer",
+      "version": "4.7.5",
+      "versionDate": "2026-11-12",
+      "versionDescription": "Release 4.7.5",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/superagent_4.7.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/superagent_4.7.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png",
+      "tintColor": "#007AFF",
+      "size": 32460568,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
+      "name": "Swiftgram",
+      "bundleIdentifier": "app.swiftgram.ios",
+      "developerName": "Community Developer",
+      "version": "13.2",
+      "versionDate": "2026-11-12",
+      "versionDescription": "Release 13.2",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Swiftgram_13.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Swiftgram_13.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+      "tintColor": "#007AFF",
+      "size": 93686639,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "TapeKit",
@@ -3103,23 +3341,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "edjingMix",
-      "bundleIdentifier": "com.edjing.edjingdjturntable",
-      "developerName": "AppTesters IPA Repo",
-      "version": "9.4.5",
-      "versionDate": "2026-11-10",
-      "versionDescription": "Release 9.4.5",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/edjingMix_9.4.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/edjingMix_9.4.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Tweaks: DJMixer\n\n@blatants | Edjing Mix: DJ Music Mixer App\n\n• Bundle ID: com.edjing.edjingdjturntable\n• Updated to: 9.4.5\n• Minimum iOS: 18.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
-      "tintColor": "000000",
-      "size": 215432286,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "EeveeSpotifyReincarnated (v7.0.0 - Not Patched) IPAVault",
       "bundleIdentifier": "com.spotify.client.ios.eeveespotifyreincarnated.7.0.0.not.patched.9.1.98.ipavault",
       "developerName": "Spotify",
@@ -3711,23 +3932,6 @@
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "tintColor": "000000",
       "size": 320022975,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "SCRL",
-      "bundleIdentifier": "com.dopedevelopment.Panels",
-      "developerName": "AppTesters IPA Repo",
-      "version": "9.63",
-      "versionDate": "2026-11-10",
-      "versionDescription": "Release 9.63",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/SCRL_9.63_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/SCRL_9.63_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | SCRL: Photo Collage Maker\n\n• Bundle ID: com.dopedevelopment.Panels\n• Updated to: 9.63\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
-      "tintColor": "000000",
-      "size": 91106233,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -6237,23 +6441,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Phocus",
-      "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
-      "developerName": "AppTesters IPA Repo",
-      "version": "3.5.1",
-      "versionDate": "2026-11-07",
-      "versionDescription": "Release 3.5.1",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/Phocus_3.5.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/Phocus_3.5.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Phocus: DSLR Portrait Camera\n\n• Bundle ID: com.ahmetserdarkaradeniz.Phocus\n• Updated to: 3.5.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nClick Skip on purchase page.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png",
-      "tintColor": "000000",
-      "size": 252547382,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Podcast App",
       "bundleIdentifier": "com.evolve.podcast",
       "developerName": "@riftysIPAlibrary",
@@ -6386,23 +6573,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8852.png",
       "tintColor": "000000",
       "size": 59581298,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "superagent",
-      "bundleIdentifier": "com.agent.super.extension.safari",
-      "developerName": "AppTesters IPA Repo",
-      "version": "4.7.4",
-      "versionDate": "2026-11-07",
-      "versionDescription": "Release 4.7.4",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/superagent_4.7.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/superagent_4.7.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Super Agent for Safari\n\n• Bundle ID: com.agent.super.extension.safari\n• Updated to: 4.7.4\n• Minimum iOS: 17\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>⚠️Use esign + paid certificate.\n>Ignore purchase page and restart the app.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png",
-      "tintColor": "000000",
-      "size": 32410208,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -7900,23 +8070,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Crsel",
-      "bundleIdentifier": "com.frameoneapps.Crsel",
-      "developerName": "AppTesters IPA Repo",
-      "version": "1.6.3",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 1.6.3",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Crsel_1.6.3_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Crsel_1.6.3_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Crsel: Carousel, Collage Maker\n\n• Bundle ID: com.frameoneapps.Crsel\n• Updated to: 1.6.3\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
-      "tintColor": "000000",
-      "size": 170420196,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Darkroom",
       "bundleIdentifier": "co.bergen.Darkroom",
       "developerName": "@blatants",
@@ -7964,23 +8117,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8800.png",
       "tintColor": "000000",
       "size": 272920449,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "HabitKit",
-      "bundleIdentifier": "com.roehl.habitkit",
-      "developerName": "@riftysIPAlibrary",
-      "version": "1.19.1",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 1.19.1",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8799-Habit%20Tracker%20-%20HabitKit-v1.19.1-riftysipas.ipa",
-      "down": "https://fastsign.dev/tg-ipa/riftysipalibrary/8799-Habit%20Tracker%20-%20HabitKit-v1.19.1-riftysipas.ipa",
-      "localizedDescription": "@riftysIPAlibrary | Habit Tracker - HabitKit\n\nTweak: Subscription Unlocked\n\nVersion: 1.19.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.roehl.habitkit\nDeveloper: Sebastian Roehl\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8799.png",
-      "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8799.png",
-      "tintColor": "000000",
-      "size": 100605987,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -8104,23 +8240,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Origami",
-      "bundleIdentifier": "com.oribot.origami",
-      "developerName": "AppTesters IPA Repo",
-      "version": "5.2",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 5.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Origami_5.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Origami_5.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Origami - Fold & Learn\n\n• Bundle ID: com.oribot.origami\n• Updated to: 5.2\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png",
-      "tintColor": "000000",
-      "size": 204221518,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Pinterest",
       "bundleIdentifier": "pinterest",
       "developerName": "@riftysIPAlibrary",
@@ -8206,23 +8325,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Swiftgram (TGExtra)",
-      "bundleIdentifier": "app.swiftgram.ios",
-      "developerName": "@ipavault",
-      "version": "13.1.3",
-      "versionDate": "2026-11-05",
-      "versionDescription": "Release 13.1.3",
-      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1186-Swiftgram%2013.1.3%20TF%20%28TGExtra%29%20%5B@ipavault%5D.ipa",
-      "down": "https://fastsign.dev/tg-ipa/ipavault/1186-Swiftgram%2013.1.3%20TF%20%28TGExtra%29%20%5B@ipavault%5D.ipa",
-      "localizedDescription": "Tweaks: TelegramScreenshotBypass, TGExtra\n\n@ipavault | Builds of Swiftgram 13.1.3 TestFlight\n\nBuilds:\n▪iQTele 1.5\n▪Lead 2.0\n▪TGExtra 1.7.10\nTo enable iQTele:\n1.) Go to Telegram Settings\n2.) Tap the iQ logo at the top right-hand corner\nTo enable TGExtra/Lead:\n1.) Go to Telegram Settings\n2.) Press and hold Ask a Question\nAs usual follow the steps here if doing a clean install: https://t.me/ipavault/4\n✅ Patched\n\nBuild by: @ipavault\n\niQTele 1.5 by 7md\nLead 2.0 by @aquaonly\nTGExtra 1.7.10 by @swiftleopard\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1186.png",
-      "icon": "https://fastsign.dev/tg-icon/ipavault/1186.png",
-      "tintColor": "000000",
-      "size": 77898375,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Tiny Thief HD",
       "bundleIdentifier": "se.spyg.tinytheifhd",
       "developerName": "@spyg_vault",
@@ -8287,23 +8389,6 @@
       "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
       "tintColor": "000000",
       "size": 129927274,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Balance",
-      "bundleIdentifier": "com.elevateapp.kamino.kamino",
-      "developerName": "@riftysIPAlibrary",
-      "version": "1.214.0",
-      "versionDate": "2026-11-04",
-      "versionDescription": "Release 1.214.0",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8786-Balance:%20Meditation%20&%20Sleep-v1.214.0-riftysipas.ipa",
-      "down": "https://fastsign.dev/tg-ipa/riftysipalibrary/8786-Balance:%20Meditation%20&%20Sleep-v1.214.0-riftysipas.ipa",
-      "localizedDescription": "@riftysIPAlibrary | Balance: Meditation & Sleep\n\nTweak: Subscription Unlocked\n\nVersion: 1.214.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.elevateapp.kamino.kamino\nDeveloper: The Mind Company\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8786.png",
-      "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8786.png",
-      "tintColor": "000000",
-      "size": 124252221,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -8899,23 +8984,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8753.png",
       "tintColor": "000000",
       "size": 89225454,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "AdGuard",
-      "bundleIdentifier": "com.adguard.AdguardExtension",
-      "developerName": "AppTesters IPA Repo",
-      "version": "4.5.24",
-      "versionDate": "2026-11-03",
-      "versionDescription": "Release 4.5.24",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/AdGuard_4.5.24_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/AdGuard_4.5.24_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png",
-      "tintColor": "000000",
-      "size": 49973884,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -10986,23 +11054,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "SleepCycle",
-      "bundleIdentifier": "com.lexwarelabs.goodmorning",
-      "developerName": "AppTesters IPA Repo",
-      "version": "6.26.430",
-      "versionDate": "2026-11-02",
-      "versionDescription": "Release 6.26.430",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/SleepCycle_6.26.430_Premium_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/SleepCycle_6.26.430_Premium_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png",
-      "tintColor": "000000",
-      "size": 194086499,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Split Screen View",
       "bundleIdentifier": "com.shestakova.splitscreen",
       "developerName": "SplitScreenView",
@@ -11426,23 +11477,6 @@
       "icon": "https://fastsign.dev/tg-icon/ipa-dark/1851.png",
       "tintColor": "000000",
       "size": 22174026,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Lifesum",
-      "bundleIdentifier": "com.sillens.iShape",
-      "developerName": "AppTesters IPA Repo",
-      "version": "24.0.0",
-      "versionDate": "2026-11-01",
-      "versionDescription": "Release 24.0.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/Lifesum_24.0.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/Lifesum_24.0.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
-      "tintColor": "000000",
-      "size": 133416849,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -15802,23 +15836,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.Foodie.png",
       "tintColor": "000000",
       "size": 125591918,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "GentlerStreak",
-      "bundleIdentifier": "app.gentler.activity",
-      "developerName": "AppTesters IPA Repo",
-      "version": "5.13.5",
-      "versionDate": "2026-10-23",
-      "versionDescription": "Release 5.13.5",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/GentlerStreak_5.13.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/GentlerStreak_5.13.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.gentler.activity.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.gentler.activity.png",
-      "tintColor": "000000",
-      "size": 237412291,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -20449,23 +20466,6 @@
         "https://delvek.net/img/!/iconlib4.png"
       ],
       "source": "https://delvek.net/repo.json"
-    },
-    {
-      "name": "iTranslate",
-      "bundleIdentifier": "com.outerspaceapps.itranslate",
-      "developerName": "AppTesters IPA Repo",
-      "version": "17.4.76",
-      "versionDate": "2026-10-06",
-      "versionDescription": "Release 17.4.76",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-10-2026/iTranslate_17.4.76_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-10-2026/iTranslate_17.4.76_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.outerspaceapps.itranslate.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.outerspaceapps.itranslate.png",
-      "tintColor": "000000",
-      "size": 104732656,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
     },
     {
       "name": "Math Ai - Solve Math Problems",
