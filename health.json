@@ -1,318 +1,336 @@
 {
-  "testedAt": "2026-11-12T17:28:59Z",
+  "testedAt": "2026-11-12T23:24:54Z",
   "sampleSize": 500,
-  "aliveCount": 463,
-  "deadCount": 37,
-  "alivePercentage": 92.6,
-  "avgLatencyMs": 299,
+  "aliveCount": 462,
+  "deadCount": 38,
+  "alivePercentage": 92.4,
+  "avgLatencyMs": 167,
   "totalRepositoryApps": 5623,
   "recentDead": [
     {
-      "name": "Supervise",
-      "bundleIdentifier": "com.AppInstalleriOS.Supervise",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Supervise_TS-Yr.ipa",
+      "name": "Flycast",
+      "bundleIdentifier": "com.flyinghead.Flycast",
+      "url": "https://github.com/flyinghead/flycast/releases/download/v2.5/Flycast-2.5.ipa",
+      "alive": false,
+      "statusCode": 404,
+      "error": "HTTP 404",
+      "latencyMs": 150
+    },
+    {
+      "name": "Sleep",
+      "bundleIdentifier": "com.bendingspoonsapps.SleepHelp",
+      "url": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/Sleep_2.7.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "alive": false,
+      "statusCode": 404,
+      "error": "HTTP 404",
+      "latencyMs": 142
+    },
+    {
+      "name": "TrollAppsTV",
+      "bundleIdentifier": "org.resonance.tvstore",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Troll_Apps_TV-ON.ipa",
       "alive": false,
       "statusCode": 0,
       "error": "<urlopen error timed out>",
-      "latencyMs": 8088
+      "latencyMs": 8065
     },
     {
-      "name": "FileSwitcherPro",
-      "bundleIdentifier": "com.straight-tamago.FileSwitcherPro",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//File_Switcher_Pro_2_4-nG.ipa",
+      "name": "Mydietcoach",
+      "bundleIdentifier": "com.inspiredapp.mydietcoach",
+      "url": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/Mydietcoach_10.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "alive": false,
+      "statusCode": 404,
+      "error": "HTTP 404",
+      "latencyMs": 151
+    },
+    {
+      "name": "Five Nights at Freddy's 4",
+      "bundleIdentifier": "com.scottgames.fnaf4",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Five_Nights_at_Freddys_4_v2_0_2-6x.ipa",
       "alive": false,
       "statusCode": 0,
       "error": "<urlopen error timed out>",
-      "latencyMs": 8037
+      "latencyMs": 8043
     },
     {
-      "name": "Ballz",
-      "bundleIdentifier": "com.ketchapp.ballz",
-      "url": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67a9768a72b77be7cfa3ae8b",
+      "name": "MAME4iOS tvOS MAME 139",
+      "bundleIdentifier": "com.example.mame4iostv139",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//MAME_4tv_OS_2022_5_139-YA.ipa",
+      "alive": false,
+      "statusCode": 0,
+      "error": "<urlopen error timed out>",
+      "latencyMs": 8041
+    },
+    {
+      "name": "Julioverne Adblock",
+      "bundleIdentifier": "com.realmzer.julioadblock",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//com_julioverne_adblock_0_2_beta1_iphoneos_arm-A0.deb",
+      "alive": false,
+      "statusCode": 0,
+      "error": "<urlopen error timed out>",
+      "latencyMs": 8025
+    },
+    {
+      "name": "LocalSend",
+      "bundleIdentifier": "org.localsend.localsendApp",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//org_localsend_localsend_App_1_17_0_eeveedecrypter-qf.ipa",
+      "alive": false,
+      "statusCode": 429,
+      "error": "HTTP 429",
+      "latencyMs": 1170
+    },
+    {
+      "name": "Wallpapers",
+      "bundleIdentifier": "com.apalonapps.wallpaperspys",
+      "url": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Wallpapers_5.22.18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "alive": false,
       "statusCode": 404,
       "error": "HTTP 404",
-      "latencyMs": 216
+      "latencyMs": 113
     },
     {
-      "name": "Papers, Please",
-      "bundleIdentifier": "co.3909.papersplease",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Papers_Please_v1_4_12-qQ.ipa",
+      "name": "Lock Master",
+      "bundleIdentifier": "com.leemin.lockmaster",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//com_leemin_lockmaster_1_2_0_iphoneos_arm64-ac.deb",
       "alive": false,
       "statusCode": 429,
       "error": "HTTP 429",
-      "latencyMs": 1098
+      "latencyMs": 1220
     },
     {
-      "name": "JailedSpeedAds",
-      "bundleIdentifier": "com.34306.adspeed",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//com_34306_adspeed_2_0_iphoneos_arm64-qf.deb",
-      "alive": false,
-      "statusCode": 429,
-      "error": "HTTP 429",
-      "latencyMs": 1094
-    },
-    {
-      "name": "OPlayer - Video Player",
-      "bundleIdentifier": "com.olimsoft.oplayer",
-      "url": "https://st76471.ispot.cc/ipa/OPlayer_v4800_%5BDELvEK%5D.ipa",
-      "alive": false,
-      "statusCode": 406,
-      "error": "HTTP 406",
-      "latencyMs": 399
-    },
-    {
-      "name": "ValidationRelay",
-      "bundleIdentifier": "dev.jjtech.experiments.ValidationRelay",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Validation_Relay-kr.tipa",
-      "alive": false,
-      "statusCode": 429,
-      "error": "HTTP 429",
-      "latencyMs": 1080
-    },
-    {
-      "name": "Frida Code Manager (Root-Less) v2.0 alpha 2",
-      "bundleIdentifier": "com.sparklechan.swiftyrl20a2",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Frida_Code_Manager_rootless_1-Ok.deb",
-      "alive": false,
-      "statusCode": 429,
-      "error": "HTTP 429",
-      "latencyMs": 1068
-    },
-    {
-      "name": "ExtractApp",
-      "bundleIdentifier": "com.developlab.ExtractApp",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Extract_App_1_1_1-qX.tipa",
-      "alive": false,
-      "statusCode": 429,
-      "error": "HTTP 429",
-      "latencyMs": 1133
-    },
-    {
-      "name": "RESIDENT EVIL 2",
-      "bundleIdentifier": "jp.co.capcom.RE2US",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//jp_co_capcom_RE_2_US_1_0_1_und3fined-8Y.ipa",
-      "alive": false,
-      "statusCode": 429,
-      "error": "HTTP 429",
-      "latencyMs": 1181
-    },
-    {
-      "name": "Investing.com",
-      "bundleIdentifier": "com.investing.app",
-      "url": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2025/Investing.com_6.50.0_NoAds_%40thisismanpreets_apptesters.org.ipa",
+      "name": "Swiftgram+",
+      "bundleIdentifier": "app.swiftgram.ios.mod",
+      "url": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Swiftgram+_11.3.2_TTJB.ipa",
       "alive": false,
       "statusCode": 404,
       "error": "HTTP 404",
-      "latencyMs": 222
+      "latencyMs": 1401
     },
     {
-      "name": "Pedometer++",
-      "bundleIdentifier": "ccom.crossforward.pedometer",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//com_crossforward_pedometer_6_1_eeveedecrypter-SN.ipa",
+      "name": "Dead Cells+",
+      "bundleIdentifier": "com.playdigious.deadcells.applearcade",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Dead_Cells_plus_v3_3_2-IO.ipa",
       "alive": false,
       "statusCode": 429,
       "error": "HTTP 429",
-      "latencyMs": 1086
+      "latencyMs": 1162
     },
     {
-      "name": "Sideload Bypass (1)",
-      "bundleIdentifier": "com.realmzer.sideloadbypass1",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Sideloadbypass1-aX.dylib",
+      "name": "Sideload Bypass (2)",
+      "bundleIdentifier": "com.realmzer.sideloadbypass2",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Sideloadbypass2-lR.dylib",
       "alive": false,
       "statusCode": 429,
       "error": "HTTP 429",
-      "latencyMs": 1122
+      "latencyMs": 1200
     },
     {
-      "name": "Friday Night Funkin: Psych Engine 1.0.2h",
-      "bundleIdentifier": "com.shadowmario.psychengine102h",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Psych_Engine-3Z.ipa",
-      "alive": false,
-      "statusCode": 429,
-      "error": "HTTP 429",
-      "latencyMs": 1099
-    },
-    {
-      "name": "uYouEnhanced",
-      "bundleIdentifier": "com.google.ios.youtubeen",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//u_You_Enhanced_20_09_3_3_0_4moe-i0.ipa",
-      "alive": false,
-      "statusCode": 429,
-      "error": "HTTP 429",
-      "latencyMs": 1072
-    },
-    {
-      "name": "Fall Guys - 120FPS (Outdated)",
-      "bundleIdentifier": "uk.co.mediatonic.fallguys.120fps",
-      "url": "https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/FallGuys.ipa",
+      "name": "ESign 4.8.2",
+      "bundleIdentifier": "p3.xyz.yyyue.esign482",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//esign_4_8_2_unsigned-u2.ipa",
       "alive": false,
       "statusCode": 404,
       "error": "HTTP 404",
-      "latencyMs": 238
+      "latencyMs": 3058
     },
     {
-      "name": "BSD Brawl Stars",
-      "bundleIdentifier": "bsd.suitcase.release",
-      "url": "https://web.archive.org/web/20250310010244/https://storage.bsdbrawl.com/bsd_brawl_v58.279_(27).ipa",
+      "name": "Appabetical",
+      "bundleIdentifier": "com.avangelista.Appabetical",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Appabetical-js.ipa",
       "alive": false,
       "statusCode": 429,
       "error": "HTTP 429",
-      "latencyMs": 1066
+      "latencyMs": 1162
     },
     {
-      "name": "PureKFD",
-      "bundleIdentifier": "uwu.lrdsnow.purekfd",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Pure_KFD-ZN.ipa",
+      "name": "ResSet16",
+      "bundleIdentifier": "net.sourceloc.ResSet16",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Res_Set16_1_1_3_16_1_2-Wl.ipa",
+      "alive": false,
+      "statusCode": 0,
+      "error": "<urlopen error [Errno 111] Connection refused>",
+      "latencyMs": 3003
+    },
+    {
+      "name": "GBoxTS 2 Installer",
+      "bundleIdentifier": "com.gboxts.installer0",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//GBTS_Installer_X_v1_0_1-ZW.ipa",
       "alive": false,
       "statusCode": 429,
       "error": "HTTP 429",
-      "latencyMs": 1071
+      "latencyMs": 1212
     },
     {
-      "name": "Cute Cut Pro",
-      "bundleIdentifier": "com.community.cute.cut.pro",
-      "url": "https://github.com/ehmedjamil/repo/releases/download/repo/cutecutpro.ipa",
+      "name": "ExtensionFix",
+      "bundleIdentifier": "com.realmzer.extensionfix",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Extension_Fix1_0-21.dylib",
+      "alive": false,
+      "statusCode": 429,
+      "error": "HTTP 429",
+      "latencyMs": 1183
+    },
+    {
+      "name": "ESign",
+      "bundleIdentifier": "com.community.esign",
+      "url": "https://github.com/ehmedjamil/repo/releases/download/repo/esign.ipa",
       "alive": false,
       "statusCode": 404,
       "error": "HTTP 404",
-      "latencyMs": 447
+      "latencyMs": 247
     },
     {
-      "name": "Smashy Road: Wanted",
-      "bundleIdentifier": "com.rkgames.smashywanted",
-      "url": "https://file-to-link-bot-nx-51e1b7ab1fe5.herokuapp.com/dl/67c53713d943079d9d23f39e",
+      "name": "Folium",
+      "bundleIdentifier": "com.antique.Folium",
+      "url": "https://web.archive.org/web/20240828174035/https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/Folium-1.1.4Cytrus.ipa",
+      "alive": false,
+      "statusCode": 429,
+      "error": "HTTP 429",
+      "latencyMs": 2566
+    },
+    {
+      "name": "DynamicCowTS",
+      "bundleIdentifier": "com.matteozappia.DynamicCowTS",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Dynamic_Cow_TS-gI.tipa",
+      "alive": false,
+      "statusCode": 404,
+      "error": "HTTP 404",
+      "latencyMs": 2377
+    },
+    {
+      "name": "Fortnite CAHighFPS",
+      "bundleIdentifier": "org.epicgames.FortniteGamehighfps",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Fortnite_34_00_2_CA_High_FPS-lK.ipa",
+      "alive": false,
+      "statusCode": 429,
+      "error": "HTTP 429",
+      "latencyMs": 2310
+    },
+    {
+      "name": "Epic Games Store",
+      "bundleIdentifier": "com.epicgames.store",
+      "url": "https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/Epic+Games-0.2.1-Modified.ipa",
+      "alive": false,
+      "statusCode": 404,
+      "error": "HTTP 404",
+      "latencyMs": 146
+    },
+    {
+      "name": "Remini",
+      "bundleIdentifier": "com.community.remini",
+      "url": "https://github.com/ehmedjamil/repo/releases/download/repo/remini.ipa",
       "alive": false,
       "statusCode": 404,
       "error": "HTTP 404",
       "latencyMs": 248
     },
     {
-      "name": "Prettyup",
-      "bundleIdentifier": "com.floatcamellia.prettyup",
-      "url": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Prettyup_8.2.20_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "name": "Frida Code Manager (Root-Less)",
+      "bundleIdentifier": "com.sparklechan.swiftyrl",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Frida_Code_Manager_rootless_3-27.deb",
+      "alive": false,
+      "statusCode": 429,
+      "error": "HTTP 429",
+      "latencyMs": 2129
+    },
+    {
+      "name": "LiveWallpapersFree",
+      "bundleIdentifier": "com.apalonapps.livewallpapersfree",
+      "url": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/LiveWallpapersFree_2.42.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "alive": false,
       "statusCode": 404,
       "error": "HTTP 404",
-      "latencyMs": 243
+      "latencyMs": 117
     },
     {
-      "name": "Gonerino",
-      "bundleIdentifier": "castdrian.gonerino",
-      "url": "https://web.archive.org/web/20250310010244/https://github.com/castdrian/Gonerino/releases/download/v1.1.0/dev.adrian.gonerino_1.1.0_iphoneos-arm64.deb",
+      "name": "Widgy Widgets",
+      "bundleIdentifier": "com.woodsign.Widgy",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//None_v4_0_blatant-6j.ipa",
       "alive": false,
       "statusCode": 429,
       "error": "HTTP 429",
-      "latencyMs": 1070
+      "latencyMs": 1907
     },
     {
-      "name": "CocoaTop TS",
-      "bundleIdentifier": "ru.domo.cocoatop64",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Cocoa_Top-85.tipa",
+      "name": "Fall Guys",
+      "bundleIdentifier": "uk.co.mediatonic.fallguys",
+      "url": "https://web.archive.org/web/20250310010244/https://github.com/appleipa/EpicGamesIPA/releases/download/v1.1.4/FallGuys-11.6.0.ipa",
       "alive": false,
-      "statusCode": 429,
-      "error": "HTTP 429",
-      "latencyMs": 1072
+      "statusCode": 0,
+      "error": "<urlopen error [Errno 111] Connection refused>",
+      "latencyMs": 3271
     },
     {
-      "name": "PUBG Mobile",
-      "bundleIdentifier": "com.community.pubg.mobile",
-      "url": "https://forever.nekoo.eu.org/pubg.ipa",
+      "name": "Scarlet",
+      "bundleIdentifier": "com.community.scarlet",
+      "url": "https://github.com/ehmedjamil/repo/releases/download/repo/scarlet.ipa",
       "alive": false,
       "statusCode": 404,
       "error": "HTTP 404",
-      "latencyMs": 568
+      "latencyMs": 286
     },
     {
-      "name": "GBoxTS 2",
-      "bundleIdentifier": "com.ncs.gboxts",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//G_Box_TS_v5_6_6-Kw.ipa",
+      "name": "LogRide",
+      "bundleIdentifier": "com.parksman.LogRide",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//com_parksman_Log_Ride_6_9_4-Aw.ipa",
       "alive": false,
       "statusCode": 429,
       "error": "HTTP 429",
-      "latencyMs": 1092
-    },
-    {
-      "name": "Otraku",
-      "bundleIdentifier": "com.otraku.app",
-      "url": "https://web.archive.org/web/20240828174035/https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-01-2024/Otraku-1.4.3-ios15.0%2B.ipa",
-      "alive": false,
-      "statusCode": 429,
-      "error": "HTTP 429",
-      "latencyMs": 1063
-    },
-    {
-      "name": "YouTube Plus + Tweaks",
-      "bundleIdentifier": "com.google.ios.youtubetweak",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Youtube20_09_3_YT_Lite5_1_Full_March2nd_Moe-lC.ipa",
-      "alive": false,
-      "statusCode": 0,
-      "error": "<urlopen error [Errno 111] Connection refused>",
-      "latencyMs": 49
-    },
-    {
-      "name": "iTorrent",
-      "bundleIdentifier": "com.xitrix.iTorrent",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//i_Torrent_2-St.ipa",
-      "alive": false,
-      "statusCode": 0,
-      "error": "<urlopen error [Errno 111] Connection refused>",
-      "latencyMs": 43
-    },
-    {
-      "name": "TheChan",
-      "bundleIdentifier": "com.thechan.TheChan",
-      "url": "https://web.archive.org/web/20240828174035/https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/TheChan-1.8.2.ipa",
-      "alive": false,
-      "statusCode": 0,
-      "error": "<urlopen error [Errno 111] Connection refused>",
-      "latencyMs": 24
-    },
-    {
-      "name": "Dock Transparent",
-      "bundleIdentifier": "com.straight-tamago.DockTransparent",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Dock_Transparent_0_2-V2.ipa",
-      "alive": false,
-      "statusCode": 0,
-      "error": "<urlopen error [Errno 111] Connection refused>",
-      "latencyMs": 23
+      "latencyMs": 2571
     }
   ],
   "samples": [
     {
-      "name": "Pythoni3.5 - Run, CodeOutline1",
-      "bundleIdentifier": "com.yingzhi.python3.5pay",
-      "url": "https://st76471.ispot.cc/ipa/pythoni3.5-RunCodeOutline_v20.0_%5BDELvEK%5D.ipa",
+      "name": "Flycast",
+      "bundleIdentifier": "com.flyinghead.Flycast",
+      "url": "https://github.com/flyinghead/flycast/releases/download/v2.5/Flycast-2.5.ipa",
+      "alive": false,
+      "statusCode": 404,
+      "error": "HTTP 404",
+      "latencyMs": 150
+    },
+    {
+      "name": "Sileo",
+      "bundleIdentifier": "org.coolstar.SileoStore",
+      "url": "https://st76471.ispot.cc/ipa/Sileo_v2.5.1_%5BDELvEK%5D.ipa",
       "alive": true,
       "statusCode": 200,
-      "latencyMs": 512,
+      "latencyMs": 145,
       "method": "HEAD"
     },
     {
-      "name": "MyDiaryPremium",
-      "bundleIdentifier": "com.simpleinnovation.diary",
-      "url": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyDiaryPremium/MyDiaryPremium-1.9.3.ipa",
+      "name": "NCT-NhacCuaTui",
+      "bundleIdentifier": "com.nct.nhaccuatui",
+      "url": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/NCT_8.4.17_TTJB.ipa",
       "alive": true,
       "statusCode": 200,
-      "latencyMs": 379,
+      "latencyMs": 1913,
       "method": "HEAD"
     },
     {
-      "name": "Firsty",
-      "bundleIdentifier": "com.firsty.app",
-      "url": "https://file.ipaomtk.com/Firsty%20Travel%20eSIM/Firsty-Travel-eSIM-IPAOMTK.COM.ipa",
+      "name": "Flappy Bird",
+      "bundleIdentifier": "com.brandon.flappybird",
+      "url": "https://bunduuk.github.io/altstore-source/ipa/FlappyBird/FlappyBird.ipa?raw=true",
       "alive": true,
       "statusCode": 200,
-      "latencyMs": 370,
+      "latencyMs": 985,
       "method": "HEAD"
     },
     {
-      "name": "Idle City Builder",
-      "bundleIdentifier": "com.WonderHive.HyperHome",
-      "url": "https://file.ipaomtk.com/Idle%20City%20Builder%20%21/Idle-City-Builder-IPAOMTK.COM.ipa",
+      "name": "JournalCircle",
+      "bundleIdentifier": "com.genau.JournalCircle",
+      "url": "https://fastsign.dev/tg-ipa/riftysipalibrary/8922-JournalCircle:%20Diary%20&%20Tracker-v3.6.6-riftysipas.ipa",
       "alive": true,
       "statusCode": 200,
-      "latencyMs": 403,
+      "latencyMs": 261,
+      "method": "HEAD"
+    },
+    {
+      "name": "AppCake",
+      "bundleIdentifier": "appcake2.iphonecake.com",
+      "url": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/AppCake-7.2.2.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 239,
       "method": "HEAD"
     },
     {
@@ -321,412 +339,394 @@
       "url": "https://file.ipaomtk.com/tiny-heroes-idle-boss-fight/Tiny-Heroes-IPAOMTK.COM.ipa",
       "alive": true,
       "statusCode": 200,
-      "latencyMs": 368,
+      "latencyMs": 167,
       "method": "HEAD"
     },
     {
-      "name": "Tasks_Create_Live_Activities",
-      "bundleIdentifier": "rihab.liveTasks",
-      "url": "https://ipa.cypwn.xyz/ipas/Tasks_Create_Live_Activities.ipa",
+      "name": "iSTB",
+      "bundleIdentifier": "com.na.istb",
+      "url": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-12-2025/iSTB_1.29.3_Premium_@thisismanpreets_apptesters.org.ipa",
       "alive": true,
       "statusCode": 200,
-      "latencyMs": 289,
+      "latencyMs": 230,
       "method": "HEAD"
     },
     {
-      "name": "Remoter VNC - Remote Desktop",
-      "bundleIdentifier": "com.rafiphoneapps.remoter",
-      "url": "https://st76471.ispot.cc/ipa/RemoterVNC-RemoteDesktop_v6.2.5_%5BDELvEK%5D.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 512,
-      "method": "HEAD"
-    },
-    {
-      "name": "Ai Video Eraser",
-      "bundleIdentifier": "com.rockybrain.aivideoeraser",
-      "url": "https://st76471.ispot.cc/ipa/AiVideoEraser_v1.0%2BPREMiUM_%5BDELvEK%5D.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 513,
-      "method": "HEAD"
-    },
-    {
-      "name": "Channels",
-      "bundleIdentifier": "com.channelsapp.channels",
-      "url": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Channels.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 369,
-      "method": "HEAD"
-    },
-    {
-      "name": "Moodshot",
-      "bundleIdentifier": "irfandegirmenci.Moodshot",
-      "url": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/Moodshot_3.0.12_Premium_@thisismanpreets_apptesters.org.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 380,
-      "method": "HEAD"
-    },
-    {
-      "name": "Supervise",
-      "bundleIdentifier": "com.AppInstalleriOS.Supervise",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Supervise_TS-Yr.ipa",
+      "name": "Sleep",
+      "bundleIdentifier": "com.bendingspoonsapps.SleepHelp",
+      "url": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/Sleep_2.7.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "alive": false,
-      "statusCode": 0,
-      "error": "<urlopen error timed out>",
-      "latencyMs": 8088
+      "statusCode": 404,
+      "error": "HTTP 404",
+      "latencyMs": 142
     },
     {
-      "name": "Idle Breaker",
-      "bundleIdentifier": "com.idlesurvivor.game",
-      "url": "https://file.ipaomtk.com/idle-breaker-ipa/Idle-Breaker-IPAOMTK.COM.ipa",
+      "name": "ProCCD",
+      "bundleIdentifier": "com.yengshine.proccd",
+      "url": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/ProCCD_7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "alive": true,
       "statusCode": 200,
-      "latencyMs": 351,
+      "latencyMs": 214,
       "method": "HEAD"
     },
     {
-      "name": "iPostgreSqlProg - PostgreSql",
-      "bundleIdentifier": "com.makeprog.iPostgreSqlProg",
-      "url": "https://st76471.ispot.cc/ipa/iPostgreSqlProg-PostgreSql_v1.7.4_%5BDELvEK%5D.ipa",
+      "name": "Battle Camp",
+      "bundleIdentifier": "com.battlecamp.monsters",
+      "url": "https://file.ipaomtk.com/battle-camp/Battle-Camp-IPAOMTK.COM.ipa",
       "alive": true,
       "statusCode": 200,
-      "latencyMs": 501,
+      "latencyMs": 158,
       "method": "HEAD"
     },
     {
-      "name": "Rogue Legend",
-      "bundleIdentifier": "com.pockethaven.roguelegend",
-      "url": "https://file.ipaomtk.com/rogue-legend-roguelike-rpg/Rogue-Legend-IPAOMTK.COM.ipa",
+      "name": "Tower\u2005of\u2005Saviors",
+      "bundleIdentifier": "com.madhead.tos.zh",
+      "url": "https://file.ipaomtk.com/tower-of-saviors/Tower-Of-Saviors-IPAOMTK.COM.ipa",
       "alive": true,
       "statusCode": 200,
-      "latencyMs": 353,
+      "latencyMs": 189,
       "method": "HEAD"
     },
     {
-      "name": "The Blockheads",
-      "bundleIdentifier": "com.majicjungle.blockheads",
-      "url": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/Blockheads_1.7.4.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 360,
-      "method": "HEAD"
-    },
-    {
-      "name": "gm",
-      "bundleIdentifier": "com.linegames.gm",
-      "url": "https://file.ipaomtk.com/The-War-of-Genesis/The-War-Of-Genesis-IPAOMTK.COM.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 346,
-      "method": "HEAD"
-    },
-    {
-      "name": "MBC Shahid",
-      "bundleIdentifier": "net.mbc.shahid-iphone",
-      "url": "https://st76471.ispot.cc/ipa/MBCShahid_v8.7.0_%5BDELvEK%5D.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 489,
-      "method": "HEAD"
-    },
-    {
-      "name": "ByePhotos",
-      "bundleIdentifier": "com.panicbyte.byephotos",
-      "url": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/ByePhotos_1.15.1_Premium_@thisismanpreets_apptesters.org.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 387,
-      "method": "HEAD"
-    },
-    {
-      "name": "CarMovie",
-      "bundleIdentifier": "jp.dcsyhi.CarMovie",
-      "url": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CarMovie/CarMovie-1.2.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 334,
-      "method": "HEAD"
-    },
-    {
-      "name": "MySqlProg2 - MySql Client",
-      "bundleIdentifier": "com.makeprog.mysqlprog2",
-      "url": "https://st76471.ispot.cc/ipa/MySqlProg2-MySqlClient_v1.4.3_%5BDELvEK%5D.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 478,
-      "method": "HEAD"
-    },
-    {
-      "name": "DevTycoon 2",
-      "bundleIdentifier": "com.boomdrag.devtycoon2",
-      "url": "https://file.ipaomtk.com/Dev%20Tycoon%20Idle%20Games%20Offline/Dev-Tycoon-Idle-v2.9.37-IPAOMTK.COM.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 364,
-      "method": "HEAD"
-    },
-    {
-      "name": "HeavyBagPro",
-      "bundleIdentifier": "com.opentechiz.heavybagpro",
-      "url": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/HeavyBagPro_2.6.6_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 351,
-      "method": "HEAD"
-    },
-    {
-      "name": "LuminaClean: AI Photo Cleaner",
-      "bundleIdentifier": "com.ipaomtk.luminaclean.ai.photo.cleaner.154603",
-      "url": "https://file.ipaomtk.com/luminaclean-ai-photo-cleaner/LuminaClean-IPAOMTK.COM.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 369,
-      "method": "HEAD"
-    },
-    {
-      "name": "YTPlusYTweaks (5.2.2 - iOS SDK 14)",
-      "bundleIdentifier": "com.google.ios.youtube.ytplusytweaks.ios.sdk.14",
-      "url": "https://repo.ballermc.com/tubevault/YTPlusYTweaks_5.2.2+Tweaks_SDK16.5_v19.20.2.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 274,
-      "method": "HEAD"
-    },
-    {
-      "name": "Taurus (v0.60.6 - Patched) IPAVault",
-      "bundleIdentifier": "com.spotify.client.ios.taurus.0.60.6.patched.9.1.90",
-      "url": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Taurus%200.60.6%29%20%5B@ipavault%5D.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 240,
-      "method": "HEAD"
-    },
-    {
-      "name": "iPGMail",
-      "bundleIdentifier": "com.community.ipgmail",
-      "url": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-2/iPGMail_2025.02.1_3BodSy.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 379,
-      "method": "HEAD"
-    },
-    {
-      "name": "Santander_TS",
-      "bundleIdentifier": "cypwn.Santander_TS.1.0",
-      "url": "https://ipa.cypwn.xyz/ipas/Santander_TS.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 248,
-      "method": "HEAD"
-    },
-    {
-      "name": "Mortal Kombat",
-      "bundleIdentifier": "com.wb.MK.Brawler2015",
-      "url": "https://fastsign.dev/tg-ipa/kamohacks/16908-Mortal%20Kombat%20-%20KamoHacks%20%5B7.4.1%5D.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 325,
-      "method": "HEAD"
-    },
-    {
-      "name": "Cartoonizer - Ai Cartoon Maker",
-      "bundleIdentifier": "com.app.cartoonize",
-      "url": "https://st76471.ispot.cc/ipa/Cartoonizer-AiCartoonMaker_v2.0.2%2BPREMiUM.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 461,
-      "method": "HEAD"
-    },
-    {
-      "name": "Transit King: Truck Simulator",
-      "bundleIdentifier": "com.ipaomtk.transit.king.truck.simulator.158902",
-      "url": "https://file.ipaomtk.com/transit-king-truck-simulator/Transit-King-Truck-Simulator-IPAOMTK.COM.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 323,
-      "method": "HEAD"
-    },
-    {
-      "name": "LunarProxy for Minecraft PE",
-      "bundleIdentifier": "localhost.lunar",
-      "url": "https://st76471.ispot.cc/ipa/LunarProxyForMinecraftPE_v2.2.3_%5BDELvEK%5D.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 439,
-      "method": "HEAD"
-    },
-    {
-      "name": "Track Server",
-      "bundleIdentifier": "uk.co.trackserver",
-      "url": "https://st76471.ispot.cc/ipa/TrackServer_v4.1_%5BDELvEK%5D.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 430,
-      "method": "HEAD"
-    },
-    {
-      "name": "Five Hearts Under One Roof",
-      "bundleIdentifier": "com.storytaco.pc01mclient",
-      "url": "https://file.ipaomtk.com/five-hearts-under-one-roof/Five-Hearts-Under-IPAOMTK.COM.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 276,
-      "method": "HEAD"
-    },
-    {
-      "name": "Viddle",
-      "bundleIdentifier": "com.inkriver.vidle",
-      "url": "https://file.ipaomtk.com/Viddle%20No%20Ads%20Video%20Browser/Viddle-v1.11.15-IPAOMTK.COM.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 163,
-      "method": "HEAD"
-    },
-    {
-      "name": "Stable Action",
-      "bundleIdentifier": "com.thuthuatjb.Stable-Action",
-      "url": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/StableAction_1.0.1_TTJB.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 1694,
-      "method": "HEAD"
-    },
-    {
-      "name": "WheelPal",
-      "bundleIdentifier": "com.carplayhacks.wheelpal",
-      "url": "https://st76471.ispot.cc/ipa/Wheelpal_v2.0.0.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 357,
-      "method": "HEAD"
-    },
-    {
-      "name": "Encode - Learn to Code",
-      "bundleIdentifier": "com.upskew.encode.ios",
-      "url": "https://st76471.ispot.cc/ipa/Encode-LearnToCode_v6.23.0%2BPREMiUM.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 354,
-      "method": "HEAD"
-    },
-    {
-      "name": "FileSwitcherPro",
-      "bundleIdentifier": "com.straight-tamago.FileSwitcherPro",
-      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//File_Switcher_Pro_2_4-nG.ipa",
-      "alive": false,
-      "statusCode": 0,
-      "error": "<urlopen error timed out>",
-      "latencyMs": 8037
-    },
-    {
-      "name": "iPSW Go",
-      "bundleIdentifier": "com.levi87.myipsw",
-      "url": "https://st76471.ispot.cc/ipa/iPSWGo_v1.4.7%2BPREMiUM.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 363,
-      "method": "HEAD"
-    },
-    {
-      "name": "Human Anatomy Atlas 2025",
-      "bundleIdentifier": "com.community.human.anatomy.atlas.2025",
-      "url": "https://github.com/karbin09/karbin-ipa-four/releases/download/karbin-ipa-four/Human.Anatomy.Atlas.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 345,
-      "method": "HEAD"
-    },
-    {
-      "name": "BookPal - Ai Book Summaries",
-      "bundleIdentifier": "com.MattSutton.BookPal",
-      "url": "https://st76471.ispot.cc/ipa/BookPal-AiBookSummaries_v1.4%2BPREMiUM.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 359,
-      "method": "HEAD"
-    },
-    {
-      "name": "YouMod (2.0.0) + Bonus Tweaks (Drifty)",
-      "bundleIdentifier": "com.google.ios.youtube.youmod.2.0.0.drifty",
-      "url": "https://repo.ballermc.com/tubevault/YouMod_21.45.4_v2.0.0%5Bdrifty%5D.ipa",
+      "name": "Vampire Survivors",
+      "bundleIdentifier": "com.community.vampire.survivors",
+      "url": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-4/Vampire.Survivors.-.1.12.108.ipa",
       "alive": true,
       "statusCode": 200,
       "latencyMs": 204,
       "method": "HEAD"
     },
     {
-      "name": "Ballz",
-      "bundleIdentifier": "com.ketchapp.ballz",
-      "url": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67a9768a72b77be7cfa3ae8b",
+      "name": "MaxMusic (1.3 - YouMusicPiP Added)",
+      "bundleIdentifier": "com.google.ios.youtube.music.maxmusic.all",
+      "url": "https://repo.ballermc.com/tubevault/MaxMusic_YMP_2.4.1_9.45.2.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 186,
+      "method": "HEAD"
+    },
+    {
+      "name": "Evil Lands: Epic MMORPG game",
+      "bundleIdentifier": "com.ipaomtk.evil.lands.epic.mmorpg.game.160133",
+      "url": "https://file.ipaomtk.com/evil-lands-epic-mmorpg-game/Evil-Lands-Epic-MMORPG-IPAOMTK.COM.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 178,
+      "method": "HEAD"
+    },
+    {
+      "name": "AppDB",
+      "bundleIdentifier": "it.ned.appdb-ios",
+      "url": "https://st76471.ispot.cc/ipa/AppDB_v1.1.6_%5BDELvEK%5D.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 148,
+      "method": "HEAD"
+    },
+    {
+      "name": "King or Fail",
+      "bundleIdentifier": "com.playfocus.king",
+      "url": "https://file.ipaomtk.com/king-or-fail-castle-takeover/King-or-Fai-IPAOMTK.COM.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 134,
+      "method": "HEAD"
+    },
+    {
+      "name": "Soccer Star",
+      "bundleIdentifier": "com.unknown.soccerstar",
+      "url": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Soccer.Star_0.3.2_.KaraStore.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 196,
+      "method": "HEAD"
+    },
+    {
+      "name": "Left to Survive",
+      "bundleIdentifier": "com.glu.zbs",
+      "url": "https://file.ipaomtk.com/left-to-survive-ipa/Left-to-Survive-IPAOMTK.COM.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 96,
+      "method": "HEAD"
+    },
+    {
+      "name": "Jerkgram",
+      "bundleIdentifier": "com.jerkgram.ios",
+      "url": "https://fastsign.dev/tg-ipa/ipa-dark/1835-Jerkgram%20%5Bv13.0%20v1.1.0%5D%28tg@ipa_dark%29.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 297,
+      "method": "HEAD"
+    },
+    {
+      "name": "SnoreGym",
+      "bundleIdentifier": "com.snoregym.app",
+      "url": "https://fastsign.dev/tg-ipa/riftysipalibrary/8925-SnoreGym%20:%20Reduce%20Your%20Snoring-v1.4-riftysipas.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 197,
+      "method": "HEAD"
+    },
+    {
+      "name": "Repo4Tweak",
+      "bundleIdentifier": "tools4cydia.repo4tweak4",
+      "url": "https://st76471.ispot.cc/ipa/Repo4Tweak_v4.0.3_%5BDELvEK%5D.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 111,
+      "method": "HEAD"
+    },
+    {
+      "name": "UTM SE",
+      "bundleIdentifier": "com.utmapp.UTM-SE",
+      "url": "https://github.com/utmapp/UTM/releases/download/v5.0.8/UTM-SE.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 212,
+      "method": "HEAD"
+    },
+    {
+      "name": "Tom Friends",
+      "bundleIdentifier": "com.outfit7.mytalkingtomfriends",
+      "url": "https://file.ipaomtk.com/My%20Talking%20Tom%20Friends/My-Talking-Tom-IPAOMTK.COM.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 147,
+      "method": "HEAD"
+    },
+    {
+      "name": "MOEVERSE LIVE",
+      "bundleIdentifier": "com.ipaomtk.moeverse.live.154234",
+      "url": "https://file.ipaomtk.com/moeverse-live/MoeVerse-Live-IPAOMTK.COM.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 141,
+      "method": "HEAD"
+    },
+    {
+      "name": "Caliber",
+      "bundleIdentifier": "com.caliberfitness.app",
+      "url": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/Caliber_5.18.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 244,
+      "method": "HEAD"
+    },
+    {
+      "name": "YouTube.MUCIC",
+      "bundleIdentifier": "com.unknown.youtubemucic",
+      "url": "https://github.com/karbin98/karbin-ipa/releases/download/karbin-ipa/Y-MUSIC.7.24.2.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 205,
+      "method": "HEAD"
+    },
+    {
+      "name": "Two Dots",
+      "bundleIdentifier": "com.unknown.twodots",
+      "url": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/Two.Dots.v8.80.1_BabyloniPA.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 211,
+      "method": "HEAD"
+    },
+    {
+      "name": "Doki Doki Literature Club!",
+      "bundleIdentifier": "com.ipaomtk.doki.doki.literature.club.155964",
+      "url": "https://file.ipaomtk.com/doki-doki-literature-club/Doki-Doki-Literature-Club-IPAOMTK.COM.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 118,
+      "method": "HEAD"
+    },
+    {
+      "name": "PhotoCollagePublic",
+      "bundleIdentifier": "com.reezo.RezooPipCam",
+      "url": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/PhotoCollagePublic_2.2_IAP_@thisismanpreets_apptesters.org.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 234,
+      "method": "HEAD"
+    },
+    {
+      "name": "Geranium",
+      "bundleIdentifier": "live.cclerc.geranium",
+      "url": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Geranium-1.1.3.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 201,
+      "method": "HEAD"
+    },
+    {
+      "name": "Survival Point: zombie island",
+      "bundleIdentifier": "com.ardentgames.survivalpoint",
+      "url": "https://file.ipaomtk.com/survival-point-zombie-island/survival-point-zombie-island-IPAOMTK.COM.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 75,
+      "method": "HEAD"
+    },
+    {
+      "name": "Bounce Breaker",
+      "bundleIdentifier": "com.fanqu.b9",
+      "url": "https://file.ipaomtk.com/bounce-breaker-ruins-survival/Bounce-Breaker-IPAOMTK.COM.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 84,
+      "method": "HEAD"
+    },
+    {
+      "name": "Vitrine (v1.0.0 Beta 16 - Not Patched) IPAVault",
+      "bundleIdentifier": "com.spotify.client.ios.vitrine.1.0.0.beta.16.not.patched.9.1.90",
+      "url": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Vitrine%201.0.0-b16%29%20No%20Plugins.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 186,
+      "method": "HEAD"
+    },
+    {
+      "name": "MaxTube (2.1.1) - Downgraded to 20.21.6",
+      "bundleIdentifier": "com.google.ios.youtube.maxtube.6.0.20.21.6",
+      "url": "https://repo.ballermc.com/tubevault/MaxTube_20.21.6_6.0.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 122,
+      "method": "HEAD"
+    },
+    {
+      "name": "Guns Up!",
+      "bundleIdentifier": "com.nhn.gunsup",
+      "url": "https://file.ipaomtk.com/guns-up/GUNS-UP-IPAOMTK.COM.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 63,
+      "method": "HEAD"
+    },
+    {
+      "name": "Hot Tub",
+      "bundleIdentifier": "com.c1d3r.Hot-Tub",
+      "url": "https://cdn.hottubapp.io/releases/Hot%20Tub-2.4.0%2860%29.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 97,
+      "method": "HEAD"
+    },
+    {
+      "name": "Electra",
+      "bundleIdentifier": "org.coolstar.electra",
+      "url": "https://st76471.ispot.cc/ipa/Electra1131_v1.0.3.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 81,
+      "method": "HEAD"
+    },
+    {
+      "name": "Alght Motion",
+      "bundleIdentifier": "com.unknown.alghtmotion",
+      "url": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/Alight.Motion._6.2.10_1737318722.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 208,
+      "method": "HEAD"
+    },
+    {
+      "name": "TrollAppsTV",
+      "bundleIdentifier": "org.resonance.tvstore",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Troll_Apps_TV-ON.ipa",
+      "alive": false,
+      "statusCode": 0,
+      "error": "<urlopen error timed out>",
+      "latencyMs": 8065
+    },
+    {
+      "name": "Audio Noise Reducer & Recorder",
+      "bundleIdentifier": "com.community.audio.noise.reducer...recorder",
+      "url": "https://github.com/karbin09/karbin-ipa-four/releases/download/karbin-ipa-six/NoiseReducer_12.1_3BodSy.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 214,
+      "method": "HEAD"
+    },
+    {
+      "name": "Keka_1.0.1",
+      "bundleIdentifier": "cypwn.Keka_1.0.1.1.0.1",
+      "url": "https://ipa.cypwn.xyz/ipas/Keka_1.0.1.ipa",
+      "alive": true,
+      "statusCode": 200,
+      "latencyMs": 192,
+      "method": "HEAD"
+    },
+    {
+      "name": "Mydietcoach",
+      "bundleIdentifier": "com.inspiredapp.mydietcoach",
+      "url": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/Mydietcoach_10.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "alive": false,
       "statusCode": 404,
       "error": "HTTP 404",
-      "latencyMs": 216
+      "latencyMs": 151
     },
     {
-      "name": "Champion Wars",
-      "bundleIdentifier": "co.imba.cw",
-      "url": "https://file.ipaomtk.com/champion-wars/Champion-Wars-IPAOMTK.COM.ipa",
+      "name": "BAM! - Imposter & Party Games",
+      "bundleIdentifier": "com.optiflow.imposter",
+      "url": "https://st76471.ispot.cc/ipa/BAM-Imposter%26PartyGames_v2.30.2%2BPREMiUM.ipa",
       "alive": true,
       "statusCode": 200,
-      "latencyMs": 169,
+      "latencyMs": 101,
       "method": "HEAD"
     },
     {
-      "name": "Total Files Pro",
-      "bundleIdentifier": "it.appideas.totaldownloader",
-      "url": "https://st76471.ispot.cc/ipa/TotalFilesPro_v3.13.5_%5BDELvEK%5D.ipa",
+      "name": "Five Nights at Freddy's 4",
+      "bundleIdentifier": "com.scottgames.fnaf4",
+      "url": "https://web.archive.org/web/20250310010244/https://cdn1.realmzer.xyz//Five_Nights_at_Freddys_4_v2_0_2-6x.ipa",
+      "alive": false,
+      "statusCode": 0,
+      "error": "<urlopen error timed out>",
+      "latencyMs": 8043
+    },
+    {
+      "name": "Image Translator",
+      "bundleIdentifier": "com.sparklingapps.imagetranslator",
+      "url": "https://st76471.ispot.cc/ipa/ImageTranslator_v1.1%2BPREMiUM.ipa",
       "alive": true,
       "statusCode": 200,
-      "latencyMs": 348,
+      "latencyMs": 89,
       "method": "HEAD"
     },
     {
-      "name": "Scanbot PRO",
-      "bundleIdentifier": "com.unknown.scanbotpro",
-      "url": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/Scanbot.PRO.9.3.0.ipa",
+      "name": "Brainwaves \u2014 Binaural Beats",
+      "bundleIdentifier": "com.ipaomtk.brainwaves.binaural.beats.157105",
+      "url": "https://file.ipaomtk.com/brainwaves-binaural-beats/Brainwaves-IPAOMTK.COM.ipa",
       "alive": true,
       "statusCode": 200,
-      "latencyMs": 368,
+      "latencyMs": 61,
       "method": "HEAD"
     },
     {
-      "name": "Unzip",
-      "bundleIdentifier": "com.cuilingshi.fileextract",
-      "url": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Unzip_6.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "name": "Video to MP3 - Extract Audio",
+      "bundleIdentifier": "com.jarustudios.VideoToMP3",
+      "url": "https://st76471.ispot.cc/ipa/Video2MP3-ExtractAudio_v1.0.310%2BPREMiUM.ipa",
       "alive": true,
       "statusCode": 200,
-      "latencyMs": 359,
+      "latencyMs": 220,
       "method": "HEAD"
     },
     {
-      "name": "Virtual Families 3",
-      "bundleIdentifier": "com.ldw.vf3",
-      "url": "https://file.ipaomtk.com/virtual-families-3/Virtual-Families-3-IPAOMTK.COM.ipa",
+      "name": "AppDB_1.1.5",
+      "bundleIdentifier": "cypwn.AppDB_1.1.5.1.1.5",
+      "url": "https://ipa.cypwn.xyz/ipas/AppDB_1.1.5.ipa",
       "alive": true,
       "statusCode": 200,
-      "latencyMs": 516,
+      "latencyMs": 240,
       "method": "HEAD"
     },
     {
-      "name": "FishingLife",
-      "bundleIdentifier": "com.nexelon.fishinglife",
-      "url": "https://file.ipaomtk.com/fishing-and-life-ipa/Fishing-and-life-IPAOMTK.COM.ipa",
+      "name": "YaoYao",
+      "bundleIdentifier": "hltek.YaoYao",
+      "url": "https://fastsign.dev/tg-ipa/sa1y0miii/15007-%E2%80%8E%20YaoYao_v26.10.20_tg@Sa1y0miii.ipa",
       "alive": true,
       "statusCode": 200,
-      "latencyMs": 306,
-      "method": "HEAD"
-    },
-    {
-      "name": "WolframAlpha",
-      "bundleIdentifier": "com.wolframalpha.wolframalphaviewer",
-      "url": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/WolframAlpha_2.6.2_Pro_@thisismanpreets_apptesters.org.ipa",
-      "alive": true,
-      "statusCode": 200,
-      "latencyMs": 304,
+      "latencyMs": 195,
       "method": "HEAD"
     }
   ]
