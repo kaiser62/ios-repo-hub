@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-13T05:59:46Z",
+  "updated": "2026-11-13T14:28:37Z",
   "apps": [
     {
       "name": "[untitled]",
@@ -102476,9 +102476,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1794549586",
+      "identifier": "update-1794580117",
       "caption": "Updated with 5624 unique sideloadable apps",
-      "date": "2026-11-13T05:59:46Z",
+      "date": "2026-11-13T14:28:37Z",
       "tintColor": "#007AFF"
     }
   ]
