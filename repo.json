@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-14T13:17:04Z",
+  "updated": "2026-11-14T19:50:34Z",
   "apps": [
     {
       "name": "PokeMMO",
@@ -102526,9 +102526,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1794662224",
+      "identifier": "update-1794685834",
       "caption": "Updated with 5627 unique sideloadable apps",
-      "date": "2026-11-14T13:17:04Z",
+      "date": "2026-11-14T19:50:34Z",
       "tintColor": "#007AFF"
     }
   ]
