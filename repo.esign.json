@@ -1,7 +1,7 @@
 {
   "name": "iOS Community Mega Repo (ESign)",
   "identifier": "com.kaiser62.ios-community-repo.esign",
-  "updated": "2026-11-14T05:49:03Z",
+  "updated": "2026-11-14T13:17:04Z",
   "apps": [
     {
       "name": "PokeMMO",
@@ -569,6 +569,23 @@
       "size": 47685401,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "PiliPlus",
+      "bundleIdentifier": "com.example.piliplus",
+      "developerName": "Community Developer",
+      "version": "2.2.1",
+      "versionDate": "2026-11-14",
+      "versionDescription": "Release 2.2.1",
+      "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/PiliPlus_2.2.1/PiliPlus_2.2.1_Nothing_%40repo.owo.network.ipa",
+      "down": "https://github.com/OwO-Network/Repo/releases/download/PiliPlus_2.2.1/PiliPlus_2.2.1_Nothing_%40repo.owo.network.ipa",
+      "localizedDescription": "Injected with Nothing",
+      "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.example.piliplus.png",
+      "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.example.piliplus.png",
+      "tintColor": "#007AFF",
+      "size": 25053075,
+      "screenshotURLs": [],
+      "source": "https://repo.owo.network/"
     },
     {
       "name": "PixelMe",
@@ -11349,23 +11366,6 @@
       "size": 65020834,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "PiliPlus",
-      "bundleIdentifier": "com.example.piliplus",
-      "developerName": "Community Developer",
-      "version": "2.2.0.2",
-      "versionDate": "2026-11-03",
-      "versionDescription": "Release 2.2.0.2",
-      "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/PiliPlus_2.2.0.2/PiliPlus_2.2.0.2_Nothing_%40repo.owo.network.ipa",
-      "down": "https://github.com/OwO-Network/Repo/releases/download/PiliPlus_2.2.0.2/PiliPlus_2.2.0.2_Nothing_%40repo.owo.network.ipa",
-      "localizedDescription": "Injected with Nothing",
-      "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.example.piliplus.png",
-      "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.example.piliplus.png",
-      "tintColor": "#007AFF",
-      "size": 24933082,
-      "screenshotURLs": [],
-      "source": "https://repo.owo.network/"
     },
     {
       "name": "PlantsVsZombiesFusion",
@@ -34366,15 +34366,19 @@
       "version": "1.1.19",
       "versionDate": "2026-07-07",
       "versionDescription": "Release 1.1.19",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/StretchingExercises_1.1.19_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/StretchingExercises_1.1.19_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.stretching.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.stretching.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/07-07-2026/StretchingExercises_1.1.19_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/07-07-2026/StretchingExercises_1.1.19_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.stretching.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.stretching.png",
       "tintColor": "#007AFF",
       "size": 96138488,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "tiimo",
@@ -34383,15 +34387,19 @@
       "version": "3.60.0",
       "versionDate": "2026-07-07",
       "versionDescription": "Release 3.60.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/tiimo_3.60.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/tiimo_3.60.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Pro",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiimo.app.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiimo.app.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/07-07-2026/tiimo_3.60.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/07-07-2026/tiimo_3.60.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiimo.app.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiimo.app.png",
       "tintColor": "#007AFF",
       "size": 117891193,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "TravelBoast",
@@ -34851,15 +34859,19 @@
       "version": "2.3.0",
       "versionDate": "2026-06-27",
       "versionDescription": "Release 2.3.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-06-2026/Overdrop_2.3.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-06-2026/Overdrop_2.3.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Pro",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.weather.overdrop.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.weather.overdrop.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/27-06-2026/Overdrop_2.3.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/27-06-2026/Overdrop_2.3.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.weather.overdrop.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.weather.overdrop.png",
       "tintColor": "#007AFF",
       "size": 222534887,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Anime Cloud",
@@ -35720,15 +35732,19 @@
       "version": "15.535.13",
       "versionDate": "2026-06-23",
       "versionDescription": "Release 15.535.13",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/NRv1553513_15.535.13_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/NRv1553513_15.535.13_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Premium",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nr.ios.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nr.ios.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-06-2026/NRv1553513_15.535.13_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-06-2026/NRv1553513_15.535.13_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nr.ios.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nr.ios.png",
       "tintColor": "#007AFF",
       "size": 761528213,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "3D Scanner App",
@@ -43559,15 +43575,19 @@
       "version": "7.4.2",
       "versionDate": "2026-06-08",
       "versionDescription": "Release 7.4.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-06-2026/MyScriptNotes_7.4.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-06-2026/MyScriptNotes_7.4.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Pro",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myscript.nebo.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myscript.nebo.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/08-06-2026/MyScriptNotes_7.4.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/08-06-2026/MyScriptNotes_7.4.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myscript.nebo.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myscript.nebo.png",
       "tintColor": "#007AFF",
       "size": 140342780,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Paired",
@@ -43712,15 +43732,19 @@
       "version": "3.0",
       "versionDate": "2026-06-08",
       "versionDescription": "Release 3.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-06-2026/WebVideoCast_3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-06-2026/WebVideoCast_3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Premium",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.instantbits.cast.webvideo.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.instantbits.cast.webvideo.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/08-06-2026/WebVideoCast_3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/08-06-2026/WebVideoCast_3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.instantbits.cast.webvideo.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.instantbits.cast.webvideo.png",
       "tintColor": "#007AFF",
       "size": 71941094,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "YomuPro",
@@ -44951,15 +44975,19 @@
       "version": "2.13.1",
       "versionDate": "2026-06-01",
       "versionDescription": "Release 2.13.1",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-06-2026/MoneyManagerExpenseBudget_2.13.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-06-2026/MoneyManagerExpenseBudget_2.13.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Pro",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.realbyteapps.MoneyManager2.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.realbyteapps.MoneyManager2.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/01-06-2026/MoneyManagerExpenseBudget_2.13.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/01-06-2026/MoneyManagerExpenseBudget_2.13.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.realbyteapps.MoneyManager2.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.realbyteapps.MoneyManager2.png",
       "tintColor": "#007AFF",
       "size": 27426753,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "OldRoll",
@@ -44985,15 +45013,19 @@
       "version": "2.4.1",
       "versionDate": "2026-06-01",
       "versionDescription": "Release 2.4.1",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-06-2026/Timeshifter_2.4.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-06-2026/Timeshifter_2.4.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Pro",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.timeshifter.timeshifter.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.timeshifter.timeshifter.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/01-06-2026/Timeshifter_2.4.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/01-06-2026/Timeshifter_2.4.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.timeshifter.timeshifter.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.timeshifter.timeshifter.png",
       "tintColor": "#007AFF",
       "size": 29287129,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "VPNERO",
@@ -46732,15 +46764,19 @@
       "version": "20260526.0.1",
       "versionDate": "2026-05-30",
       "versionDescription": "Release 20260526.0.1",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2026/Chai_20260526.0.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2026/Chai_20260526.0.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Premium",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beauchamp.Messenger.external.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beauchamp.Messenger.external.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/30-05-2026/Chai_20260526.0.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/30-05-2026/Chai_20260526.0.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beauchamp.Messenger.external.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beauchamp.Messenger.external.png",
       "tintColor": "#007AFF",
       "size": 65471697,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "DashCmd",
@@ -47524,15 +47560,19 @@
       "version": "1.48.2",
       "versionDate": "2026-05-23",
       "versionDescription": "Release 1.48.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2026/Impulse_1.48.2_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2026/Impulse_1.48.2_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gen.tech.impulse.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gen.tech.impulse.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-05-2026/Impulse_1.48.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-05-2026/Impulse_1.48.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gen.tech.impulse.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gen.tech.impulse.png",
       "tintColor": "#007AFF",
       "size": 122568280,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "nOversight - WiFi Analyzer (iOS16+)",
@@ -48144,15 +48184,19 @@
       "version": "5.82",
       "versionDate": "2026-05-22",
       "versionDescription": "Release 5.82",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2026/AudioEditor_5.82_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2026/AudioEditor_5.82_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/22-05-2026/AudioEditor_5.82_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/22-05-2026/AudioEditor_5.82_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png",
       "tintColor": "#007AFF",
       "size": 107093676,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "BodyFast",
@@ -48386,15 +48430,19 @@
       "version": "1.0.66",
       "versionDate": "2026-05-19",
       "versionDescription": "Release 1.0.66",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/Motobit_1.0.66_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/Motobit_1.0.66_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Premium",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmotobit.motobit.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmotobit.motobit.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/19-05-2026/Motobit_1.0.66_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/19-05-2026/Motobit_1.0.66_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmotobit.motobit.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmotobit.motobit.png",
       "tintColor": "#007AFF",
       "size": 39997510,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Soulver",
@@ -48403,15 +48451,19 @@
       "version": "3.16.2",
       "versionDate": "2026-05-19",
       "versionDescription": "Release 3.16.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/Soulver_3.16.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/Soulver_3.16.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Pro",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.soulver.appstore.mac.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.soulver.appstore.mac.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/19-05-2026/Soulver_3.16.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/19-05-2026/Soulver_3.16.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.soulver.appstore.mac.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.soulver.appstore.mac.png",
       "tintColor": "#007AFF",
       "size": 16355144,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Bicycle Ride Tracker Pro",
@@ -48502,15 +48554,19 @@
       "version": "8.6",
       "versionDate": "2026-05-18",
       "versionDescription": "Release 8.6",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Leto_8.6_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Leto_8.6_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Premium",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Leto_8.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Leto_8.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png",
       "tintColor": "#007AFF",
       "size": 219365380,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "MagicEraser",
@@ -48536,15 +48592,19 @@
       "version": "1.40.0",
       "versionDate": "2026-05-18",
       "versionDescription": "Release 1.40.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/MergeCooking_1.40.0_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/MergeCooking_1.40.0_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/18-05-2026/MergeCooking_1.40.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/18-05-2026/MergeCooking_1.40.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
       "tintColor": "#007AFF",
       "size": 310736383,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Portfolio Armor",
@@ -49376,15 +49436,19 @@
       "version": "3.53.0",
       "versionDate": "2026-05-14",
       "versionDescription": "Release 3.53.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2026/Precious_3.53.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2026/Precious_3.53.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Premium",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.laubrothersllc.BabyArt.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.laubrothersllc.BabyArt.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/14-05-2026/Precious_3.53.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/14-05-2026/Precious_3.53.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.laubrothersllc.BabyArt.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.laubrothersllc.BabyArt.png",
       "tintColor": "#007AFF",
       "size": 195548355,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Site Checker - Down Checker",
@@ -49415,15 +49479,19 @@
       "version": "2.7.6",
       "versionDate": "2026-05-14",
       "versionDescription": "Release 2.7.6",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2026/SleepMonitor_2.7.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2026/SleepMonitor_2.7.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Pro",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sleepmonitor.aio.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sleepmonitor.aio.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/14-05-2026/SleepMonitor_2.7.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/14-05-2026/SleepMonitor_2.7.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sleepmonitor.aio.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sleepmonitor.aio.png",
       "tintColor": "#007AFF",
       "size": 344208592,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "WiFi Tools & Analyzer",
@@ -50891,15 +50959,19 @@
       "version": "4.50.29",
       "versionDate": "2026-05-09",
       "versionDescription": "Release 4.50.29",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2026/ColoringBookforMe_4.50.29_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2026/ColoringBookforMe_4.50.29_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/09-05-2026/ColoringBookforMe_4.50.29_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/09-05-2026/ColoringBookforMe_4.50.29_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png",
       "tintColor": "#007AFF",
       "size": 122013655,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Redjo - M3U Playlist Player",
@@ -50973,15 +51045,19 @@
       "version": "380.5",
       "versionDate": "2026-05-07",
       "versionDescription": "Release 380.5",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-05-2026/Headway_380.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-05-2026/Headway_380.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Premium",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/07-05-2026/Headway_380.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/07-05-2026/Headway_380.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
       "tintColor": "#007AFF",
       "size": 277367840,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "AdGuard Pro",
@@ -51526,15 +51602,19 @@
       "version": "2609.0.0",
       "versionDate": "2026-05-03",
       "versionDescription": "Release 2609.0.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2026/BrickOut_2609.0.0_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2026/BrickOut_2609.0.0_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IGG",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.puzzle1studio.ap.brickoutshoottheball.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.puzzle1studio.ap.brickoutshoottheball.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/03-05-2026/BrickOut_2609.0.0_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/03-05-2026/BrickOut_2609.0.0_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: IGG - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.puzzle1studio.ap.brickoutshoottheball.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.puzzle1studio.ap.brickoutshoottheball.png",
       "tintColor": "#007AFF",
       "size": 100438537,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "CHAOS WORLD",
@@ -51666,15 +51746,19 @@
       "version": "5.19.6",
       "versionDate": "2026-05-03",
       "versionDescription": "Release 5.19.6",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2026/KeyLifts_5.19.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2026/KeyLifts_5.19.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Pro",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.borrowedcache.ultimate531.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.borrowedcache.ultimate531.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/03-05-2026/KeyLifts_5.19.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/03-05-2026/KeyLifts_5.19.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.borrowedcache.ultimate531.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.borrowedcache.ultimate531.png",
       "tintColor": "#007AFF",
       "size": 30262710,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "KillMyOTA",
@@ -51813,26 +51897,25 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Video Compressor - Save Space",
+      "name": "VideoCompress",
       "bundleIdentifier": "com.photoclean.videocompress",
-      "developerName": "VideoCompressor",
+      "developerName": "Community Developer",
       "version": "3.5",
       "versionDate": "2026-05-03",
-      "versionDescription": "•Premium Unlocked •Video compressor can compress video to save disk space •Shrink your videos to free up space",
-      "downloadURL": "https://st76471.ispot.cc/ipa/VideoCompressor_v3.5%2BPREMiUM.ipa",
-      "down": "https://st76471.ispot.cc/ipa/VideoCompressor_v3.5%2BPREMiUM.ipa",
-      "localizedDescription": "•Premium Unlocked •Video compressor can compress video to save disk space •Shrink your videos to free up space",
-      "iconURL": "https://delvek.net/img/videocompressor.png",
-      "icon": "https://delvek.net/img/videocompressor.png",
-      "tintColor": "0,255,0",
-      "size": 16011000,
+      "versionDescription": "Release 3.5",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/03-05-2026/VideoCompress_3.5_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/03-05-2026/VideoCompress_3.5_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoclean.videocompress.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoclean.videocompress.png",
+      "tintColor": "#007AFF",
+      "size": 16008511,
       "screenshotURLs": [
-        "https://delvek.net/img/!/videocompressor1.png",
-        "https://delvek.net/img/!/videocompressor2.png",
-        "https://delvek.net/img/!/videocompressor3.png",
-        "https://delvek.net/img/!/videocompressor4.png"
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ],
-      "source": "https://delvek.net/repo.json"
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Yacyn TV",
@@ -52499,15 +52582,19 @@
       "version": "5.7",
       "versionDate": "2026-04-28",
       "versionDescription": "Release 5.7",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2026/DoCast_5.7_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2026/DoCast_5.7_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Premium",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.electronic.docast.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.electronic.docast.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/28-04-2026/DoCast_5.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/28-04-2026/DoCast_5.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.electronic.docast.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.electronic.docast.png",
       "tintColor": "#007AFF",
       "size": 21414511,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Horizon",
@@ -62641,6 +62728,27 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "RDR",
+      "bundleIdentifier": "com.rockstargames.rdr",
+      "developerName": "Community Developer",
+      "version": "1.50.60293175",
+      "versionDate": "2026-02-21",
+      "versionDescription": "Release 1.50.60293175",
+      "downloadURL": "https://cloud.dabeecao.org/f/4Qfb/RDR_1.50_TTJB.ipa",
+      "down": "https://cloud.dabeecao.org/f/4Qfb/RDR_1.50_TTJB.ipa",
+      "localizedDescription": "Chức năng đã thêm: chơi miễn phí - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/ec/76/a6ec767f-7aff-2fdd-ffb3-62dbfae8c197/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/ec/76/a6ec767f-7aff-2fdd-ffb3-62dbfae8c197/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.png",
+      "tintColor": "#007AFF",
+      "size": 2890108450,
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
+    },
+    {
       "name": "Streameast",
       "bundleIdentifier": "com.dreamora",
       "developerName": "ipaomtk.com",
@@ -69079,23 +69187,6 @@
       "icon": "https://ipaomtk.com/wp-content/uploads/2025/12/Dragon-Village-Rumble-150x150.webp",
       "tintColor": "000000",
       "size": 137680693,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "RDR - IPAOMTK.COM",
-      "bundleIdentifier": "com.rockstargames.rdr",
-      "developerName": "ipaomtk.com",
-      "version": "1.50.60293175",
-      "versionDate": "2025-12-09",
-      "versionDescription": "Release 1.50.60293175",
-      "downloadURL": "https://file.ipaomtk.com/Red-Dead-Redemption/RDR-IPAOMTK.COM.ipa",
-      "down": "https://file.ipaomtk.com/Red-Dead-Redemption/RDR-IPAOMTK.COM.ipa",
-      "localizedDescription": "ipaomtk.com | Introduction Red Dead Redemption has become one of the most iconic open-world experiences ever created, known for its emotional storytelling, realistic environments, and cinematic action. With countless players around the world searching for ways to explore Red Dead Redemption on mobile platforms, interest in the game continues to grow every year. The world of Red […]\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Red-Dead-Redemption-150x150.webp",
-      "icon": "https://ipaomtk.com/wp-content/uploads/2025/12/Red-Dead-Redemption-150x150.webp",
-      "tintColor": "000000",
-      "size": 2147483647,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -89671,6 +89762,27 @@
       "source": "https://web.archive.org/web/20250310010244if_/https://repo.realmzer.xyz/"
     },
     {
+      "name": "Swiftgram+",
+      "bundleIdentifier": "app.swiftgram.ios.mod",
+      "developerName": "Community Developer",
+      "version": "11.3.2",
+      "versionDate": "2024-12-23",
+      "versionDescription": "Release 11.3.2",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Swiftgram+_11.3.2_TTJB.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Swiftgram+_11.3.2_TTJB.ipa",
+      "localizedDescription": "Chức năng đã thêm: Bypass quay video, chụp ảnh nhóm hạn chế, ALLFlexing - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/8f/61/1e8f61c2-befa-4eec-3b60-771cb0d44ccf/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/8f/61/1e8f61c2-befa-4eec-3b60-771cb0d44ccf/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.png",
+      "tintColor": "#007AFF",
+      "size": 92274688,
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
+    },
+    {
       "name": "SwiftTop",
       "bundleIdentifier": "ca.bomberfish.SwiftTop",
       "developerName": "BomberFish",
@@ -90332,6 +90444,27 @@
       "size": 7522792,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "CamScanner+",
+      "bundleIdentifier": "com.intsig.CamScanner",
+      "developerName": "Community Developer",
+      "version": "5.26.10",
+      "versionDate": "2024-12-10",
+      "versionDescription": "Release 5.26.10",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/CamScanner+_5.26.10_TTJB.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/CamScanner+_5.26.10_TTJB.ipa",
+      "localizedDescription": "- IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/d4/7c/43d47c11-f31d-b4c7-389d-8c86c2e3cfab/AppIconPlus-0-1x_U007emarketing-0-6-0-0-sRGB-85-220-0.png/512x512bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/d4/7c/43d47c11-f31d-b4c7-389d-8c86c2e3cfab/AppIconPlus-0-1x_U007emarketing-0-6-0-0-sRGB-85-220-0.png/512x512bb.png",
+      "tintColor": "#007AFF",
+      "size": 94370204,
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "Fortnite",

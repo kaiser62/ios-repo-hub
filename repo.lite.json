@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-14T05:49:03Z",
+  "updated": "2026-11-14T13:17:04Z",
   "apps": [
     {
       "name": "PokeMMO",
@@ -22646,15 +22646,19 @@
       "version": "1.1.19",
       "versionDate": "2026-07-07",
       "versionDescription": "Release 1.1.19",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/StretchingExercises_1.1.19_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/StretchingExercises_1.1.19_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with IAP",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.stretching.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.stretching.png",
+      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/07-07-2026/StretchingExercises_1.1.19_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/07-07-2026/StretchingExercises_1.1.19_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+      "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.stretching.png",
+      "icon": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.stretching.png",
       "tintColor": "#007AFF",
       "size": 96138488,
-      "screenshotURLs": [],
-      "source": "https://repository.apptesters.org"
+      "screenshotURLs": [
+        "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+        "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ],
+      "source": "https://ipa.thuthuatjb.com/repo"
     },
     {
       "name": "TravelBoast",
@@ -44207,23 +44211,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "RDR - IPAOMTK.COM",
-      "bundleIdentifier": "com.rockstargames.rdr",
-      "developerName": "ipaomtk.com",
-      "version": "1.50.60293175",
-      "versionDate": "2025-12-09",
-      "versionDescription": "Release 1.50.60293175",
-      "downloadURL": "https://file.ipaomtk.com/Red-Dead-Redemption/RDR-IPAOMTK.COM.ipa",
-      "down": "https://file.ipaomtk.com/Red-Dead-Redemption/RDR-IPAOMTK.COM.ipa",
-      "localizedDescription": "ipaomtk.com | Introduction Red Dead Redemption has become one of the most iconic open-world experiences ever created, known for its emotional storytelling, realistic environments, and cinematic action. With countless players around the world searching for ways to explore Red Dead Redemption on mobile platforms, interest in the game continues to grow every year. The world of Red […]\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Red-Dead-Redemption-150x150.webp",
-      "icon": "https://ipaomtk.com/wp-content/uploads/2025/12/Red-Dead-Redemption-150x150.webp",
-      "tintColor": "000000",
-      "size": 2147483647,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Renovation Day",
       "bundleIdentifier": "com.playfocus.renovation",
       "developerName": "ipaomtk.com",
@@ -63312,9 +63299,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1794635343",
-      "caption": "Updated with 5625 unique sideloadable apps",
-      "date": "2026-11-14T05:49:03Z",
+      "identifier": "update-1794662224",
+      "caption": "Updated with 5627 unique sideloadable apps",
+      "date": "2026-11-14T13:17:04Z",
       "tintColor": "#007AFF"
     }
   ]
