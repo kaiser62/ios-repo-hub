@@ -1,7 +1,7 @@
 {
   "name": "iOS Community Mega Repo (ESign)",
   "identifier": "com.kaiser62.ios-community-repo.esign",
-  "updated": "2026-11-15T10:36:33Z",
+  "updated": "2026-11-15T18:41:18Z",
   "apps": [
     {
       "name": "Action",
@@ -871,6 +871,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Moovit",
+      "bundleIdentifier": "com.tranzmate.tranzmate1",
+      "developerName": "Community Developer",
+      "version": "5.205.0",
+      "versionDate": "2026-11-15",
+      "versionDescription": "Release 5.205.0",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/Moovit_5.205.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/Moovit_5.205.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
+      "tintColor": "#007AFF",
+      "size": 150895293,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
       "name": "MySwimPro",
       "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
       "developerName": "@riftysIPAlibrary",
@@ -1124,6 +1141,23 @@
       "size": 131726474,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "SimplyPiano",
+      "bundleIdentifier": "com.joytunes.asla",
+      "developerName": "Community Developer",
+      "version": "9.11.4",
+      "versionDate": "2026-11-15",
+      "versionDescription": "Release 9.11.4",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/SimplyPiano_9.11.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/SimplyPiano_9.11.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+      "tintColor": "#007AFF",
+      "size": 155550029,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "Snipd",
@@ -8436,23 +8470,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Moovit",
-      "bundleIdentifier": "com.tranzmate.tranzmate1",
-      "developerName": "AppTesters IPA Repo",
-      "version": "5.204.0",
-      "versionDate": "2026-11-09",
-      "versionDescription": "Release 5.204.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Moovit_5.204.0_Premium_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Moovit_5.204.0_Premium_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Moovit: Bus & Transit Tracker\n\n• Bundle ID: com.tranzmate.tranzmate1\n• Updated to: 5.204.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Moovit+ Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
-      "tintColor": "000000",
-      "size": 150848297,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "OpenCam",
       "bundleIdentifier": "riccqi.Camel",
       "developerName": "@Sa1y0miii",
@@ -8500,23 +8517,6 @@
       "icon": "https://fastsign.dev/tg-icon/sa1y0miii/15802.png",
       "tintColor": "000000",
       "size": 107483322,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "SimplyPiano",
-      "bundleIdentifier": "com.joytunes.asla",
-      "developerName": "AppTesters IPA Repo",
-      "version": "9.11.3",
-      "versionDate": "2026-11-09",
-      "versionDescription": "Release 9.11.3",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/SimplyPiano_9.11.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/SimplyPiano_9.11.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Simply Piano: Learn Piano Fast\n\n• Bundle ID: com.joytunes.asla\n• Updated to: 9.11.3\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLogin with your account and restart the app once to activate the subscription.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
-      "tintColor": "000000",
-      "size": 155548362,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },

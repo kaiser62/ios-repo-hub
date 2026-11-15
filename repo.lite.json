@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-15T10:36:33Z",
+  "updated": "2026-11-15T18:41:18Z",
   "apps": [
     {
       "name": "Action",
@@ -8356,23 +8356,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Moovit",
-      "bundleIdentifier": "com.tranzmate.tranzmate1",
-      "developerName": "AppTesters IPA Repo",
-      "version": "5.204.0",
-      "versionDate": "2026-11-09",
-      "versionDescription": "Release 5.204.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Moovit_5.204.0_Premium_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Moovit_5.204.0_Premium_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Moovit: Bus & Transit Tracker\n\n• Bundle ID: com.tranzmate.tranzmate1\n• Updated to: 5.204.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Moovit+ Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
-      "tintColor": "000000",
-      "size": 150848297,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "OpenCam",
       "bundleIdentifier": "riccqi.Camel",
       "developerName": "@Sa1y0miii",
@@ -8420,23 +8403,6 @@
       "icon": "https://fastsign.dev/tg-icon/sa1y0miii/15802.png",
       "tintColor": "000000",
       "size": 107483322,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "SimplyPiano",
-      "bundleIdentifier": "com.joytunes.asla",
-      "developerName": "AppTesters IPA Repo",
-      "version": "9.11.3",
-      "versionDate": "2026-11-09",
-      "versionDescription": "Release 9.11.3",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/SimplyPiano_9.11.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/SimplyPiano_9.11.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Simply Piano: Learn Piano Fast\n\n• Bundle ID: com.joytunes.asla\n• Updated to: 9.11.3\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nLogin with your account and restart the app once to activate the subscription.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
-      "tintColor": "000000",
-      "size": 155548362,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -63795,9 +63761,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1794738993",
+      "identifier": "update-1794768078",
       "caption": "Updated with 5645 unique sideloadable apps",
-      "date": "2026-11-15T10:36:33Z",
+      "date": "2026-11-15T18:41:18Z",
       "tintColor": "#007AFF"
     }
   ]
