@@ -6,29 +6,29 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-18T11:24:47Z",
+  "updated": "2026-11-18T20:16:37Z",
   "apps": [
     {
       "name": "Minecraft (Free Paid)",
       "bundleIdentifier": "com.mojang.minecraftpe",
       "developerName": "NabzClan",
-      "version": "1.26.62",
-      "versionDate": "2026-11-18T00:33:57-05:00",
-      "versionDescription": "Minecraft (Free Paid) v1.26.62 (664.57 MB) — Sidelix App Store release.",
+      "version": "26.62",
+      "versionDate": "2026-11-18T10:08:02-05:00",
+      "versionDescription": "Minecraft (Free Paid) v26.62 (664.57 MB) — Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/9/app_9_nabzclan_sidelix.ipa",
       "down": "https://appstore.sidelix.vip/repos/download/9/app_9_nabzclan_sidelix.ipa",
       "localizedDescription": "Dive into an open world of building, crafting and survival. Gather resources, survive the night, and build whatever you can imagine one block at a time. Explore and craft your way through a completely open world where you can play with friends, build a city, start a farm, mine deep into the ground, face mysterious enemies, or just experiment to the limits of your imagination!\n\nThe possibilities are endless. Embark on an epic adventure and play with friends, building from the ground up. Build and expand in Creative mode, where you can craft from unlimited resources. Survive the night, face intense battles, craft tools, and fend off danger in Survival mode. With seamless cross-platform and multiplayer gameplay on Minecraft: Bedrock Edition, you can adventure solo or with friends, and discover an infinite, randomly generated world filled with blocks to mine, biomes to explore, and mobs to befriend (or battle)! \n\r\n \n\r\nIn Minecraft, the world is yours to shape! \n\r\n \n\r\nCREATE YOUR WORLD \n\r\n• Build anything from the ground up \n\r\n• Craft from special resources and tools to create brand new structures and landscapes \n\r\n• Explore an endless open world full of different biomes and creatures \n\r\n• Minecraft Marketplace – Get creator-made add-ons, thrilling worlds, and stylish cosmetics on Minecraft Marketplace \n\r\n• Connect with millions of players on community servers, or subscribe to Realms Plus to cross-play with up to 10 friends on your own private server \n\r\n• Slash commands – Tweak how the game plays: you can change the weather, summon mobs, change the time of day, and more \n\r\n• Add-ons – Customize your experience even further with add-ons! If you're more tech-inclined, you can modify your game to create new resource packs \n\r\n \n\r\nMULTIPLAYER ONLINE GAMES \n\r\n• Join free massive multiplayer servers and play with thousands of others \n\r\n• Multiplayer servers allow you to play with up to 4 players online with a free Xbox Live account \n\r\n• Build, battle and explore other realms. With Realms and Realms Plus, you can play with up to 10 friends cross-platform, anytime, anywhere on Realms, your own private server that we host for you \n\r\n• With Realms Plus, get instant access to over 150 Marketplace items with new additions each month. Share with friends on your own private Realms server* \n\r\n• Connect and play with players across the world, wherever they are, and join in on MMO battles for survival in other worlds \n\r\n• Discover gigantic community-run worlds, compete in unique mini-games and socialize in lobbies full of fellow Minecrafters \n\r\n \n\r\nSUPPORT: https://www.minecraft.net/help \n\r\nLEARN MORE: https://www.minecraft.net/ \n\r\n\n\r\nHere are the links to our Privacy Policy and Terms and Conditions:\n\r\nPrivacy Policy: https://www.minecraft.net/privacy/gdpr\n\r\nTerms and Conditions: https://account.mojang.com/terms\n\r\n \n\r\nMINIMUM RECOMMENDED SPECIFICATION \n\r\n \n\r\nTo check the requirements for your device visit: https://help.minecraft.net/hc/en-us/articles/4409172223501 \n\r\n \n\r\n*Realms & Realms Plus: Try a free 30-day trial in-app. \n\r\n\n\r\nMinecraft may request the following optional permissions, which require your consent. You can continue to use Minecraft without granting these permissions; however, some features may be limited or unavailable.\n\r\nFor more information, please see below:\n\r\n• Local Network: To find other devices on the same Wi‑Fi network for multiplayer gameplay.\n\r\n• App Tracking: To deliver personalized ads and improve application experience",
-      "iconURL": "https://apps.nabzclan.vip/images/1794980038_4413.webp",
-      "icon": "https://apps.nabzclan.vip/images/1794980038_4413.webp",
+      "iconURL": "https://apps.nabzclan.vip/images/1795014482_5927.webp",
+      "icon": "https://apps.nabzclan.vip/images/1795014482_5927.webp",
       "tintColor": "#2ecc71",
       "size": 696849840,
       "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17949800387430273.webp",
-        "https://apps.nabzclan.vip/screenshots/17949800386875673.webp",
-        "https://apps.nabzclan.vip/screenshots/17949800388296717.webp",
-        "https://apps.nabzclan.vip/screenshots/17949800381569624.webp",
-        "https://apps.nabzclan.vip/screenshots/17949800387804739.webp",
-        "https://apps.nabzclan.vip/screenshots/17949800382932087.webp"
+        "https://apps.nabzclan.vip/screenshots/17950144824226148.webp",
+        "https://apps.nabzclan.vip/screenshots/17950144828447054.webp",
+        "https://apps.nabzclan.vip/screenshots/17950144825493779.webp",
+        "https://apps.nabzclan.vip/screenshots/17950144826973020.webp",
+        "https://apps.nabzclan.vip/screenshots/17950144829469351.webp",
+        "https://apps.nabzclan.vip/screenshots/17950144823240575.webp"
       ],
       "source": "https://apps.nabzclan.vip/repos/altstore.php"
     },
@@ -427,23 +427,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.finderbot.png",
       "tintColor": "000000",
       "size": 66534704,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Fitia",
-      "bundleIdentifier": "com.ulisesolave.Fitia",
-      "developerName": "AppTesters IPA Repo",
-      "version": "25.3",
-      "versionDate": "2026-11-18",
-      "versionDescription": "Release 25.3",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Fitia_25.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Fitia_25.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Fitia: Calorie Counter & Diet\n\n• Bundle ID: com.ulisesolave.Fitia\n• Updated to: 25.3\n• Minimum iOS: 16\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>The app may take up to a minute to sign in, so be patient.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
-      "tintColor": "000000",
-      "size": 122650680,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -1179,23 +1162,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Duolingo",
-      "bundleIdentifier": "com.duolingo.DuolingoMobile",
-      "developerName": "AppTesters IPA Repo",
-      "version": "7.149.0",
-      "versionDate": "2026-11-17",
-      "versionDescription": "Release 7.149.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Duolingo_7.149.0_Premium_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Duolingo_7.149.0_Premium_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Duolingo: Learn Languages\n\n• Bundle ID: com.duolingo.DuolingoMobile\n• Updated to: 7.149.0\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Duolingo MAX Unlocked\n• Tweaked by @blatants\n\n• Note:\nSign-in with google/apple.\nIgnore any purchase banners all features should work.\nCredit to j4gm4g for providing the original script.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
-      "tintColor": "000000",
-      "size": 211863421,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "EPIK",
       "bundleIdentifier": "com.snowcorp.epik",
       "developerName": "AppTesters IPA Repo",
@@ -1757,12 +1723,12 @@
       "source": "https://apps.nabzclan.vip/repos/altstore.php"
     },
     {
-      "name": "Alpin Quest PRO 0 (Free paid)",
+      "name": "Alpin Quest PRO (Free paid)",
       "bundleIdentifier": "com.alpinquest.app",
       "developerName": "NabzClan",
       "version": "10.0.200+2500",
       "versionDate": "2026-11-16T04:50:44-05:00",
-      "versionDescription": "Alpin Quest PRO 0 (Free paid) v10.0.200+2500 (23.62 MB) — Sidelix App Store release.",
+      "versionDescription": "Alpin Quest PRO (Free paid) v10.0.200+2500 (23.62 MB) — Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/4/app_4_nabzclan_sidelix.ipa",
       "down": "https://appstore.sidelix.vip/repos/download/4/app_4_nabzclan_sidelix.ipa",
       "localizedDescription": "free paid app ----- Alpin Quest PRO is a professional GPS and field GIS application developed for military personnel, geologists, surveyors, foresters, mountaineers, hunters, and off-road drivers. Import paper maps to your device and track your precise location offline in the field.\n\nMAPS\n\r\n• Satellite, topographic, hybrid, and street maps; contour lines and shaded relief\n\r\n• Named peaks, mountain passes, water sources, and rivers\n\r\n• MGRS and UTM kilometer grids; scale lock capability (e.g., 1:25,000)\n\r\n• Real-time terrain type, slope, and elevation data\n\r\n\n\r\nIMPORT CUSTOM MAPS\n\r\n• GeoPDF (ArcGIS, QGIS, stand maps), GeoTIFF, MBTiles, GeoPackage\n\r\n• KMZ overlay layers and multi-level large KMZ archives\n\r\n• Shapefile (ZIP), KML/KMZ vector files, Memory-Map (.qct), AlpineQuest AQX\n\r\n• Image with world file: PNG, JPG, TIFF with PGW, JGW, TFW\n\r\n• Collar clipping (hide white borders), transparency adjustment, and layer ordering\n\r\n\n\r\nOFFLINE FUNCTIONALITY\n\r\n• Download current screen view, selected map areas, or route corridors\n\r\n• Automatic caching of visited locations\n\r\n• Full functionality without cellular network coverage\n\r\n\n\r\nCOORDINATE SYSTEMS (19)\n\r\n• MGRS, UTM, USNG, WGS84, DMS, DDM, Plus Code, QTH\n\r\n• ED50, CK-42 / SK-42, BNG (OSGB), India Grid, NSF LCC, Lambert Maroc\n\r\n• Gauss-Krüger Argentina, Arc 1960, RSO Malaya, SAD69\n\r\n• Simultaneous coordinate display across all systems with one-tap copy\n\r\n• Magnetic declination (NOAA WMM), true, magnetic, and grid north; degrees or mils\n\r\n\n\r\nWAYPOINTS & TARGETS\n\r\n• Unlimited waypoints, photo attachments, categories, and quick search\n\r\n• Manual coordinate entry and waypoint averaging for maximum accuracy\n\r\n• Live distance, bearing, and estimated time of arrival (ETA)\n\r\n• Customizable label positions: top, bottom, left, right\n\r\n\n\r\nROUTES & TRACK RECORDING\n\r\n• Point-to-point, freehand drawing, or finger-traced route creation\n\r\n• Auto-routing optimized for walking, driving, and hiking\n\r\n• Elevation profiles with real-time ascent and descent metrics\n\r\n• Continuous background track recording with speed and distance statistics\n\r\n• Off-route proximity alerts\n\r\n\n\r\n3D TERRAIN\n\r\n• Review routes and tactical areas overlaid on real 3D terrain elevation\n\r\n\n\r\nAREAS & DRAWING\n\r\n• Polygons, circles, and rectangles; precise area and perimeter calculations\n\r\n• Map-based reshaping, vertex editing, and splitting\n\r\n• Geology rock hatch patterns; freehand sketch and text annotations for briefings\n\r\n\n\r\nPROJECTS (GIS) & TEAM MODE\n\r\n• Consolidate waypoints, routes, areas, and custom maps into unified projects\n\r\n• Export to KML, KMZ, GPX, Shapefile, and UTM Shapefile\n\r\n• Team Mode: Share project data with team members and track team positions live\n\r\n\n\r\nAR & WATCH INTEGRATION\n\r\n• Augmented Reality (AR) camera view identifying surrounding peaks and passes\n\r\n• Apple Watch bearing guidance and compass navigation\n\r\n\n\r\nFIELD TOOLS\n\r\n• Proximity alarm: alerts when approaching target points\n\r\n• Photo coordinate and direction stamping\n\r\n• Weather forecasts: hourly and 7-day outlook, sun/moon phases and rise/set times\n\r\n• Battery-optimized tracking profiles\n\r\n• Volume button zoom control for gloved use\n\r\n• Gridded PDF map export (A4, A3)\n\r\n• Interactive walkthrough tutorial\n\r\n\n\r\nFILE SHARING\n\r\n• Import: GPX, KML, KMZ, GeoJSON, DXF, Shapefile\n\r\n• Export: GPX, KML, KMZ, CSV, Shapefile, GeoPDF, GeoPackage\n\r\n• Direct opening from WhatsApp, Mail, and the Files app\n\r\n\n\r\nPrivacy Policy: https://www.cte.militaryapp.net/2026/09/14/alpin-quest-pro-outdoor-gps/\n\r\nTerms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
@@ -3024,23 +2990,6 @@
       "icon": "https://fastsign.dev/tg-icon/kamohacks/16972.png",
       "tintColor": "000000",
       "size": 151376879,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Moovit",
-      "bundleIdentifier": "com.tranzmate.tranzmate1",
-      "developerName": "AppTesters IPA Repo",
-      "version": "5.205.0",
-      "versionDate": "2026-11-16",
-      "versionDescription": "Release 5.205.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/Moovit_5.205.0_Premium_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/Moovit_5.205.0_Premium_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Moovit: Bus & Transit Tracker\n\n• Bundle ID: com.tranzmate.tranzmate1\n• Updated to: 5.205.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Moovit+ Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
-      "tintColor": "000000",
-      "size": 150895293,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -7181,6 +7130,50 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "MBC Shahid",
+      "bundleIdentifier": "net.mbc.shahid-iphone",
+      "developerName": "MBCShahid",
+      "version": "8.11.0",
+      "versionDate": "2026-11-13",
+      "versionDescription": "•Premium Unlocked •Discover the leading platform for Arabic Originals, exclusive series, blockbuster movies, live TV, sports & more",
+      "downloadURL": "https://st76471.ispot.cc/ipa/MBCShahid_v8.11.0_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/MBCShahid_v8.11.0_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•Premium Unlocked •Discover the leading platform for Arabic Originals, exclusive series, blockbuster movies, live TV, sports & more",
+      "iconURL": "https://delvek.net/img/mbcshahid.png",
+      "icon": "https://delvek.net/img/mbcshahid.png",
+      "tintColor": "0,255,0",
+      "size": 68287000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/mbcshahid1.png",
+        "https://delvek.net/img/!/mbcshahid2.png",
+        "https://delvek.net/img/!/mbcshahid3.png",
+        "https://delvek.net/img/!/mbcshahid4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
+      "name": "Mercury Weather",
+      "bundleIdentifier": "com.tripleglazedstudios.Weather",
+      "developerName": "Mercury",
+      "version": "3.8.2",
+      "versionDate": "2026-11-13",
+      "versionDescription": "•Premium Unlocked •Need to Install with a Certificate to Unlock Premium features •Activities is easier than ever before, simply choose the weather parameters you want to track, which layout you prefer & view your customized weather forecast",
+      "downloadURL": "https://st76471.ispot.cc/ipa/MercuryWeather_v3.8.2%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/MercuryWeather_v3.8.2%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Need to Install with a Certificate to Unlock Premium features •Activities is easier than ever before, simply choose the weather parameters you want to track, which layout you prefer & view your customized weather forecast",
+      "iconURL": "https://delvek.net/img/mercuryweather.png",
+      "icon": "https://delvek.net/img/mercuryweather.png",
+      "tintColor": "0,255,0",
+      "size": 79947000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/mercuryweather1.png",
+        "https://delvek.net/img/!/mercuryweather2.png",
+        "https://delvek.net/img/!/mercuryweather3.png",
+        "https://delvek.net/img/!/mercuryweather4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "Most",
       "bundleIdentifier": "com.most.stories",
       "developerName": "AppTesters IPA Repo",
@@ -7861,23 +7854,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "FreeYourMusic",
-      "bundleIdentifier": "io.stampapp.Stamp",
-      "developerName": "AppTesters IPA Repo",
-      "version": "11.2.0",
-      "versionDate": "2026-11-12",
-      "versionDescription": "Release 11.2.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/FreeYourMusic_11.2.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/FreeYourMusic_11.2.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.stampapp.Stamp.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.stampapp.Stamp.png",
-      "tintColor": "000000",
-      "size": 25895321,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Hot Tub",
       "bundleIdentifier": "com.c1d3r.Hot-Tub",
       "developerName": "C1d3r",
@@ -8112,23 +8088,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8934.png",
       "tintColor": "000000",
       "size": 114123998,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Tripsy",
-      "bundleIdentifier": "app.tripsy.ios",
-      "developerName": "AppTesters IPA Repo",
-      "version": "3.10.8",
-      "versionDate": "2026-11-12",
-      "versionDescription": "Release 3.10.8",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/Tripsy_3.10.8_Premium_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/Tripsy_3.10.8_Premium_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Tripsy: Travel Planner\n\n• Bundle ID: app.tripsy.ios\n• Updated to: 3.10.8\n• Minimum iOS: 18\n• Patched\n• Modifier: Lifetime Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
-      "tintColor": "000000",
-      "size": 93946359,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -8537,23 +8496,6 @@
       "icon": "https://fastsign.dev/tg-icon/sa1y0miii/15889.png",
       "tintColor": "000000",
       "size": 42720989,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Rest",
-      "bundleIdentifier": "com.evolve.helm",
-      "developerName": "@riftysIPAlibrary",
-      "version": "3.210.0",
-      "versionDate": "2026-11-11",
-      "versionDescription": "Release 3.210.0",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8914-Rest:%20Fix%20Your%20Sleep%20For%20Good-v3.210.0-riftysipas.ipa",
-      "down": "https://fastsign.dev/tg-ipa/riftysipalibrary/8914-Rest:%20Fix%20Your%20Sleep%20For%20Good-v3.210.0-riftysipas.ipa",
-      "localizedDescription": "@riftysIPAlibrary | Rest: Fix Your Sleep For Good\n\nTweak: Subscription Unlocked\n\nVersion: 3.210.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.evolve.helm\nDeveloper: Evolve Global, Inc.\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8914.png",
-      "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8914.png",
-      "tintColor": "000000",
-      "size": 131527360,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -16270,23 +16212,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "FitNotes",
-      "bundleIdentifier": "xyz.gingertech.fitnotes",
-      "developerName": "AppTesters IPA Repo",
-      "version": "18",
-      "versionDate": "2026-09-09",
-      "versionDescription": "Release 18",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/FitNotes_18_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/FitNotes_18_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png",
-      "tintColor": "000000",
-      "size": 12169220,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Easy Quran - Islam & Qibla",
       "bundleIdentifier": "com.easyquran.app",
       "developerName": "EasyQuran",
@@ -21460,23 +21385,6 @@
       "icon": "https://ipa.cypwn.xyz/serve/icons/Jump_9.8.0.png",
       "tintColor": "000000",
       "size": 28407402,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "JavDB",
-      "bundleIdentifier": "com.javdb.com",
-      "developerName": "OwO Source",
-      "version": "1.9.29",
-      "versionDate": "2026-06-27",
-      "versionDescription": "Release 1.9.29",
-      "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/JavDB_1.9.29/JavDB_1.9.29_Nothing_@repo.owo.network.ipa",
-      "down": "https://github.com/OwO-Network/Repo/releases/download/JavDB_1.9.29/JavDB_1.9.29_Nothing_@repo.owo.network.ipa",
-      "localizedDescription": "Injected with Nothing\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.javdb.com.png",
-      "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.javdb.com.png",
-      "tintColor": "000000",
-      "size": 24785348,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -61809,9 +61717,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1795001087",
+      "identifier": "update-1795032997",
       "caption": "Updated with 5499 unique sideloadable apps",
-      "date": "2026-11-18T11:24:47Z",
+      "date": "2026-11-18T20:16:37Z",
       "tintColor": "#007AFF"
     }
   ]
