@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-19T11:22:41Z",
+  "updated": "2026-11-19T20:20:36Z",
   "apps": [
     {
       "name": "PokeMMO",
@@ -2178,23 +2178,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "NutriCoach",
-      "bundleIdentifier": "nutrition.coach",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2.7.1",
-      "versionDate": "2026-11-18",
-      "versionDescription": "Release 2.7.1",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/NutriCoach_2.7.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/NutriCoach_2.7.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Nutrition Coach: AI Food Diary\n\n• Bundle ID: nutrition.coach\n• Updated to: 2.7.1\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
-      "tintColor": "000000",
-      "size": 78019764,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Open Screen Sharing",
       "bundleIdentifier": "io.nekohasekai.screensharing",
       "developerName": "nekohasekai",
@@ -2331,23 +2314,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "SCRL",
-      "bundleIdentifier": "com.dopedevelopment.Panels",
-      "developerName": "AppTesters IPA Repo",
-      "version": "9.65.1",
-      "versionDate": "2026-11-18",
-      "versionDescription": "Release 9.65.1",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/SCRL_9.65.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/SCRL_9.65.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | SCRL: Photo Collage Maker\n\n• Bundle ID: com.dopedevelopment.Panels\n• Updated to: 9.65.1\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
-      "tintColor": "000000",
-      "size": 99758093,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "SnapEdit",
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "AppTesters IPA Repo",
@@ -2429,23 +2395,6 @@
       "icon": "https://fastsign.dev/icon.png",
       "tintColor": "000000",
       "size": 54214056,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "StressWatch",
-      "bundleIdentifier": "com.ideation.Stress",
-      "developerName": "AppTesters IPA Repo",
-      "version": "3.4.7",
-      "versionDate": "2026-11-18",
-      "versionDescription": "Release 3.4.7",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/StressWatch_3.4.7_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/StressWatch_3.4.7_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ideation.Stress.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ideation.Stress.png",
-      "tintColor": "000000",
-      "size": 359586915,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -3977,28 +3926,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Halide Mark 3 - Pro Camera",
-      "bundleIdentifier": "com.chromanoir.Zeit",
-      "developerName": "HalideMark3",
-      "version": "3.3.3",
-      "versionDate": "2026-11-16",
-      "versionDescription": "•Premium Unlocked •Halide unleashes your iPhone’s camera, disable iPhone processing for natural photos, apply powerful film situations, access manual controls & more",
-      "downloadURL": "https://st76471.ispot.cc/ipa/HalideMark3ProCamera_v3.3.3%2BPREMiUM.ipa",
-      "down": "https://st76471.ispot.cc/ipa/HalideMark3ProCamera_v3.3.3%2BPREMiUM.ipa",
-      "localizedDescription": "•Premium Unlocked •Halide unleashes your iPhone’s camera, disable iPhone processing for natural photos, apply powerful film situations, access manual controls & more",
-      "iconURL": "https://delvek.net/img/halidemark.png",
-      "icon": "https://delvek.net/img/halidemark.png",
-      "tintColor": "0,255,0",
-      "size": 87814000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/halidemark1.png",
-        "https://delvek.net/img/!/halidemark2.png",
-        "https://delvek.net/img/!/halidemark3.png",
-        "https://delvek.net/img/!/halidemark4.png"
-      ],
-      "source": "https://delvek.net/repo.json"
-    },
-    {
       "name": "HermesEnabler",
       "bundleIdentifier": "com.example.HermesEnabler",
       "developerName": "pookjw",
@@ -5024,23 +4951,6 @@
         "https://delvek.net/img/!/tetherless4.png"
       ],
       "source": "https://delvek.net/repo.json"
-    },
-    {
-      "name": "ThePiano",
-      "bundleIdentifier": "com.impalastudios.pianofree",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2.26.5",
-      "versionDate": "2026-11-16",
-      "versionDescription": "Release 2.26.5",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/ThePiano_2.26.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/ThePiano_2.26.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Piano ٞ\n\n• Bundle ID: com.impalastudios.pianofree\n• Updated to: 2.26.5\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png",
-      "tintColor": "000000",
-      "size": 109228455,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
     },
     {
       "name": "Travel Town",
@@ -14043,23 +13953,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bbauman.Scripty.png",
       "tintColor": "000000",
       "size": 56046465,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Minutes",
-      "bundleIdentifier": "ventures.slam.minutes",
-      "developerName": "AppTesters IPA Repo",
-      "version": "1.12.9",
-      "versionDate": "2026-10-27",
-      "versionDescription": "Release 1.12.9",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/Minutes_1.12.9_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/Minutes_1.12.9_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png",
-      "tintColor": "000000",
-      "size": 31728978,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -29594,23 +29487,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bloombuilt.dayone-ios.png",
       "tintColor": "000000",
       "size": 84355929,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "DictionaryAir",
-      "bundleIdentifier": "co.airapps.dictionary",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2026.4.1",
-      "versionDate": "2026-04-27",
-      "versionDescription": "Release 2026.4.1",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-04-2026/DictionaryAir_2026.4.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-04-2026/DictionaryAir_2026.4.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.dictionary.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.dictionary.png",
-      "tintColor": "000000",
-      "size": 73342392,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -61531,9 +61407,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1795087361",
+      "identifier": "update-1795119636",
       "caption": "Updated with 5482 unique sideloadable apps",
-      "date": "2026-11-19T11:22:41Z",
+      "date": "2026-11-19T20:20:36Z",
       "tintColor": "#007AFF"
     }
   ]
