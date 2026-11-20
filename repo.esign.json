@@ -1,8 +1,25 @@
 {
   "name": "iOS Community Mega Repo (ESign)",
   "identifier": "com.kaiser62.ios-community-repo.esign",
-  "updated": "2026-11-20T11:10:53Z",
+  "updated": "2026-11-20T19:51:05Z",
   "apps": [
+    {
+      "name": "Lifesum",
+      "bundleIdentifier": "com.sillens.iShape",
+      "developerName": "Community Developer",
+      "version": "24.1.2",
+      "versionDate": "2026-11-21",
+      "versionDescription": "Release 24.1.2",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/Lifesum_24.1.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/Lifesum_24.1.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
+      "tintColor": "#007AFF",
+      "size": 133777976,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
     {
       "name": "Adhd Numo",
       "bundleIdentifier": "io.mindist.well",
@@ -206,6 +223,23 @@
       "size": 56097673,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "CoinID",
+      "bundleIdentifier": "com.aiby.wtcoin",
+      "developerName": "Community Developer",
+      "version": "1.30",
+      "versionDate": "2026-11-20",
+      "versionDescription": "Release 1.30",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2026/CoinID_1.30_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2026/CoinID_1.30_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png",
+      "tintColor": "#007AFF",
+      "size": 58638144,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "Colourtone",
@@ -718,6 +752,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "JavDB",
+      "bundleIdentifier": "com.javdb.com",
+      "developerName": "Community Developer",
+      "version": "1.9.40",
+      "versionDate": "2026-11-20",
+      "versionDescription": "Release 1.9.40",
+      "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/JavDB_1.9.40/JavDB_1.9.40_Nothing_%40repo.owo.network.ipa",
+      "down": "https://github.com/OwO-Network/Repo/releases/download/JavDB_1.9.40/JavDB_1.9.40_Nothing_%40repo.owo.network.ipa",
+      "localizedDescription": "Injected with Nothing",
+      "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.javdb.com.png",
+      "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.javdb.com.png",
+      "tintColor": "#007AFF",
+      "size": 14387781,
+      "screenshotURLs": [],
+      "source": "https://repo.owo.network/"
+    },
+    {
       "name": "Jerkgram",
       "bundleIdentifier": "com.jerkgram.ios",
       "developerName": "@ipa_dark",
@@ -1054,6 +1105,23 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxty.gofitness.png",
       "tintColor": "#007AFF",
       "size": 53516031,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
+      "name": "PSExpress",
+      "bundleIdentifier": "com.adobe.PSMobile",
+      "developerName": "Community Developer",
+      "version": "26.47.0",
+      "versionDate": "2026-11-20",
+      "versionDescription": "Release 26.47.0",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2026/PSExpress_26.47.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2026/PSExpress_26.47.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.PSMobile.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.PSMobile.png",
+      "tintColor": "#007AFF",
+      "size": 176315703,
       "screenshotURLs": [],
       "source": "https://repository.apptesters.org"
     },
@@ -1948,21 +2016,27 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "JavDB",
-      "bundleIdentifier": "com.javdb.com",
-      "developerName": "OwO Source",
-      "version": "1.9.39",
+      "name": "iTheosMaker",
+      "bundleIdentifier": "com.crazymind90.itheosmaker",
+      "developerName": "iTheosMaker",
+      "version": "1.5",
       "versionDate": "2026-11-19",
-      "versionDescription": "Release 1.9.39",
-      "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/JavDB_1.9.39/JavDB_1.9.39_Nothing_@repo.owo.network.ipa",
-      "down": "https://github.com/OwO-Network/Repo/releases/download/JavDB_1.9.39/JavDB_1.9.39_Nothing_@repo.owo.network.ipa",
-      "localizedDescription": "Injected with Nothing\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.javdb.com.png",
-      "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.javdb.com.png",
-      "tintColor": "000000",
-      "size": 14291119,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
+      "versionDescription": "•Need to be Jailbroken to Use •It's a simple app helps you to create, manage & build Theos projects with more than 10+ features",
+      "downloadURL": "https://st76471.ispot.cc/ipa/iTheosMaker_v1.5_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/iTheosMaker_v1.5_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•Need to be Jailbroken to Use •It's a simple app helps you to create, manage & build Theos projects with more than 10+ features",
+      "iconURL": "https://delvek.net/img/itheosmaker.png",
+      "icon": "https://delvek.net/img/itheosmaker.png",
+      "tintColor": "0,255,0",
+      "size": 1337000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/itheosmaker1.png",
+        "https://delvek.net/img/!/itheosmaker2.png",
+        "https://delvek.net/img/!/itheosmaker3.png",
+        "https://delvek.net/img/!/itheosmaker4.png",
+        "https://delvek.net/img/!/itheosmaker5.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "Lifestack",
@@ -2558,6 +2632,53 @@
       "size": 5997865,
       "screenshotURLs": [],
       "source": "https://wuxu1.github.io/wuxu-complete.json"
+    },
+    {
+      "name": "TheosGUi",
+      "bundleIdentifier": "com.iosbx.theosgui",
+      "developerName": "TheosGUi",
+      "version": "1.6.0",
+      "versionDate": "2026-11-19",
+      "versionDescription": "•Need to be Jailbroken to Use •Theos is a graphical development tool with an intuitive visual interface that allows you to create, manage, compile & install projects with a single click",
+      "downloadURL": "https://st76471.ispot.cc/ipa/TheosGUi_v1.6.0_%5BDELvEK%5D.tipa",
+      "down": "https://st76471.ispot.cc/ipa/TheosGUi_v1.6.0_%5BDELvEK%5D.tipa",
+      "localizedDescription": "•Need to be Jailbroken to Use •Theos is a graphical development tool with an intuitive visual interface that allows you to create, manage, compile & install projects with a single click",
+      "iconURL": "https://delvek.net/img/theosgui.png",
+      "icon": "https://delvek.net/img/theosgui.png",
+      "tintColor": "0,255,0",
+      "size": 37429000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/theosgui1.png",
+        "https://delvek.net/img/!/theosgui2.png",
+        "https://delvek.net/img/!/theosgui3.png",
+        "https://delvek.net/img/!/theosgui4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
+      "name": "TheosManager Pro",
+      "bundleIdentifier": "com.nanerasingh.theosmanager",
+      "developerName": "TheosManager",
+      "version": "9.6.1",
+      "versionDate": "2026-11-19",
+      "versionDescription": "•Premium Unlocked •Experience the power of artificial intelligence in song creation and music making •Mozart Ai, a cutting-edge app that uses advanced Ai technology to transform your photos into unique songs",
+      "downloadURL": "https://st76471.ispot.cc/ipa/TheosManager_v1.2_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/TheosManager_v1.2_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•Premium Unlocked •Experience the power of artificial intelligence in song creation and music making •Mozart Ai, a cutting-edge app that uses advanced Ai technology to transform your photos into unique songs",
+      "iconURL": "https://delvek.net/img/theosmanager.png",
+      "icon": "https://delvek.net/img/theosmanager.png",
+      "tintColor": "0,255,0",
+      "size": 1526000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/theosmanager1.png",
+        "https://delvek.net/img/!/theosmanager2.png",
+        "https://delvek.net/img/!/theosmanager3.png",
+        "https://delvek.net/img/!/theosmanager4.png",
+        "https://delvek.net/img/!/theosmanager5.png",
+        "https://delvek.net/img/!/theosmanager6.png",
+        "https://delvek.net/img/!/theosmanager7.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "Threads (ThreadsPulse)",
@@ -5215,23 +5336,6 @@
       "icon": "https://fastsign.dev/tg-icon/kamohacks/16983.png",
       "tintColor": "000000",
       "size": 308113734,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Lifesum",
-      "bundleIdentifier": "com.sillens.iShape",
-      "developerName": "AppTesters IPA Repo",
-      "version": "24.1.1",
-      "versionDate": "2026-11-16",
-      "versionDescription": "Release 24.1.1",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/Lifesum_24.1.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/Lifesum_24.1.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Lifesum: AI Calorie Counter\n\n• Bundle ID: com.sillens.iShape\n• Updated to: 24.1.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
-      "tintColor": "000000",
-      "size": 133772840,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -8950,23 +9054,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png",
       "tintColor": "000000",
       "size": 239255172,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "PS Express",
-      "bundleIdentifier": "com.adobe.PSMobile",
-      "developerName": "scholars lounge",
-      "version": "26.44.0",
-      "versionDate": "2026-11-13",
-      "versionDescription": "Release 26.44.0",
-      "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/85676-PS_Express_Premium_26.44.0_Jacks_Apps.ipa",
-      "down": "https://fastsign.dev/tg-ipa/scholars-lounge/85676-PS_Express_Premium_26.44.0_Jacks_Apps.ipa",
-      "localizedDescription": "Tweaks: PhotoshopExpressPremium\n\nscholars lounge | Photoshop Express 26.44.0\n\n- Photoshop Express 26.44.0\n- Info: Premium unlocked\n\nMade by @Jacks_Apps0510\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/85676.png",
-      "icon": "https://fastsign.dev/tg-icon/scholars-lounge/85676.png",
-      "tintColor": "000000",
-      "size": 161371830,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -24950,23 +25037,6 @@
         "https://delvek.net/img/!/blurvideo-3.png"
       ],
       "source": "https://delvek.net/repo.json"
-    },
-    {
-      "name": "CoinID",
-      "bundleIdentifier": "com.aiby.wtcoin",
-      "developerName": "AppTesters IPA Repo",
-      "version": "1.29",
-      "versionDate": "2026-08-29",
-      "versionDescription": "Release 1.29",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/CoinID_1.29_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/CoinID_1.29_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png",
-      "tintColor": "000000",
-      "size": 57891616,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
     },
     {
       "name": "Dog Scan - Breed Identifier",
