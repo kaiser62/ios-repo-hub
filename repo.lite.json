@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-21T10:49:41Z",
+  "updated": "2026-11-21T18:56:58Z",
   "apps": [
     {
       "name": "Procreate Pocket (Paid app)",
@@ -604,23 +604,6 @@
       "icon": "https://fastsign.dev/tg-icon/sa1y0miii/16435.png",
       "tintColor": "000000",
       "size": 24993934,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "JavDB",
-      "bundleIdentifier": "com.javdb.com",
-      "developerName": "OwO Source",
-      "version": "1.9.40",
-      "versionDate": "2026-11-21",
-      "versionDescription": "Release 1.9.40",
-      "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/JavDB_1.9.40/JavDB_1.9.40_Nothing_@repo.owo.network.ipa",
-      "down": "https://github.com/OwO-Network/Repo/releases/download/JavDB_1.9.40/JavDB_1.9.40_Nothing_@repo.owo.network.ipa",
-      "localizedDescription": "Injected with Nothing\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.javdb.com.png",
-      "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.javdb.com.png",
-      "tintColor": "000000",
-      "size": 14387781,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -1233,23 +1216,6 @@
       "icon": "https://fastsign.dev/tg-icon/sa1y0miii/16402.png",
       "tintColor": "000000",
       "size": 51824566,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "TendieMaker",
-      "bundleIdentifier": "com.mikevillarroel.tendiemaker",
-      "developerName": "MikeBuilds",
-      "version": "1.0.10",
-      "versionDate": "2026-11-21",
-      "versionDescription": "Release 1.0.10",
-      "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.10/TendieMaker-1.0.10.ipa",
-      "down": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.10/TendieMaker-1.0.10.ipa",
-      "localizedDescription": "Turn your videos into .tendie live wallpapers right on your iPhone. Includes a built-in gallery of community tendies. Ships as an unsigned IPA - sign it with BuildBox, ESign, SideStore or AltStore. Free with a donate button.\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/tendiemaker.png",
-      "icon": "https://mikevillarroel.github.io/mikebuilds-source/icons/tendiemaker.png",
-      "tintColor": "000000",
-      "size": 5997865,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -2473,6 +2439,23 @@
       "size": 127675720,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "TendieMaker",
+      "bundleIdentifier": "com.mikevillarroel.tendiemaker",
+      "developerName": "MikeBuilds",
+      "version": "1.0.11",
+      "versionDate": "2026-11-20",
+      "versionDescription": "• TendieMaker updated to v1.0.11",
+      "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.11/TendieMaker-1.0.11.ipa",
+      "down": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.11/TendieMaker-1.0.11.ipa",
+      "localizedDescription": "Turn your videos into .tendie live wallpapers right on your iPhone. Includes a built-in gallery of community tendies. Ships as an unsigned IPA - sign it with BuildBox, ESign, SideStore or AltStore. Free with a donate button.",
+      "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/tendiemaker.png",
+      "icon": "https://mikevillarroel.github.io/mikebuilds-source/icons/tendiemaker.png",
+      "tintColor": "fdac03",
+      "size": 6152820,
+      "screenshotURLs": [],
+      "source": "https://wuxu1.github.io/wuxu-complete.json"
     },
     {
       "name": "Tracked",
@@ -7111,6 +7094,27 @@
       "size": 179043437,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "WhatsApp+ (WGold)",
+      "bundleIdentifier": "net.whatsapp.WhatsApp-WGold",
+      "developerName": "WhatsApp+WGold",
+      "version": "26.44.74",
+      "versionDate": "2026-11-16",
+      "versionDescription": "•WGold Tweak v4.0 •Popular Messaging & Calling app •Super simple, reliable & private",
+      "downloadURL": "https://st76471.ispot.cc/ipa/WhatsApp_v26.44.74%2BWGold_v4.0.ipa",
+      "down": "https://st76471.ispot.cc/ipa/WhatsApp_v26.44.74%2BWGold_v4.0.ipa",
+      "localizedDescription": "•WGold Tweak v4.0 •Popular Messaging & Calling app •Super simple, reliable & private",
+      "iconURL": "https://delvek.net/img/whatsapp+.png",
+      "icon": "https://delvek.net/img/whatsapp+.png",
+      "tintColor": "0,255,0",
+      "size": 174696000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/whatsapp1.png",
+        "https://delvek.net/img/!/whatsapp2.png",
+        "https://delvek.net/img/!/whatsapp3.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "XeniOS (Xbox360 Emulator)",
@@ -61501,9 +61505,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1795258181",
+      "identifier": "update-1795287418",
       "caption": "Updated with 5489 unique sideloadable apps",
-      "date": "2026-11-21T10:49:41Z",
+      "date": "2026-11-21T18:56:58Z",
       "tintColor": "#007AFF"
     }
   ]
