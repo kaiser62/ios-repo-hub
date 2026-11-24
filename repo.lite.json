@@ -6,8 +6,48 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-24T13:27:45Z",
+  "updated": "2026-11-24T23:48:38Z",
   "apps": [
+    {
+      "name": "Lifesum",
+      "bundleIdentifier": "com.sillens.iShape",
+      "developerName": "Community Developer",
+      "version": "24.1.4",
+      "versionDate": "2026-11-25",
+      "versionDescription": "Release 24.1.4",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/Lifesum_24.1.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/Lifesum_24.1.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
+      "tintColor": "#007AFF",
+      "size": 133801846,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
+    {
+      "name": "NabzClan School",
+      "bundleIdentifier": "vip.nabzclan.school",
+      "developerName": "NabzClan",
+      "version": "1.0.0",
+      "versionDate": "2026-11-24T17:48:46-05:00",
+      "versionDescription": "Initial v1.0.0 release of NabzClan School for iPhone & iPad with full cloud sync, interactive labs, live scenarios, and leaderboard rankings.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/175/app_180_nabzclan_sidelix.ipa",
+      "down": "https://appstore.sidelix.vip/repos/download/175/app_180_nabzclan_sidelix.ipa",
+      "localizedDescription": "NabzClan School is an AI-powered learning studio built for the NabzClan community. Turn any topic, PDF textbook, or research area into interactive courses with live labs, consequence-based real-world scenarios, spaced-repetition mastery, and community leaderboards — all automatically synced with your NabzClan account across iPhone, iPad, Mac, Windows, and Web.\n\nLearn anything deeply right from your iPhone or iPad with NabzClan School.\n\nAI Course Studio: Generate structured courses from any topic or uploaded PDF/EPUB textbook.\n\nInteractive Labs & Scenarios: Practice through hands-on sandboxes and multi-turn real-world simulations.\n\nSmart Retention & Leaderboard: Built-in spaced repetition flashcards and live NabzClan community rankings.\n\nSeamless Sync & VIP Perks: Sign in with your NabzClan account once — your library stays synced everywhere and your NabzClan VIP tier unlocks automatically.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795559361_6807.webp",
+      "icon": "https://apps.nabzclan.vip/images/1795559361_6807.webp",
+      "tintColor": "#2ecc71",
+      "size": 7429231,
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17955593616951001.webp",
+        "https://apps.nabzclan.vip/screenshots/17955593617746002.webp",
+        "https://apps.nabzclan.vip/screenshots/17955593618481003.webp",
+        "https://apps.nabzclan.vip/screenshots/17955593619308004.webp",
+        "https://apps.nabzclan.vip/screenshots/17955613912846517.webp"
+      ],
+      "source": "https://apps.nabzclan.vip/repos/altstore.php"
+    },
     {
       "name": "Minecraft (Free Paid)",
       "bundleIdentifier": "com.mojang.minecraftpe",
@@ -32,6 +72,29 @@
         "https://apps.nabzclan.vip/screenshots/17955127137852161.webp"
       ],
       "source": "https://apps.nabzclan.vip/repos/altstore.php"
+    },
+    {
+      "name": "3106",
+      "bundleIdentifier": "com.qingtang.3106",
+      "developerName": "3106",
+      "version": "3.2.6",
+      "versionDate": "2026-11-24",
+      "versionDescription": "•A native iOS workspace for app-container files, portable patches, limited cleanup & PosterBoard wallpaper packages •Access AppGroup/AppData & more & no need to be jailbroken",
+      "downloadURL": "https://st76471.ispot.cc/ipa/3106_v3.2.6_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/3106_v3.2.6_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•A native iOS workspace for app-container files, portable patches, limited cleanup & PosterBoard wallpaper packages •Access AppGroup/AppData & more & no need to be jailbroken",
+      "iconURL": "https://delvek.net/img/3105.png",
+      "icon": "https://delvek.net/img/3105.png",
+      "tintColor": "0,255,0",
+      "size": 5756000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/3105-1.png",
+        "https://delvek.net/img/!/3105-2.png",
+        "https://delvek.net/img/!/3105-3.png",
+        "https://delvek.net/img/!/3105-4.png",
+        "https://delvek.net/img/!/3105-5.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "AI Art Generator",
@@ -66,6 +129,50 @@
       "size": 167735351,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Andarium",
+      "bundleIdentifier": "com.imxieyi.andarium",
+      "developerName": "Andarium",
+      "version": "1.1",
+      "versionDate": "2026-11-24",
+      "versionDescription": "•An Android emulator app built on the Kernarium runtime for iOS",
+      "downloadURL": "https://st76471.ispot.cc/ipa/Andarium_v1.1_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/Andarium_v1.1_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•An Android emulator app built on the Kernarium runtime for iOS",
+      "iconURL": "https://delvek.net/img/andarium.png",
+      "icon": "https://delvek.net/img/andarium.png",
+      "tintColor": "0,255,0",
+      "size": 1248672000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/andarium1.png",
+        "https://delvek.net/img/!/andarium2.png",
+        "https://delvek.net/img/!/andarium3.png",
+        "https://delvek.net/img/!/andarium4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
+      "name": "APP",
+      "bundleIdentifier": "com.pxx917144686.App",
+      "developerName": "APP",
+      "version": "2.7.5",
+      "versionDate": "2026-11-24",
+      "versionDescription": "•Premium Unlocked •Detect Ai-Generated text, images & videos instantly •Humanize content, check & remove plagiarism & verify originality",
+      "downloadURL": "https://st76471.ispot.cc/ipa/APP_v2.7.5_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/APP_v2.7.5_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•Premium Unlocked •Detect Ai-Generated text, images & videos instantly •Humanize content, check & remove plagiarism & verify originality",
+      "iconURL": "https://delvek.net/img/app.png",
+      "icon": "https://delvek.net/img/app.png",
+      "tintColor": "0,255,0",
+      "size": 51688000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/app1.png",
+        "https://delvek.net/img/!/app2.png",
+        "https://delvek.net/img/!/app3.png",
+        "https://delvek.net/img/!/app4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "ARMSX2",
@@ -134,6 +241,72 @@
       "size": 99201257,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Camlo - Animated LockScreen",
+      "bundleIdentifier": "com.kianuni.Camlo",
+      "developerName": "Camlo",
+      "version": "1.3.0",
+      "versionDate": "2026-11-24",
+      "versionDescription": "•Let your lockscreen really live, a bright screen is a painting, sliding to unlock instantly into a body",
+      "downloadURL": "https://st76471.ispot.cc/ipa/Camlo_v1.3.0_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/Camlo_v1.3.0_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•Let your lockscreen really live, a bright screen is a painting, sliding to unlock instantly into a body",
+      "iconURL": "https://delvek.net/img/camlo.png",
+      "icon": "https://delvek.net/img/camlo.png",
+      "tintColor": "0,255,0",
+      "size": 9531000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/camlo1.png",
+        "https://delvek.net/img/!/camlo2.png",
+        "https://delvek.net/img/!/camlo3.png",
+        "https://delvek.net/img/!/camlo4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
+      "name": "CarCanvas",
+      "bundleIdentifier": "com.carcanvas.wq",
+      "developerName": "CarCanvas",
+      "version": "2.1.0",
+      "versionDate": "2026-11-24",
+      "versionDescription": "•Replace CarPlay wallpapers with your own photos, with original-cache backup & restore",
+      "downloadURL": "https://st76471.ispot.cc/ipa/CarCanvas_v2.1.0_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/CarCanvas_v2.1.0_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•Replace CarPlay wallpapers with your own photos, with original-cache backup & restore",
+      "iconURL": "https://delvek.net/img/carcanvas.png",
+      "icon": "https://delvek.net/img/carcanvas.png",
+      "tintColor": "0,255,0",
+      "size": 1013000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/carcanvas1.png",
+        "https://delvek.net/img/!/carcanvas2.png",
+        "https://delvek.net/img/!/carcanvas3.png",
+        "https://delvek.net/img/!/carcanvas4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
+      "name": "CarWithin (CN)",
+      "bundleIdentifier": "com.hanlinzhou.SameDeviceCarPlayPoC",
+      "developerName": "CarWithin",
+      "version": "1.0.4",
+      "versionDate": "2026-11-24",
+      "versionDescription": "•CarWithin launches, displays & Touch-pass CarPlay on the same device •You can use CarPlay apps such as navigation & music directly on your iPhone, or you can send the screen to a car browser, tablet, computer, or another phone on the same local area network",
+      "downloadURL": "https://st76471.ispot.cc/ipa/CarWithin_v1.0.4_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/CarWithin_v1.0.4_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•CarWithin launches, displays & Touch-pass CarPlay on the same device •You can use CarPlay apps such as navigation & music directly on your iPhone, or you can send the screen to a car browser, tablet, computer, or another phone on the same local area network",
+      "iconURL": "https://delvek.net/img/carwithin.png",
+      "icon": "https://delvek.net/img/carwithin.png",
+      "tintColor": "0,255,0",
+      "size": 3012000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/carwithin1.png",
+        "https://delvek.net/img/!/carwithin2.png",
+        "https://delvek.net/img/!/carwithin3.png",
+        "https://delvek.net/img/!/carwithin4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "ClassDojo",
@@ -255,6 +428,28 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Egern",
+      "bundleIdentifier": "com.bytecrossing.Egern",
+      "developerName": "Egern",
+      "version": "2.22.0",
+      "versionDate": "2026-11-24",
+      "versionDescription": "•Egern is a feature-rich & powerful networking tool, specifically designed for proxying, intercepting & modifying network traffic",
+      "downloadURL": "https://st76471.ispot.cc/ipa/Egern_v2.22.0%2BPREMiUM_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/Egern_v2.22.0%2BPREMiUM_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•Egern is a feature-rich & powerful networking tool, specifically designed for proxying, intercepting & modifying network traffic",
+      "iconURL": "https://delvek.net/img/egern.png",
+      "icon": "https://delvek.net/img/egern.png",
+      "tintColor": "0,255,0",
+      "size": 31918000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/egern1.png",
+        "https://delvek.net/img/!/egern2.png",
+        "https://delvek.net/img/!/egern3.png",
+        "https://delvek.net/img/!/egern4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "Elevate",
       "bundleIdentifier": "com.elevateapp.elevate",
       "developerName": "@blatants",
@@ -372,6 +567,50 @@
       "size": 21519494,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Gear Browser - Ai Web Extension",
+      "bundleIdentifier": "com.gear.app",
+      "developerName": "GearBrowser",
+      "version": "7.5.1",
+      "versionDate": "2026-11-24",
+      "versionDescription": "•Premium Unlocked •Gear is a modern browser built with powerful web extensions, on-device intelligence, minimal design & strong privacy protection to provide an exclusive browsing experience & empower productivity",
+      "downloadURL": "https://st76471.ispot.cc/ipa/GearBrowser_v7.5.1%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/GearBrowser_v7.5.1%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •Gear is a modern browser built with powerful web extensions, on-device intelligence, minimal design & strong privacy protection to provide an exclusive browsing experience & empower productivity",
+      "iconURL": "https://delvek.net/img/gearbrowser.png",
+      "icon": "https://delvek.net/img/gearbrowser.png",
+      "tintColor": "0,255,0",
+      "size": 24122000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/gearbrowser1.png",
+        "https://delvek.net/img/!/gearbrowser2.png",
+        "https://delvek.net/img/!/gearbrowser3.png",
+        "https://delvek.net/img/!/gearbrowser4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
+      "name": "GitVault",
+      "bundleIdentifier": "com.yfgqh.gitvault",
+      "developerName": "GitVault",
+      "version": "2.5.1",
+      "versionDate": "2026-11-24",
+      "versionDescription": "•Premium Unlocked •GitVault syncs Markdown files from any GitHub repository & gives you a beautiful reading experience on the go •Perfect for developers, writers & knowledge workers who use Git-based note systems like Obsidian",
+      "downloadURL": "https://st76471.ispot.cc/ipa/GitVault_v2.5.1%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/GitVault_v2.5.1%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •GitVault syncs Markdown files from any GitHub repository & gives you a beautiful reading experience on the go •Perfect for developers, writers & knowledge workers who use Git-based note systems like Obsidian",
+      "iconURL": "https://delvek.net/img/gitvault.png",
+      "icon": "https://delvek.net/img/gitvault.png",
+      "tintColor": "0,255,0",
+      "size": 2411000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/gitvault1.png",
+        "https://delvek.net/img/!/gitvault2.png",
+        "https://delvek.net/img/!/gitvault3.png",
+        "https://delvek.net/img/!/gitvault4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "Glitché",
@@ -508,6 +747,28 @@
       "size": 49971723,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "iPadn Lite",
+      "bundleIdentifier": "app.local.iPadn-Lite",
+      "developerName": "iPadnLite",
+      "version": "2.3.4",
+      "versionDate": "2026-11-24",
+      "versionDescription": "•Search, download & install apps you have on your iPhone/iPad •Support iPhone, iPad, Apple TV & Mac apps, including historical versions & apps that have been removed",
+      "downloadURL": "https://st76471.ispot.cc/ipa/iPadn_v2.3.4-Lite_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/iPadn_v2.3.4-Lite_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•Search, download & install apps you have on your iPhone/iPad •Support iPhone, iPad, Apple TV & Mac apps, including historical versions & apps that have been removed",
+      "iconURL": "https://delvek.net/img/ipadn.png",
+      "icon": "https://delvek.net/img/ipadn.png",
+      "tintColor": "0,255,0",
+      "size": 49851000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/ipadn1.png",
+        "https://delvek.net/img/!/ipadn2.png",
+        "https://delvek.net/img/!/ipadn3.png",
+        "https://delvek.net/img/!/ipadn4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "Kazumi-Swift",
@@ -765,6 +1026,50 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Regitela",
+      "bundleIdentifier": "com.ichitaso.regitela",
+      "developerName": "Regitela",
+      "version": "1.0.6",
+      "versionDate": "2026-11-24",
+      "versionDescription": "•Install the .iPA with Impactor, Regitela does not work when installed with Sideloadly •Regitela is a file explorer & tweak toolbox for iOS, built on the worse_query sandbox escape",
+      "downloadURL": "https://st76471.ispot.cc/ipa/Regitela_v1.0.6_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/Regitela_v1.0.6_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•Install the .iPA with Impactor, Regitela does not work when installed with Sideloadly •Regitela is a file explorer & tweak toolbox for iOS, built on the worse_query sandbox escape",
+      "iconURL": "https://delvek.net/img/regitela.png",
+      "icon": "https://delvek.net/img/regitela.png",
+      "tintColor": "0,255,0",
+      "size": 3787000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/regitela1.png",
+        "https://delvek.net/img/!/regitela2.png",
+        "https://delvek.net/img/!/regitela3.png",
+        "https://delvek.net/img/!/regitela4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
+      "name": "RepoPocket (CN)",
+      "bundleIdentifier": "com.wm0104.RepoPocket",
+      "developerName": "RepoPocket",
+      "version": "1.2.4",
+      "versionDate": "2026-11-24",
+      "versionDescription": "•TrollStore version •Browse GitHub on iPhone/iPad, edit code & manage Git projects",
+      "downloadURL": "https://st76471.ispot.cc/ipa/RepoPocket_v1.2.4_%5BDELvEK%5D.tipa",
+      "down": "https://st76471.ispot.cc/ipa/RepoPocket_v1.2.4_%5BDELvEK%5D.tipa",
+      "localizedDescription": "•TrollStore version •Browse GitHub on iPhone/iPad, edit code & manage Git projects",
+      "iconURL": "https://delvek.net/img/repopocket.png",
+      "icon": "https://delvek.net/img/repopocket.png",
+      "tintColor": "0,255,0",
+      "size": 13274000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/repopocket1.png",
+        "https://delvek.net/img/!/repopocket2.png",
+        "https://delvek.net/img/!/repopocket3.png",
+        "https://delvek.net/img/!/repopocket4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
       "name": "Royal Match",
       "bundleIdentifier": "com.dreamgames.royalmatch",
       "developerName": "@kamohacks",
@@ -797,6 +1102,28 @@
       "size": 611936715,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "SideKite",
+      "bundleIdentifier": "com.zhosix.sidekite",
+      "developerName": "SideKite",
+      "version": "2.2.1",
+      "versionDate": "2026-11-24",
+      "versionDescription": "•A versatile, elegant & efficient signing tool for iOS •SideKite brings app discovery, Apple iD & certificate signing, installation, JiT, plugin management & file tools together on your iPhone/iPad",
+      "downloadURL": "https://st76471.ispot.cc/ipa/SideKite_v2.2.1_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/SideKite_v2.2.1_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•A versatile, elegant & efficient signing tool for iOS •SideKite brings app discovery, Apple iD & certificate signing, installation, JiT, plugin management & file tools together on your iPhone/iPad",
+      "iconURL": "https://delvek.net/img/sidekite.png",
+      "icon": "https://delvek.net/img/sidekite.png",
+      "tintColor": "0,255,0",
+      "size": 41050000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/sidekite1.png",
+        "https://delvek.net/img/!/sidekite2.png",
+        "https://delvek.net/img/!/sidekite3.png",
+        "https://delvek.net/img/!/sidekite4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "Simply Draw",
@@ -984,6 +1311,50 @@
       "size": 100030347,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Tetherless (iOS17.4-18)",
+      "bundleIdentifier": "com.ipaside.tetherless",
+      "developerName": "Tetherless",
+      "version": "1.2.5",
+      "versionDate": "2026-11-24",
+      "versionDescription": "•Version for iOS17.4 to iOS18 •Sign & install apps right on your iPhone/iPad, no Mac, no PC, no cable & no jailbreak needed •Everything happens on the device in your hand",
+      "downloadURL": "https://st76471.ispot.cc/ipa/Tetherless_v1.2.5-%28iOS17.4-18%29.ipa",
+      "down": "https://st76471.ispot.cc/ipa/Tetherless_v1.2.5-%28iOS17.4-18%29.ipa",
+      "localizedDescription": "•Version for iOS17.4 to iOS18 •Sign & install apps right on your iPhone/iPad, no Mac, no PC, no cable & no jailbreak needed •Everything happens on the device in your hand",
+      "iconURL": "https://delvek.net/img/tetherless.png",
+      "icon": "https://delvek.net/img/tetherless.png",
+      "tintColor": "0,255,0",
+      "size": 7181000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/tetherless1.png",
+        "https://delvek.net/img/!/tetherless2.png",
+        "https://delvek.net/img/!/tetherless3.png",
+        "https://delvek.net/img/!/tetherless4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
+      "name": "Tetherless (iOS26-27)",
+      "bundleIdentifier": "com.ipaside.tetherless+",
+      "developerName": "Tetherless",
+      "version": "1.2.5",
+      "versionDate": "2026-11-24",
+      "versionDescription": "•Version for iOS26 to iOS27 •Sign & install apps right on your iPhone/iPad, no Mac, no PC, no cable & no jailbreak needed •Everything happens on the device in your hand",
+      "downloadURL": "https://st76471.ispot.cc/ipa/Tetherless_v1.2.5-%28iOS26-27%29.ipa",
+      "down": "https://st76471.ispot.cc/ipa/Tetherless_v1.2.5-%28iOS26-27%29.ipa",
+      "localizedDescription": "•Version for iOS26 to iOS27 •Sign & install apps right on your iPhone/iPad, no Mac, no PC, no cable & no jailbreak needed •Everything happens on the device in your hand",
+      "iconURL": "https://delvek.net/img/tetherless.png",
+      "icon": "https://delvek.net/img/tetherless.png",
+      "tintColor": "0,255,0",
+      "size": 7176000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/tetherless1.png",
+        "https://delvek.net/img/!/tetherless2.png",
+        "https://delvek.net/img/!/tetherless3.png",
+        "https://delvek.net/img/!/tetherless4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "The Weather",
@@ -1247,6 +1618,71 @@
       "size": 182678837,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "WQ Files",
+      "bundleIdentifier": "cz.kolbi.wqfiles",
+      "developerName": "WQFiles",
+      "version": "0.9.20",
+      "versionDate": "2026-11-24",
+      "versionDescription": "•WQ Files is a file browser, app data manager & cache cleaner for iOS26 to iOS27 •It reaches other apps & system containers with no jailbreak & no kernel exploit",
+      "downloadURL": "https://st76471.ispot.cc/ipa/WQFiles_v0.9.20_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/WQFiles_v0.9.20_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•WQ Files is a file browser, app data manager & cache cleaner for iOS26 to iOS27 •It reaches other apps & system containers with no jailbreak & no kernel exploit",
+      "iconURL": "https://delvek.net/img/wqfiles.png",
+      "icon": "https://delvek.net/img/wqfiles.png",
+      "tintColor": "0,255,0",
+      "size": 2202000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/wqfiles1.png",
+        "https://delvek.net/img/!/wqfiles2.png",
+        "https://delvek.net/img/!/wqfiles3.png",
+        "https://delvek.net/img/!/wqfiles4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
+      "name": "WQ Manager",
+      "bundleIdentifier": "mumu.pduola.WQManager",
+      "developerName": "WQManager",
+      "version": "0.5.0",
+      "versionDate": "2026-11-24",
+      "versionDescription": "•An open-source iOS app data manager, backup tool & per-app cache cleaner for iOS26+ •No jailbreak required",
+      "downloadURL": "https://st76471.ispot.cc/ipa/WQManager_v0.5.0_%5BDELvEK%5D.ipa",
+      "down": "https://st76471.ispot.cc/ipa/WQManager_v0.5.0_%5BDELvEK%5D.ipa",
+      "localizedDescription": "•An open-source iOS app data manager, backup tool & per-app cache cleaner for iOS26+ •No jailbreak required",
+      "iconURL": "https://delvek.net/img/wqmanager.png",
+      "icon": "https://delvek.net/img/wqmanager.png",
+      "tintColor": "0,255,0",
+      "size": 955000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/wqmanager1.png",
+        "https://delvek.net/img/!/wqmanager2.png",
+        "https://delvek.net/img/!/wqmanager3.png",
+        "https://delvek.net/img/!/wqmanager4.png"
+      ],
+      "source": "https://delvek.net/repo.json"
+    },
+    {
+      "name": "YouTube+",
+      "bundleIdentifier": "com.google.ios.youtube+",
+      "developerName": "YouTube+",
+      "version": "21.46.3",
+      "versionDate": "2026-11-24",
+      "versionDescription": "•Premium Unlocked •YTPlus Tweak Injected •Background Play •No Ads •PiP •Downloads",
+      "downloadURL": "https://st76471.ispot.cc/ipa/YouTube_v21.46.3-YTPlus%2BPREMiUM.ipa",
+      "down": "https://st76471.ispot.cc/ipa/YouTube_v21.46.3-YTPlus%2BPREMiUM.ipa",
+      "localizedDescription": "•Premium Unlocked •YTPlus Tweak Injected •Background Play •No Ads •PiP •Downloads",
+      "iconURL": "https://delvek.net/img/youtube+.png",
+      "icon": "https://delvek.net/img/youtube+.png",
+      "tintColor": "0,255,0",
+      "size": 145772000,
+      "screenshotURLs": [
+        "https://delvek.net/img/!/youtube1.jpg",
+        "https://delvek.net/img/!/youtube2.jpg",
+        "https://delvek.net/img/!/youtube3.jpg"
+      ],
+      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "YTPlus/YTLite Cracked (6.0) - IPAVault - Patched",
@@ -2503,23 +2939,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Lifesum",
-      "bundleIdentifier": "com.sillens.iShape",
-      "developerName": "AppTesters IPA Repo",
-      "version": "24.1.3",
-      "versionDate": "2026-11-23",
-      "versionDescription": "Release 24.1.3",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Lifesum_24.1.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Lifesum_24.1.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
-      "tintColor": "000000",
-      "size": 133776943,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Linga",
       "bundleIdentifier": "io.linga",
       "developerName": "@Sa1y0miii",
@@ -2822,23 +3241,6 @@
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
       "tintColor": "000000",
       "size": 185858031,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "WQ Files",
-      "bundleIdentifier": "cz.kolbi.wqfiles",
-      "developerName": "kolbicz",
-      "version": "0.9.20",
-      "versionDate": "2026-11-23",
-      "versionDescription": "Release 0.9.20",
-      "downloadURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.9.20/WQFiles.ipa",
-      "down": "https://github.com/kolbicz/WQFiles/releases/download/v0.9.20/WQFiles.ipa",
-      "localizedDescription": "File browser, app data manager and cache cleaner for iOS 26 and 27, built on the worse_query sandbox technique. Browse other apps' containers, edit plists, hex and SQLite databases, and back up, restore or clear app data without a jailbreak or kernel exploit.\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQFiles/icon.png",
-      "icon": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQFiles/icon.png",
-      "tintColor": "000000",
-      "size": 2199929,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -4087,31 +4489,6 @@
       "source": "https://apps.nabzclan.vip/repos/altstore.php"
     },
     {
-      "name": "Rest (Hacked)",
-      "bundleIdentifier": "com.evolve.helm",
-      "developerName": "NabzClan",
-      "version": "3.211.0",
-      "versionDate": "2026-11-22T17:23:53-05:00",
-      "versionDescription": "Tweak: Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/repos/download/73/app_73_nabzclan_sidelix.ipa",
-      "down": "https://appstore.sidelix.vip/repos/download/73/app_73_nabzclan_sidelix.ipa",
-      "localizedDescription": "Hack feature: Subscription Unlocked\n\nAbout Rest\n\nTrouble falling asleep or staying asleep? Rest is a personalized AI sleep program that helps you build lasting changes through daily education, coaching and support. Built with leading sleep experts from institutions like UCSF, and rated five stars by more than 2,000 people on the App Store.\n\nThrough daily conversations and your sleep log, Rest learns about your patterns, routines and challenges, and remembers what you share. Your AI coach guides you through a structured program grounded in sleep science, adapting the education, practical steps and support to your progress.\n\nIn our real-world study of 318 users who completed eight weeks, participants cut their time to fall asleep by 52% and time awake during the night by 49%, on average. Sleep efficiency rose from 75% to 88% on average.\n\nWHAT REST USERS SAY\n\n\"I've been struggling with sleep since my 30s and it's the first time I'm getting a really good, consistent sleep.\"\n\n— June C., 60s\n\n\"I didn't know I could sleep this well.\"\n\n— Kim B., 50s\n\nFREE WITH REST\n\n* Sleep assessment: answer a few questions about how you sleep and get your starting picture.\n\n* Sleep log: record last night in under a minute, or let Apple Watch and Apple Health fill it in for you.\n\n* Sleep metrics and trends: time to fall asleep, time awake at night, sleep efficiency and more, night by night and week by week.\n\n* Share with your clinician: generate a private link so your clinician can follow your sleep data between visits or review it with you when you see them.\n\n* Sleep sounds and stories to help you unwind.\n\nREST PREMIUM\n\nEverything in Free, plus:\n\n* Daily personalized coaching: understand your sleep, work through challenges and turn what you learn into practical changes with your AI coach.\n\n* A plan that adapts: a personalized sleep schedule and practical daily steps, adjusted as you progress.\n\n* Support that builds over time: your coach remembers your history and follows your progress, so each conversation builds on the last. Talk by voice or text, with support available 24/7.\n\n* Wind-down support: bedtime routines, Sleep Now tools and nighttime playlists with a sleep timer and loop.\n\n* Sleep science lessons surfaced when they're relevant to your week.\n\nTHE SCIENCE BEHIND REST\n\nRest combines principles of CBT-I (cognitive behavioral therapy for insomnia), circadian biology and neuroscience to help you understand your sleep and put lasting behavioral changes into practice.\n\nBUILT BY A TEAM YOU CAN TRUST\n\nFeatured by Apple, Fox and Fast Company. Backed by Y Combinator and Floodgate, and part of Stanford-StartX. Our team has built consumer products with over 100 million installs.\n\nRest does not diagnose or treat any medical condition and is not a substitute for medical care. If you take sleep medication, talk to your prescriber before making changes.\n\nSUBSCRIPTION\n\nRest Premium is an auto-renewing monthly subscription: $29.99 for your first month, then $49.99 per month. Prices are for United States customers; pricing in other countries may vary and charges may be converted to your local currency.\n\nPayment is charged to your Apple Account at confirmation of purchase. The subscription renews automatically unless auto-renew is turned o...",
-      "iconURL": "https://apps.nabzclan.vip/images/1795386232_6654.webp",
-      "icon": "https://apps.nabzclan.vip/images/1795386232_6654.webp",
-      "tintColor": "#2ecc71",
-      "size": 130458605,
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17953862326921021.webp",
-        "https://apps.nabzclan.vip/screenshots/17953862336140968.webp",
-        "https://apps.nabzclan.vip/screenshots/17953862332752476.webp",
-        "https://apps.nabzclan.vip/screenshots/17953862337197344.webp",
-        "https://apps.nabzclan.vip/screenshots/17953862331759681.webp",
-        "https://apps.nabzclan.vip/screenshots/17953862331998800.webp",
-        "https://apps.nabzclan.vip/screenshots/17953862339665244.webp"
-      ],
-      "source": "https://apps.nabzclan.vip/repos/altstore.php"
-    },
-    {
       "name": "VisualMind (Hacked)",
       "bundleIdentifier": "com.asanarebel.visualgpt",
       "developerName": "NabzClan",
@@ -4523,31 +4900,6 @@
         "https://apps.nabzclan.vip/screenshots/17953687269395417.webp",
         "https://apps.nabzclan.vip/screenshots/17953687265820235.webp",
         "https://apps.nabzclan.vip/screenshots/17953687268894262.webp"
-      ],
-      "source": "https://apps.nabzclan.vip/repos/altstore.php"
-    },
-    {
-      "name": "Lyfta (Hacked)",
-      "bundleIdentifier": "com.lyftaios",
-      "developerName": "NabzClan",
-      "version": "1.169",
-      "versionDate": "2026-11-22T12:31:21-05:00",
-      "versionDescription": "Tweak: Premium Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/repos/download/56/app_56_nabzclan_sidelix.ipa",
-      "down": "https://appstore.sidelix.vip/repos/download/56/app_56_nabzclan_sidelix.ipa",
-      "localizedDescription": "Hack feature: Premium Unlocked\n\nAbout Lyfta\n\nJoin over 5 million gym-goers getting stronger with Lyfta.\n\nTrack your workouts and create unlimited routines for free, with no ads. See your progress, challenge yourself and make every session count.\n\nLOG EVERY SET. MAKE EVERY WORKOUT COUNT.\n\nSee your previous weights and reps while you train. Record each set without losing focus, then use your workout history to guide what comes next.\n\n• Track sets, reps, weight, RPE and notes\n\n• Log weight lifting workouts with barbells, dumbbells or machines\n\n• Organize supersets, warm-ups, drop sets and failure sets\n\n• Stay on track between sets with automatic rest timers\n\n• Add custom exercises to match the way you train\n\nYOUR WORKOUT PLAN, READY WHEN YOU ARE\n\nWalk into the gym knowing what to do. Choose a ready-made program or build your own gym workout routine around your goals, schedule and equipment.\n\nFollow a push pull legs routine, organize an upper/lower split or create a full body workout plan. Customize exercises, sets and reps, then return to your saved routine for your next session.\n\nTRAIN WITH CONFIDENCE\n\nExplore 5,000+ exercises with video demonstrations and search by muscle group or equipment. Build your bodybuilding routine or find an alternative exercise when equipment is busy, so you can keep your workout moving.\n\nSEE YOUR HARD WORK ADD UP\n\nTrack personal records and see how your weights, reps and training volume change over time. Compare sessions, explore strength graphs and check your estimated one-rep max.\n\nMake progressive overload easier to follow: use your previous performance as a starting point and work toward another rep, a little more weight or your next personal best.\n\nNEW TO STRENGTH TRAINING?\n\nStart with a beginner-friendly gym routine and learn each movement with exercise videos. Keep your workouts organized and track your progress as you get more comfortable lifting.\n\nTraining at home? Create dumbbell workouts or bodyweight sessions around the equipment you have.\n\nMORE REASONS TO KEEP SHOWING UP\n\nFollow friends, share workouts and celebrate personal records together. Monthly challenges, streaks and milestones help you stay connected to your training.\n\nChoose a public or private profile to control what you share.\n\nCONNECT YOUR TRAINING\n\nLog workouts with Apple Watch, sync with Apple Health and share completed sessions to Strava. Access your training faster with widgets and shortcuts.\n\nGO FURTHER WITH LYFTA PREMIUM\n\n• Train smarter with advanced workout insights\n\n• See your all-time progress\n\n• Follow expert workout programs\n\nDownload Lyfta and start building on your progress, one workout at a time.\n\nLyfta offers optional Premium subscriptions that renew automatically unless canceled. Prices are shown before purchase. Manage or cancel subscriptions in your Apple Account settings.\n\nPrivacy Policy: https://www.lyfta.app/privacy\n\nTerms of Service: https://www.lyfta.app/terms",
-      "iconURL": "https://apps.nabzclan.vip/images/1795368681_2334.webp",
-      "icon": "https://apps.nabzclan.vip/images/1795368681_2334.webp",
-      "tintColor": "#2ecc71",
-      "size": 74447728,
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17953686811534769.webp",
-        "https://apps.nabzclan.vip/screenshots/17953686813248412.webp",
-        "https://apps.nabzclan.vip/screenshots/17953686813031795.webp",
-        "https://apps.nabzclan.vip/screenshots/17953686816102060.webp",
-        "https://apps.nabzclan.vip/screenshots/17953686814934592.webp",
-        "https://apps.nabzclan.vip/screenshots/17953686816599761.webp",
-        "https://apps.nabzclan.vip/screenshots/17953686815853769.webp"
       ],
       "source": "https://apps.nabzclan.vip/repos/altstore.php"
     },
@@ -5843,23 +6195,6 @@
     },
     {
       "name": "Wallpapers",
-      "bundleIdentifier": "com.apalonapps.wallpaperspys",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2.8.3",
-      "versionDate": "2026-11-22",
-      "versionDescription": "Release 2.8.3",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/Wallpapers_2.8.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/Wallpapers_2.8.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wallpaperspys.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wallpaperspys.png",
-      "tintColor": "000000",
-      "size": 37610720,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Wallpapers",
       "bundleIdentifier": "com.ispazio.Wallpapers-Central",
       "developerName": "@blatants",
       "version": "2.8.3",
@@ -6133,23 +6468,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png",
       "tintColor": "000000",
       "size": 58638144,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Crsel",
-      "bundleIdentifier": "com.frameoneapps.Crsel",
-      "developerName": "AppTesters IPA Repo",
-      "version": "1.6.7",
-      "versionDate": "2026-11-21",
-      "versionDescription": "Release 1.6.7",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/Crsel_1.6.7_Pro_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/Crsel_1.6.7_Pro_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Pro\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
-      "tintColor": "000000",
-      "size": 116742791,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -6800,23 +7118,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "VlogNow",
-      "bundleIdentifier": "com.frontrow.vlog",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2.26.0",
-      "versionDate": "2026-11-21",
-      "versionDescription": "Release 2.26.0",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/VlogNow_2.26.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/VlogNow_2.26.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | VN: Photo & Video Editor\n\n• Bundle ID: com.frontrow.vlog\n• Updated to: 2.26.0\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
-      "tintColor": "000000",
-      "size": 508112634,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "wpsoffice",
       "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
       "developerName": "AppTesters IPA Repo",
@@ -7378,23 +7679,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "ProCCD",
-      "bundleIdentifier": "com.yengshine.proccd",
-      "developerName": "AppTesters IPA Repo",
-      "version": "7.2",
-      "versionDate": "2026-11-20",
-      "versionDescription": "Release 7.2",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2026/ProCCD_7.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2026/ProCCD_7.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | ProCCD - Digital Film Camera\n\n• Bundle ID: com.yengshine.proccd\n• Updated to: 7.2.0\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png",
-      "tintColor": "000000",
-      "size": 253884588,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Riverside",
       "bundleIdentifier": "RVS-Riverside.fm",
       "developerName": "@riftysIPAlibrary",
@@ -7544,23 +7828,6 @@
       "icon": "https://fastsign.dev/tg-icon/sa1y0miii/16363.png",
       "tintColor": "000000",
       "size": 204036492,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "WQManager",
-      "bundleIdentifier": "mumu.pduola.WQManager",
-      "developerName": "hseons",
-      "version": "0.5",
-      "versionDate": "2026-11-20",
-      "versionDescription": "Release 0.5",
-      "downloadURL": "https://github.com/hseons/WQManager/releases/download/v0.5.0/WQManager-0.5-build1-unsigned.ipa",
-      "down": "https://github.com/hseons/WQManager/releases/download/v0.5.0/WQManager-0.5-build1-unsigned.ipa",
-      "localizedDescription": "一款面向 iOS 26+ 的开源 App 数据管理、备份与单应用缓存清理工具，无需越狱。可把某个 App 的数据目录打包成可校验的备份并写回原 App，也能只清理所选 App 的缓存与临时目录。所有数据都在本机处理，没有账号、没有统计、没有云端。\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQManager/icon.png",
-      "icon": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQManager/icon.png",
-      "tintColor": "000000",
-      "size": 952702,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -7996,23 +8263,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Phocus",
-      "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
-      "developerName": "AppTesters IPA Repo",
-      "version": "3.6.1",
-      "versionDate": "2026-11-19",
-      "versionDescription": "Release 3.6.1",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Phocus_3.6.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Phocus_3.6.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Phocus: DSLR Portrait Camera\n\n• Bundle ID: com.ahmetserdarkaradeniz.Phocus\n• Updated to: 3.6.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nClick Skip on purchase page.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png",
-      "tintColor": "000000",
-      "size": 250257068,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Piano Star",
       "bundleIdentifier": "com.piano.star.tiles.music.circles.dancing.beat.magic",
       "developerName": "@riftysIPAlibrary",
@@ -8298,23 +8548,6 @@
       "icon": "https://fastsign.dev/tg-icon/sa1y0miii/16279.png",
       "tintColor": "000000",
       "size": 87689563,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "WaterAir",
-      "bundleIdentifier": "co.airapps.waterreminder",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2026.11.3",
-      "versionDate": "2026-11-19",
-      "versionDescription": "Release 2026.11.3",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/WaterAir_2026.11.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/WaterAir_2026.11.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "@blatants | Water Air: Water Tracker\n\n• Bundle ID: co.airapps.waterreminder\n• Updated to: 2026.11.3\n• Minimum iOS: 16.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png",
-      "tintColor": "000000",
-      "size": 67974408,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -8632,23 +8865,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "QrCode",
-      "bundleIdentifier": "com.internet-rocks.codescanner",
-      "developerName": "AppTesters IPA Repo",
-      "version": "2026.11.5",
-      "versionDate": "2026-11-18",
-      "versionDescription": "Release 2026.11.5",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/QrCode_2026.11.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/QrCode_2026.11.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Tweaks: QRAir\n\n@blatants | QR Code Reader，Barcode Scanner\n\n• Bundle ID: com.internet-rocks.codescanner\n• Updated to: 2026.11.5\n• Minimum iOS: 16.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
-      "tintColor": "000000",
-      "size": 60929997,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Reddit",
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "@ipavault",
@@ -8917,23 +9133,6 @@
       "icon": "https://fastsign.dev/tg-icon/sa1y0miii/16237.png",
       "tintColor": "000000",
       "size": 166890462,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Notability",
-      "bundleIdentifier": "com.gingerlabs.Notability",
-      "developerName": "@blatants",
-      "version": "16.14",
-      "versionDate": "2026-11-17",
-      "versionDescription": "Release 16.14",
-      "downloadURL": "https://fastsign.dev/d/8132kbnw/blatants/13553-Notability_AI_Notes_&_Study_v16_14_Pro_Unlocked_blatant_Patched.ipa",
-      "down": "https://fastsign.dev/d/8132kbnw/blatants/13553-Notability_AI_Notes_&_Study_v16_14_Pro_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "@blatants | Notability: AI Notes & Study\n\n• Bundle ID: com.gingerlabs.Notability\n• Updated to: 16.14\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Pro Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://fastsign.dev/tg-icon/blatants/13553.png",
-      "icon": "https://fastsign.dev/tg-icon/blatants/13553.png",
-      "tintColor": "000000",
-      "size": 302185244,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -12624,23 +12823,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8885.png",
       "tintColor": "000000",
       "size": 75410975,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "VideoStudio",
-      "bundleIdentifier": "videoeditor.app",
-      "developerName": "AppTesters IPA Repo",
-      "version": "3.21.6",
-      "versionDate": "2026-11-10",
-      "versionDescription": "Release 3.21.6",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/VideoStudio_3.21.6_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/VideoStudio_3.21.6_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png",
-      "tintColor": "000000",
-      "size": 152948776,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -16479,27 +16661,6 @@
       "size": 9347637,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "YouTube+",
-      "bundleIdentifier": "com.google.ios.youtube+",
-      "developerName": "YouTube+",
-      "version": "21.40.5",
-      "versionDate": "2026-10-14",
-      "versionDescription": "•Premium Unlocked •YTPlus Tweak Injected •Background Play •No Ads •PiP •Downloads",
-      "downloadURL": "https://st76471.ispot.cc/ipa/YouTube_v21.40.5-YTPlus%2BPREMiUM.ipa",
-      "down": "https://st76471.ispot.cc/ipa/YouTube_v21.40.5-YTPlus%2BPREMiUM.ipa",
-      "localizedDescription": "•Premium Unlocked •YTPlus Tweak Injected •Background Play •No Ads •PiP •Downloads",
-      "iconURL": "https://delvek.net/img/youtube+.png",
-      "icon": "https://delvek.net/img/youtube+.png",
-      "tintColor": "0,255,0",
-      "size": 159894000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/youtube1.jpg",
-        "https://delvek.net/img/!/youtube2.jpg",
-        "https://delvek.net/img/!/youtube3.jpg"
-      ],
-      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "Fonts",
@@ -21781,23 +21942,6 @@
       "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ginsu.WDBFontOverwrite.png",
       "tintColor": "000000",
       "size": 5348316,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "GTA Kurdish",
-      "bundleIdentifier": "com.rockstargames.gta3sahd",
-      "developerName": "KaraStore",
-      "version": "2.2",
-      "versionDate": "2026-07-07",
-      "versionDescription": "Release 2.2",
-      "downloadURL": "https://archive.org/download/gta-kurdish-2.2-1721599938/GTA%20Kurdish_2.2_1721599938.ipa",
-      "down": "https://archive.org/download/gta-kurdish-2.2-1721599938/GTA%20Kurdish_2.2_1721599938.ipa",
-      "localizedDescription": "Tweaks: AhmadCloud\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/GTA.kurdish.jpeg",
-      "icon": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/GTA.kurdish.jpeg",
-      "tintColor": "000000",
-      "size": 2147483647,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -27544,23 +27688,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "APTVPro",
-      "bundleIdentifier": "com.kimen.aptvpro",
-      "developerName": "macked",
-      "version": "1.3.2",
-      "versionDate": "2026-05-23",
-      "versionDescription": "Release 1.3.2",
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/APTVPro/APTVPro-1.3.2.ipa",
-      "down": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/APTVPro/APTVPro-1.3.2.ipa",
-      "localizedDescription": "IPTV streamer that also supports IPv6 to access to China mainland channels. Setup with URLs from GitHub. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: ⚠️\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.kimen.aptvpro.png",
-      "icon": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.kimen.aptvpro.png",
-      "tintColor": "000000",
-      "size": 35980895,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "AsTools",
       "bundleIdentifier": "rn.notes.best",
       "developerName": "N/A",
@@ -27880,23 +28007,6 @@
       "icon": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.geranium.png",
       "tintColor": "000000",
       "size": 6100320,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "ibisPaintPrime",
-      "bundleIdentifier": "jp.ne.ibis.ibisPaintX",
-      "developerName": "zxcvbn’s tweaked IPAs",
-      "version": "12.1.2",
-      "versionDate": "2026-05-23",
-      "versionDescription": "Release 12.1.2",
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ibisPaintPrime/ibisPaintPrime-12.1.2.ipa",
-      "down": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ibisPaintPrime/ibisPaintPrime-12.1.2.ipa",
-      "localizedDescription": "Popular drawing app. A user requested it so here it is.\nLast updated: 06-28-2024\nStatus: ✅\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/jp.ne.ibis.ibisPaintX.png",
-      "icon": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/jp.ne.ibis.ibisPaintX.png",
-      "tintColor": "000000",
-      "size": 41099193,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -28373,23 +28483,6 @@
       "icon": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/co.windyapp.Windy.watchkitapp.png",
       "tintColor": "000000",
       "size": 231431201,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "YukaPremium",
-      "bundleIdentifier": "yuca.scanner",
-      "developerName": "iOS Tutorials + App Cracks",
-      "version": "4.39",
-      "versionDate": "2026-05-23",
-      "versionDescription": "Release 4.39",
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/YukaPremium/YukaPremium-4.39.ipa",
-      "down": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/YukaPremium/YukaPremium-4.39.ipa",
-      "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 07-23-2024\nStatus: ✅ 👍 ⭐\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/yuca.scanner.png",
-      "icon": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/yuca.scanner.png",
-      "tintColor": "000000",
-      "size": 137085186,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -36975,7 +37068,8 @@
       "screenshotURLs": [
         "https://delvek.net/img/!/airtroller1.png",
         "https://delvek.net/img/!/airtroller2.png",
-        "https://delvek.net/img/!/airtroller3.png"
+        "https://delvek.net/img/!/airtroller3.png",
+        "https://delvek.net/img/!/airtroller4.png"
       ],
       "source": "https://delvek.net/repo.json"
     },
@@ -49950,6 +50044,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Delta Roblox",
+      "bundleIdentifier": "com.community.delta.roblox",
+      "developerName": "Karbin-Store",
+      "version": "2.654.464",
+      "versionDate": "2025-01-20",
+      "versionDescription": "Release 2.654.464",
+      "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/Delta.Roblox._2.654.464_1737270482.ipa",
+      "down": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/Delta.Roblox._2.654.464_1737270482.ipa",
+      "localizedDescription": "دێلتا - جێبەجێکار",
+      "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Roblox.png",
+      "icon": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Roblox.png",
+      "tintColor": "#007AFF",
+      "size": 177080000,
+      "screenshotURLs": [],
+      "source": "https://ittza7aa.com/repo.json"
+    },
+    {
       "name": "Dict Plus",
       "bundleIdentifier": "com.unknown.dictplus",
       "developerName": "Karbin-Store",
@@ -50594,6 +50705,23 @@
       "size": 161827044,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Fishdom",
+      "bundleIdentifier": "com.community.fishdom",
+      "developerName": "Karbin-Store",
+      "version": "8.6.4",
+      "versionDate": "2025-01-18",
+      "versionDescription": "Release 8.6.4",
+      "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Fishdom_8.6.4_.KaraStore.ipa",
+      "down": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Fishdom_8.6.4_.KaraStore.ipa",
+      "localizedDescription": "",
+      "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Fishdom.png",
+      "icon": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Fishdom.png",
+      "tintColor": "#007AFF",
+      "size": 154120000,
+      "screenshotURLs": [],
+      "source": "https://ittza7aa.com/repo.json"
     },
     {
       "name": "ID Photo Maker",
@@ -51992,6 +52120,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "iTorrent",
+      "bundleIdentifier": "com.community.itorrent",
+      "developerName": "Karbin-Store",
+      "version": "2.0.14",
+      "versionDate": "2025-01-09",
+      "versionDescription": "Release 2.0.14",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/iTorrent-2.0.14-1.ipa",
+      "down": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/iTorrent-2.0.14-1.ipa",
+      "localizedDescription": "تایبەتمەندی پڕایم کراوەتۆ ✅\n لابردنی ڕیکلام لە بەرنامەکە ✅",
+      "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/iTorrent.png",
+      "icon": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/iTorrent.png",
+      "tintColor": "#007AFF",
+      "size": 6710000,
+      "screenshotURLs": [],
+      "source": "https://ittza7aa.com/repo.json"
+    },
+    {
       "name": "Wizard Tower",
       "bundleIdentifier": "com.uldineogames.magic-swipe",
       "developerName": "ipaomtk.com",
@@ -52177,6 +52322,23 @@
       "size": 101242813,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Rosiecord",
+      "bundleIdentifier": "com.community.rosiecord",
+      "developerName": "Karbin-Store",
+      "version": "262.2",
+      "versionDate": "2025-01-08",
+      "versionDescription": "Release 262.2",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/Rosiecord-262.ipa",
+      "down": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/Rosiecord-262.ipa",
+      "localizedDescription": "Modification of the Discord application",
+      "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Rosiecord.png",
+      "icon": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Rosiecord.png",
+      "tintColor": "#007AFF",
+      "size": 96660000,
+      "screenshotURLs": [],
+      "source": "https://ittza7aa.com/repo.json"
     },
     {
       "name": "SpotC++",
@@ -52400,6 +52562,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "GTA: Kurdish",
+      "bundleIdentifier": "com.community.gta..kurdish",
+      "developerName": "Community Developer",
+      "version": "Last",
+      "versionDate": "2025-01-07",
+      "versionDescription": "Release Last",
+      "downloadURL": "https://github.com/ehmedjamil/repo/releases/download/repo/gtakurdish.ipa",
+      "down": "https://github.com/ehmedjamil/repo/releases/download/repo/gtakurdish.ipa",
+      "localizedDescription": "Pro Unlocked, Hacked Features",
+      "iconURL": "https://ittza7aa.com/aseets/icon/gtakurd.png",
+      "icon": "https://ittza7aa.com/aseets/icon/gtakurd.png",
+      "tintColor": "#007AFF",
+      "size": 0,
+      "screenshotURLs": [],
+      "source": "https://ittza7aa.com/repo.json"
+    },
+    {
       "name": "Guru Maps Pro",
       "bundleIdentifier": "com.unknown.gurumapspro",
       "developerName": "Karbin-Store",
@@ -52468,6 +52647,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Instagram++",
+      "bundleIdentifier": "com.community.instagram",
+      "developerName": "Community Developer",
+      "version": "Last",
+      "versionDate": "2025-01-07",
+      "versionDescription": "Release Last",
+      "downloadURL": "https://github.com/ehmedjamil/repo/releases/download/repo/instagram.ipa",
+      "down": "https://github.com/ehmedjamil/repo/releases/download/repo/instagram.ipa",
+      "localizedDescription": "New Update, Pro Unlocked, Hacked Features",
+      "iconURL": "https://ittza7aa.com/aseets/icon/instagram.png",
+      "icon": "https://ittza7aa.com/aseets/icon/instagram.png",
+      "tintColor": "#007AFF",
+      "size": 0,
+      "screenshotURLs": [],
+      "source": "https://ittza7aa.com/repo.json"
+    },
+    {
       "name": "Loon",
       "bundleIdentifier": "com.unknown.loon",
       "developerName": "Karbin-Store",
@@ -52519,6 +52715,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "PPSSPP Gold",
+      "bundleIdentifier": "com.community.ppsspp.gold",
+      "developerName": "Community Developer",
+      "version": "1.0",
+      "versionDate": "2025-01-07",
+      "versionDescription": "Release 1.0",
+      "downloadURL": "https://github.com/ehmedjamil/repo/releases/download/repo/PPSSPP.Gold.ipa",
+      "down": "https://github.com/ehmedjamil/repo/releases/download/repo/PPSSPP.Gold.ipa",
+      "localizedDescription": "New Update, Pro Unlocked, Hacked Features",
+      "iconURL": "https://ittza7aa.com/aseets/icon2/IMG_0167.PNG",
+      "icon": "https://ittza7aa.com/aseets/icon2/IMG_0167.PNG",
+      "tintColor": "#007AFF",
+      "size": 0,
+      "screenshotURLs": [],
+      "source": "https://ittza7aa.com/repo.json"
+    },
+    {
       "name": "ProShot",
       "bundleIdentifier": "com.unknown.proshot",
       "developerName": "Karbin-Store",
@@ -52534,6 +52747,23 @@
       "size": 14764679,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Roblox Delta",
+      "bundleIdentifier": "com.community.roblox.delta",
+      "developerName": "Community Developer",
+      "version": "Last",
+      "versionDate": "2025-01-07",
+      "versionDescription": "Release Last",
+      "downloadURL": "https://github.com/ehmedjamil/repo/releases/download/repo/roblox.ipa",
+      "down": "https://github.com/ehmedjamil/repo/releases/download/repo/roblox.ipa",
+      "localizedDescription": "New Update, Pro Unlocked, Hacked Features",
+      "iconURL": "https://ittza7aa.com/aseets/icon/roblox.webp",
+      "icon": "https://ittza7aa.com/aseets/icon/roblox.webp",
+      "tintColor": "#007AFF",
+      "size": 0,
+      "screenshotURLs": [],
+      "source": "https://ittza7aa.com/repo.json"
     },
     {
       "name": "Rush Knights",
@@ -52621,6 +52851,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Shadow Rocket",
+      "bundleIdentifier": "com.community.shadow.rocket",
+      "developerName": "Karbin-Store",
+      "version": "2.2.61",
+      "versionDate": "2025-01-07",
+      "versionDescription": "Release 2.2.61",
+      "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/ShadowRocket.2.2.61.ipa",
+      "down": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/ShadowRocket.2.2.61.ipa",
+      "localizedDescription": "Active Premium",
+      "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Shadowrocket.png",
+      "icon": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Shadowrocket.png",
+      "tintColor": "#007AFF",
+      "size": 17670000,
+      "screenshotURLs": [],
+      "source": "https://ittza7aa.com/repo.json"
+    },
+    {
       "name": "Shoof",
       "bundleIdentifier": "com.unknown.shoof",
       "developerName": "Karbin-Store",
@@ -52636,6 +52883,23 @@
       "size": 21909348,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Spotify++ Eevee",
+      "bundleIdentifier": "com.community.spotify...eevee",
+      "developerName": "Community Developer",
+      "version": "Last",
+      "versionDate": "2025-01-07",
+      "versionDescription": "Release Last",
+      "downloadURL": "https://github.com/ehmedjamil/repo/releases/download/repo/spotify.ipa",
+      "down": "https://github.com/ehmedjamil/repo/releases/download/repo/spotify.ipa",
+      "localizedDescription": "New Update, Pro Unlocked, Hacked Features",
+      "iconURL": "https://ittza7aa.com/aseets/icon/spotify.jpg",
+      "icon": "https://ittza7aa.com/aseets/icon/spotify.jpg",
+      "tintColor": "#007AFF",
+      "size": 0,
+      "screenshotURLs": [],
+      "source": "https://ittza7aa.com/repo.json"
     },
     {
       "name": "Subway Surf",
@@ -52723,6 +52987,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "TikTok++",
+      "bundleIdentifier": "com.community.tiktok",
+      "developerName": "Community Developer",
+      "version": "Last",
+      "versionDate": "2025-01-07",
+      "versionDescription": "Release Last",
+      "downloadURL": "https://github.com/ehmedjamil/repo/releases/download/repo/tiktok.ipa",
+      "down": "https://github.com/ehmedjamil/repo/releases/download/repo/tiktok.ipa",
+      "localizedDescription": "New Update, Pro Unlocked, Hacked Features",
+      "iconURL": "https://ittza7aa.com/aseets/icon/tiktok.png",
+      "icon": "https://ittza7aa.com/aseets/icon/tiktok.png",
+      "tintColor": "#007AFF",
+      "size": 0,
+      "screenshotURLs": [],
+      "source": "https://ittza7aa.com/repo.json"
+    },
+    {
       "name": "Youtify",
       "bundleIdentifier": "com.unknown.youtify",
       "developerName": "Karbin-Store",
@@ -52738,6 +53019,23 @@
       "size": 58979687,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "YouTube++",
+      "bundleIdentifier": "com.community.youtube",
+      "developerName": "Community Developer",
+      "version": "Last",
+      "versionDate": "2025-01-07",
+      "versionDescription": "Release Last",
+      "downloadURL": "https://github.com/ehmedjamil/repo/releases/download/repo/youtube.ipa",
+      "down": "https://github.com/ehmedjamil/repo/releases/download/repo/youtube.ipa",
+      "localizedDescription": "New Update, Pro Unlocked, Hacked Features",
+      "iconURL": "https://ittza7aa.com/aseets/icon/youtube.png",
+      "icon": "https://ittza7aa.com/aseets/icon/youtube.png",
+      "tintColor": "#007AFF",
+      "size": 0,
+      "screenshotURLs": [],
+      "source": "https://ittza7aa.com/repo.json"
     },
     {
       "name": "Apple Grapple",
@@ -54185,23 +54483,6 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
-      "name": "Fitness Coach",
-      "bundleIdentifier": "fitnessworkout.app",
-      "developerName": "ipaomtk.com",
-      "version": "2.13.2",
-      "versionDate": "2024-11-03",
-      "versionDescription": "Release 2.13.2",
-      "downloadURL": "https://file.ipaomtk.com/Fitness%20Coach/Fitness_Coach_Workout_Plan_IPAOMTK.com.ipa",
-      "down": "https://file.ipaomtk.com/Fitness%20Coach/Fitness_Coach_Workout_Plan_IPAOMTK.com.ipa",
-      "localizedDescription": "ipaomtk.com | Fitness Coach – Workout Plan IPA v2.12.25 is a comprehensive mobile application designed to be your personal trainer in your pocket. This user-friendly app offers customized workout routines tailored to individual fitness goals, whether you’re aiming to lose weight, build muscle, or improve overall health. With its extensive library of exercises, complete with video demonstrations […]\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Fitness-Coach-8211-Workout-Plan.webp",
-      "icon": "https://ipaomtk.com/wp-content/uploads/2024/11/Fitness-Coach-8211-Workout-Plan.webp",
-      "tintColor": "000000",
-      "size": 162544338,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "GRID Autosport",
       "bundleIdentifier": "com.feralinteractive.gridautosport-ios",
       "developerName": "ipaomtk.com",
@@ -55390,6 +55671,23 @@
       "size": 86186374,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "YouTube.MUCIC",
+      "bundleIdentifier": "com.community.youtube.mucic",
+      "developerName": "Karbin-Store",
+      "version": "7.24.2",
+      "versionDate": "2024-10-27",
+      "versionDescription": "Release 7.24.2",
+      "downloadURL": "https://github.com/karbin98/karbin-ipa/releases/download/karbin-ipa/Y-MUSIC.7.24.2.ipa",
+      "down": "https://github.com/karbin98/karbin-ipa/releases/download/karbin-ipa/Y-MUSIC.7.24.2.ipa",
+      "localizedDescription": "➜ Delete the original and then download PLUS                                                                          ➜ playback and download music and all the features work",
+      "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/YouTube.MUCIC.jpg",
+      "icon": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/YouTube.MUCIC.jpg",
+      "tintColor": "#007AFF",
+      "size": 70260000,
+      "screenshotURLs": [],
+      "source": "https://ittza7aa.com/repo.json"
     },
     {
       "name": "شعلة",
@@ -57792,6 +58090,23 @@
       "size": 127093384,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "GTA Kurdish",
+      "bundleIdentifier": "com.rockstargames.gta3sahd",
+      "developerName": "KaraStore",
+      "version": "2.2.17",
+      "versionDate": "2024-05-01",
+      "versionDescription": "Release 2.2.17",
+      "downloadURL": "https://archive.org/download/gta-kurdish-2.2-1721599938/GTA%20Kurdish_2.2_1721599938.ipa",
+      "down": "https://archive.org/download/gta-kurdish-2.2-1721599938/GTA%20Kurdish_2.2_1721599938.ipa",
+      "localizedDescription": "",
+      "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/GTA.kurdish.jpeg",
+      "icon": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/GTA.kurdish.jpeg",
+      "tintColor": "#007AFF",
+      "size": 300244174,
+      "screenshotURLs": [],
+      "source": "https://ittza7aa.com/repo.json"
     },
     {
       "name": "Modern Strike Online",
@@ -61945,6 +62260,23 @@
       "source": "https://fastsign.dev/repo.json"
     },
     {
+      "name": "Reels Maker for Instagram",
+      "bundleIdentifier": "com.community.reels.maker.for.instagram",
+      "developerName": "Karbin-Store",
+      "version": "1.17.0",
+      "versionDate": "2020-01-01",
+      "versionDescription": "Release 1.17.0",
+      "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/Reels.Maker.for.Instagram.1.17.0.ipa",
+      "down": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/Reels.Maker.for.Instagram.1.17.0.ipa",
+      "localizedDescription": "ئەپێک بۆ دەسکاریکردنی ڕیڵ لە ئینستاگرام",
+      "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Reels.Maker.for.Instagram.png",
+      "icon": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Reels.Maker.for.Instagram.png",
+      "tintColor": "#007AFF",
+      "size": 118080000,
+      "screenshotURLs": [],
+      "source": "https://ittza7aa.com/repo.json"
+    },
+    {
       "name": "WolframAlpha",
       "bundleIdentifier": "com.wolframalpha.wolframalpha",
       "developerName": "Wolfram Group, LLC",
@@ -62083,9 +62415,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1795526865",
-      "caption": "Updated with 5149 unique sideloadable apps",
-      "date": "2026-11-24T13:27:45Z",
+      "identifier": "update-1795564118",
+      "caption": "Updated with 5533 unique sideloadable apps",
+      "date": "2026-11-24T23:48:38Z",
       "tintColor": "#007AFF"
     }
   ]
