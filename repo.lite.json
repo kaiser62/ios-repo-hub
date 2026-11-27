@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/icon.png",
   "website": "https://kaiser62.github.io/ios-repo-hub/",
   "version": "2.0.0",
-  "updated": "2026-11-27T11:56:18Z",
+  "updated": "2026-11-27T21:02:24Z",
   "apps": [
     {
       "name": "Piano Star - Tap Your Music (Hacked)",
@@ -1624,23 +1624,6 @@
       "icon": "https://fastsign.dev/tg-icon/kamohacks/17024.png",
       "tintColor": "000000",
       "size": 370024622,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Fitia",
-      "bundleIdentifier": "com.ulisesolave.Fitia",
-      "developerName": "@blatants",
-      "version": "25.4",
-      "versionDate": "2026-11-26",
-      "versionDescription": "Release 25.4",
-      "downloadURL": "https://fastsign.dev/d/5ryem9u3/blatants/13743-Fitia_Calorie_Counter_&_Diet_v25_4_Subscription_Unlocked_blatant.ipa",
-      "down": "https://fastsign.dev/d/5ryem9u3/blatants/13743-Fitia_Calorie_Counter_&_Diet_v25_4_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "@blatants | Fitia: Calorie Counter & Diet\n\n• Bundle ID: com.ulisesolave.Fitia\n• Updated to: 25.4\n• Minimum iOS: 16\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>The app may take up to a minute to sign in, so be patient.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://fastsign.dev/tg-icon/blatants/13743.png",
-      "icon": "https://fastsign.dev/tg-icon/blatants/13743.png",
-      "tintColor": "000000",
-      "size": 122781657,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -7771,6 +7754,30 @@
       "source": "https://apps.nabzclan.vip/repos/altstore.php"
     },
     {
+      "name": "Pinterest (Hacked)",
+      "bundleIdentifier": "pinterest",
+      "developerName": "NabzClan",
+      "version": "14.45",
+      "versionDate": "2026-11-22T11:04:00-05:00",
+      "versionDescription": "Tweak: Download Videos",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/51/app_51_nabzclan_sidelix.ipa",
+      "down": "https://appstore.sidelix.vip/repos/download/51/app_51_nabzclan_sidelix.ipa",
+      "localizedDescription": "Hack feature: Download Videos\n\nAbout Pinterest\n\nPinterest is a place of endless possibilities. You can:\n\n- Discover everyday inspiration\n\n- Shop styles you love\n\n- Try and learn something new\n\nCreate boards, save Pins and make collages of all your inspiration. Unlock billions of ideas, from fashion tips and easy recipes to DIY projects and fresh ways to redo your space. Creating the life you love?\n\nIt's Possible.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795363440_4840.webp",
+      "icon": "https://apps.nabzclan.vip/images/1795363440_4840.webp",
+      "tintColor": "#2ecc71",
+      "size": 167606439,
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17953634404964306.webp",
+        "https://apps.nabzclan.vip/screenshots/17953634406812765.webp",
+        "https://apps.nabzclan.vip/screenshots/17953634409170579.webp",
+        "https://apps.nabzclan.vip/screenshots/17953634406886397.webp",
+        "https://apps.nabzclan.vip/screenshots/17953634405596251.webp",
+        "https://apps.nabzclan.vip/screenshots/17953634406989641.webp"
+      ],
+      "source": "https://apps.nabzclan.vip/repos/altstore.php"
+    },
+    {
       "name": "Speak4Me (Hacked)",
       "bundleIdentifier": "com.yadux.Speak4Me",
       "developerName": "NabzClan",
@@ -9402,23 +9409,6 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/9093.png",
       "tintColor": "000000",
       "size": 32763339,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Nutri Coach",
-      "bundleIdentifier": "nutrition.coach",
-      "developerName": "@blatants",
-      "version": "2.8.1",
-      "versionDate": "2026-11-20",
-      "versionDescription": "Release 2.8.1",
-      "downloadURL": "https://fastsign.dev/d/5ryem9u3/blatants/13630-Nutrition_Coach_AI_Food_Diary_v2_8_0_Subscription_Unlocked_blatant.ipa",
-      "down": "https://fastsign.dev/d/5ryem9u3/blatants/13630-Nutrition_Coach_AI_Food_Diary_v2_8_0_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "@blatants | Nutrition Coach: AI Food Diary\n\n• Bundle ID: nutrition.coach\n• Updated to: 2.8.0\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://fastsign.dev/tg-icon/blatants/13630.png",
-      "icon": "https://fastsign.dev/tg-icon/blatants/13630.png",
-      "tintColor": "000000",
-      "size": 78087446,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -61463,9 +61453,9 @@
   "news": [
     {
       "title": "Repo Auto-Updated",
-      "identifier": "update-1795780578",
+      "identifier": "update-1795813344",
       "caption": "Updated with 5491 unique sideloadable apps",
-      "date": "2026-11-27T11:56:18Z",
+      "date": "2026-11-27T21:02:24Z",
       "tintColor": "#007AFF"
     }
   ]

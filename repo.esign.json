@@ -1,8 +1,25 @@
 {
   "name": "iOS Community Mega Repo (ESign)",
   "identifier": "com.kaiser62.ios-community-repo.esign",
-  "updated": "2026-11-27T11:56:18Z",
+  "updated": "2026-11-27T21:02:24Z",
   "apps": [
+    {
+      "name": "Fitia",
+      "bundleIdentifier": "com.ulisesolave.Fitia",
+      "developerName": "Community Developer",
+      "version": "25.4.1",
+      "versionDate": "2026-11-28",
+      "versionDescription": "Release 25.4.1",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Fitia_25.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Fitia_25.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
+      "tintColor": "#007AFF",
+      "size": 123028093,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
+    },
     {
       "name": "Piano Star - Tap Your Music (Hacked)",
       "bundleIdentifier": "com.piano.star.tiles.music.circles.dancing.beat.magic",
@@ -238,6 +255,23 @@
       "size": 87429279,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "Dropshare",
+      "bundleIdentifier": "net.mkswap.Dropshare-iOS",
+      "developerName": "Community Developer",
+      "version": "3.69",
+      "versionDate": "2026-11-27",
+      "versionDescription": "Release 3.69",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/Dropshare_3.69_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/Dropshare_3.69_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png",
+      "tintColor": "#007AFF",
+      "size": 74583218,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "Dtd Playlist",
@@ -612,6 +646,23 @@
       "size": 266040647,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
+    },
+    {
+      "name": "NutriCoach",
+      "bundleIdentifier": "nutrition.coach",
+      "developerName": "Community Developer",
+      "version": "2.8.2",
+      "versionDate": "2026-11-27",
+      "versionDescription": "Release 2.8.2",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/NutriCoach_2.8.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/NutriCoach_2.8.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
+      "tintColor": "#007AFF",
+      "size": 77981932,
+      "screenshotURLs": [],
+      "source": "https://repository.apptesters.org"
     },
     {
       "name": "Open",
@@ -1687,23 +1738,6 @@
       "icon": "https://fastsign.dev/tg-icon/kamohacks/17024.png",
       "tintColor": "000000",
       "size": 370024622,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "Fitia",
-      "bundleIdentifier": "com.ulisesolave.Fitia",
-      "developerName": "@blatants",
-      "version": "25.4",
-      "versionDate": "2026-11-26",
-      "versionDescription": "Release 25.4",
-      "downloadURL": "https://fastsign.dev/d/5ryem9u3/blatants/13743-Fitia_Calorie_Counter_&_Diet_v25_4_Subscription_Unlocked_blatant.ipa",
-      "down": "https://fastsign.dev/d/5ryem9u3/blatants/13743-Fitia_Calorie_Counter_&_Diet_v25_4_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "@blatants | Fitia: Calorie Counter & Diet\n\n• Bundle ID: com.ulisesolave.Fitia\n• Updated to: 25.4\n• Minimum iOS: 16\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n>The app may take up to a minute to sign in, so be patient.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://fastsign.dev/tg-icon/blatants/13743.png",
-      "icon": "https://fastsign.dev/tg-icon/blatants/13743.png",
-      "tintColor": "000000",
-      "size": 122781657,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
     },
@@ -9982,23 +10016,6 @@
       "source": "https://repo.owo.network/"
     },
     {
-      "name": "Nutri Coach",
-      "bundleIdentifier": "nutrition.coach",
-      "developerName": "@blatants",
-      "version": "2.8.1",
-      "versionDate": "2026-11-20",
-      "versionDescription": "Release 2.8.1",
-      "downloadURL": "https://fastsign.dev/d/5ryem9u3/blatants/13630-Nutrition_Coach_AI_Food_Diary_v2_8_0_Subscription_Unlocked_blatant.ipa",
-      "down": "https://fastsign.dev/d/5ryem9u3/blatants/13630-Nutrition_Coach_AI_Food_Diary_v2_8_0_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "@blatants | Nutrition Coach: AI Food Diary\n\n• Bundle ID: nutrition.coach\n• Updated to: 2.8.0\n• Minimum iOS: 17.6\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://fastsign.dev/tg-icon/blatants/13630.png",
-      "icon": "https://fastsign.dev/tg-icon/blatants/13630.png",
-      "tintColor": "000000",
-      "size": 78087446,
-      "screenshotURLs": [],
-      "source": "https://fastsign.dev/repo.json"
-    },
-    {
       "name": "Oniri",
       "bundleIdentifier": "com.sublime.capture",
       "developerName": "@riftysIPAlibrary",
@@ -11815,27 +11832,6 @@
       "size": 883720192,
       "screenshotURLs": [],
       "source": "https://fastsign.dev/repo.json"
-    },
-    {
-      "name": "DropShare - File Sharing Tool",
-      "bundleIdentifier": "net.mkswap.Dropshare-iOS",
-      "developerName": "DropShare",
-      "version": "3.68",
-      "versionDate": "2026-11-16",
-      "versionDescription": "•Premium Unlocked •Dropshare is an easy-to-use app for iOS that allows you to quickly share single or multiple files via download URL •Upload files, photos, videos, anything from your iOS device to your trusted storage provider",
-      "downloadURL": "https://st76471.ispot.cc/ipa/DropshareFileSharingTool_v3.68%2BPREMiUM.ipa",
-      "down": "https://st76471.ispot.cc/ipa/DropshareFileSharingTool_v3.68%2BPREMiUM.ipa",
-      "localizedDescription": "•Premium Unlocked •Dropshare is an easy-to-use app for iOS that allows you to quickly share single or multiple files via download URL •Upload files, photos, videos, anything from your iOS device to your trusted storage provider",
-      "iconURL": "https://delvek.net/img/dropshare.png",
-      "icon": "https://delvek.net/img/dropshare.png",
-      "tintColor": "0,255,0",
-      "size": 74216000,
-      "screenshotURLs": [
-        "https://delvek.net/img/!/dropshare1.png",
-        "https://delvek.net/img/!/dropshare2.png",
-        "https://delvek.net/img/!/dropshare3.png"
-      ],
-      "source": "https://delvek.net/repo.json"
     },
     {
       "name": "DUST: Dirt ATV Offroad Racing",
